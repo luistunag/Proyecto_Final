@@ -1,0 +1,8 @@
+# Ignorar archivos de respaldo
+*~
+
+# Ignorar notebook ejemplo
+dw_v.ipynb
+
+# Ignorar archivo config.cfg
+config.cfg
