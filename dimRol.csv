@@ -1,0 +1,6 @@
+idrol,nombre,descripcion,estado
+10001,Administrador,Este rol tiene acceso completo al sistema y puede realizar todas las acciones.,1
+10002,Moderador,Este rol tiene permisos para moderar contenido y realizar acciones específicas.,1
+10003,Usuario Estándar,Este rol tiene acceso limitado y puede realizar acciones básicas en el sistema.,1
+10004,Soporte Técnico,Este rol proporciona soporte técnico y tiene acceso a herramientas de diagnóstico.,1
+10005,Invitado,Este rol tiene acceso limitado y solo puede ver contenido público.,1
