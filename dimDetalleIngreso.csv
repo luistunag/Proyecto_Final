@@ -1,0 +1,1001 @@
+iddetalle_ingreso,cantidad,precio,tipo_comprobante,serie_comprobante,num_comprobante,fecha,impuesto,total,estado_ingreso,idcategoria,codigo,nombre,precio_venta,stock,descripcion,imagen,estado_articulo
+554592256,72,77.63,Factura,6632666,,2017-10-24,53.38,5620.75,Reembolsada,32684,hz7oe5cS,Lámpara Opportunity,77.63,71,Artículo Lámpara Opportunity en venta en tienda,fig_928,1
+178550127,24,77.63,Factura,6632666,,2017-10-24,53.38,5620.75,Reembolsada,32684,hz7oe5cS,Lámpara Opportunity,77.63,71,Artículo Lámpara Opportunity en venta en tienda,fig_928,1
+629893402,17,77.63,Factura,2982792,,2015-07-16,90.14,96204.87,Cancelada,32684,hz7oe5cS,Lámpara Opportunity,77.63,71,Artículo Lámpara Opportunity en venta en tienda,fig_928,1
+774386291,81,77.63,Factura,8349831,,2023-10-13,60.65,91260.35,En proceso,32684,hz7oe5cS,Lámpara Opportunity,77.63,71,Artículo Lámpara Opportunity en venta en tienda,fig_928,1
+126244576,90,541.54,Factura,6632666,,2017-10-24,53.38,5620.75,Reembolsada,40879,pc6KNQxt,Maquillaje Option,541.54,45,Artículo Maquillaje Option en venta en tienda,fig_653,1
+363057153,52,748.48,Factura,5952512,,2015-10-18,38.38,77033.56,Pendiente,82016,KexYkYNz,Tenis Watch,748.48,95,Artículo Tenis Watch en venta en tienda,fig_529,1
+694703559,0,748.48,Factura,3186779,,2021-08-21,13.48,27328.77,Pendiente,82016,KexYkYNz,Tenis Watch,748.48,95,Artículo Tenis Watch en venta en tienda,fig_529,1
+468495634,19,474.88,Factura,5952512,,2015-10-18,38.38,77033.56,Pendiente,32684,gAbxBdUC,Alfombra End,474.88,72,Artículo Alfombra End en venta en tienda,fig_922,1
+348558666,39,136.75,Factura,5952512,,2015-10-18,38.38,77033.56,Pendiente,97521,BjZqKJEI,Reloj Best,136.75,8,Artículo Reloj Best en venta en tienda,fig_176,1
+519204581,35,136.75,Recibo,1271662,,2021-06-27,27.42,47659.69,Reembolsada,97521,BjZqKJEI,Reloj Best,136.75,8,Artículo Reloj Best en venta en tienda,fig_176,1
+390481494,67,136.75,Factura,9522894,,2022-03-25,15.66,58468.85,Pendiente,97521,BjZqKJEI,Reloj Best,136.75,8,Artículo Reloj Best en venta en tienda,fig_176,1
+541448192,10,836.43,Recibo,9547052,,2023-02-11,16.35,52582.52,Completada,32684,tOXi2FC3,Mesa Child,836.43,27,Artículo Mesa Child en venta en tienda,fig_784,1
+318966458,26,836.43,Recibo,8258580,,2016-08-12,3.4,16624.64,Cancelada,32684,tOXi2FC3,Mesa Child,836.43,27,Artículo Mesa Child en venta en tienda,fig_784,1
+725399810,28,871.41,Recibo,9547052,,2023-02-11,16.35,52582.52,Completada,39582,T5v8iJOq,Pantalón Experience,871.41,22,Artículo Pantalón Experience en venta en tienda,fig_496,1
+206996011,22,435.14,Recibo,9547052,,2023-02-11,16.35,52582.52,Completada,32684,Bl8W9d5U,Jarrón Later,435.14,61,Artículo Jarrón Later en venta en tienda,fig_595,1
+626491394,77,47.44,Nota de Crédito,8268989,,2023-04-22,57.62,62737.54,En proceso,82016,MAR9UsQH,Zapatos Cause,47.44,85,Artículo Zapatos Cause en venta en tienda,fig_8,1
+755480581,90,716.25,Nota de Débito,8330081,,2017-03-25,17.96,34313.83,Reembolsada,32684,Ik2H4GEd,Mesa Wind,716.25,92,Artículo Mesa Wind en venta en tienda,fig_783,1
+704884965,57,716.25,Nota de Crédito,8319041,,2021-06-23,14.31,50239.23,Completada,32684,Ik2H4GEd,Mesa Wind,716.25,92,Artículo Mesa Wind en venta en tienda,fig_783,1
+242227621,86,716.25,Nota de Débito,1319730,,2017-08-23,80.55,22128.93,En proceso,32684,Ik2H4GEd,Mesa Wind,716.25,92,Artículo Mesa Wind en venta en tienda,fig_783,1
+403229135,53,716.25,Recibo,6545489,,2023-01-15,45.68,83817.26,Completada,32684,Ik2H4GEd,Mesa Wind,716.25,92,Artículo Mesa Wind en venta en tienda,fig_783,1
+939911396,91,686.83,Nota de Débito,8330081,,2017-03-25,17.96,34313.83,Reembolsada,40879,GCMShiHP,Maquillaje Growth,686.83,29,Artículo Maquillaje Growth en venta en tienda,fig_191,1
+109174796,29,56.98,Nota de Débito,9062572,,2015-05-20,10.49,82223.49,Cancelada,82016,Q4E0yUAK,Tenis Official,56.98,46,Artículo Tenis Official en venta en tienda,fig_856,1
+601720781,99,56.98,Ticket de Venta,2203454,,2015-09-28,3.72,13665.17,Completada,82016,Q4E0yUAK,Tenis Official,56.98,46,Artículo Tenis Official en venta en tienda,fig_856,1
+638740083,2,586.03,Nota de Débito,9062572,,2015-05-20,10.49,82223.49,Cancelada,97521,aaDqYNLX,Anillo Present,586.03,98,Artículo Anillo Present en venta en tienda,fig_574,1
+241528301,44,586.03,Ticket de Venta,7155714,,2018-01-10,72.35,7016.36,Pendiente,97521,aaDqYNLX,Anillo Present,586.03,98,Artículo Anillo Present en venta en tienda,fig_574,1
+761679885,10,310.94,Nota de Crédito,1687456,,2022-02-25,50.82,64263.58,Pendiente,32684,iv6kswXl,Cuadro Policy,310.94,14,Artículo Cuadro Policy en venta en tienda,fig_187,1
+595026557,50,860.07,Nota de Crédito,1687456,,2022-02-25,50.82,64263.58,Pendiente,75369,tCHyz0c7,Teléfono Chair,860.07,45,Artículo Teléfono Chair en venta en tienda,fig_567,1
+244829799,11,860.07,Ticket de Venta,3636270,,2016-05-12,1.94,58266.69,Reembolsada,75369,tCHyz0c7,Teléfono Chair,860.07,45,Artículo Teléfono Chair en venta en tienda,fig_567,1
+222061199,64,860.07,Nota de Débito,1855065,,2018-10-25,12.15,13817.94,Completada,75369,tCHyz0c7,Teléfono Chair,860.07,45,Artículo Teléfono Chair en venta en tienda,fig_567,1
+200384250,18,860.07,Recibo,4535907,,2015-07-10,49.43,74051.2,Pendiente,75369,tCHyz0c7,Teléfono Chair,860.07,45,Artículo Teléfono Chair en venta en tienda,fig_567,1
+527194124,73,275.48,Nota de Crédito,6394224,,2018-08-24,35.85,9657.37,En proceso,39582,6Cenyhh1,Camisa Garden,275.48,77,Artículo Camisa Garden en venta en tienda,fig_226,1
+595879581,94,61.18,Nota de Crédito,6394224,,2018-08-24,35.85,9657.37,En proceso,39582,G8P05DKH,Pantalón Teacher,61.18,76,Artículo Pantalón Teacher en venta en tienda,fig_43,1
+100702223,84,837.4,Nota de Crédito,5474891,,2019-05-02,57.46,2192.09,Cancelada,32684,d7i5apxW,Cama Adult,837.4,52,Artículo Cama Adult en venta en tienda,fig_349,1
+454856447,79,837.4,Boleta de Venta,7237993,,2018-09-19,56.15,43519.25,Completada,32684,d7i5apxW,Cama Adult,837.4,52,Artículo Cama Adult en venta en tienda,fig_349,1
+797561670,25,442.44,Nota de Crédito,5474891,,2019-05-02,57.46,2192.09,Cancelada,39582,tVaZRceu,Vestido Each,442.44,42,Artículo Vestido Each en venta en tienda,fig_849,1
+605311821,47,219.79,Nota de Crédito,5474891,,2019-05-02,57.46,2192.09,Cancelada,13750,qPNvQ15R,Libro Quite,219.79,37,Artículo Libro Quite en venta en tienda,fig_143,1
+416383169,87,219.79,Nota de Débito,3480178,,2017-03-26,22.38,32448.67,En proceso,13750,qPNvQ15R,Libro Quite,219.79,37,Artículo Libro Quite en venta en tienda,fig_143,1
+559366160,45,798.64,Factura,8170437,,2018-06-12,11.46,66511.11,Reembolsada,13750,aqRD87PW,Libro Response,798.64,63,Artículo Libro Response en venta en tienda,fig_880,1
+828389497,53,71.76,Factura,8170437,,2018-06-12,11.46,66511.11,Reembolsada,51470,HzZoOV3S,Pelota Able,71.76,23,Artículo Pelota Able en venta en tienda,fig_426,1
+227430033,42,83.67,Factura,8170437,,2018-06-12,11.46,66511.11,Reembolsada,32684,at1KRK4I,Silla Worker,83.67,40,Artículo Silla Worker en venta en tienda,fig_851,1
+978133008,96,772.99,Recibo,9641619,,2023-04-26,4.88,16300.15,En proceso,64218,oTg8ziaC,Galleta Baby,772.99,86,Artículo Galleta Baby en venta en tienda,fig_967,1
+226597163,43,700.11,Recibo,9641619,,2023-04-26,4.88,16300.15,En proceso,75369,HqyRdpvT,Teléfono Mission,700.11,9,Artículo Teléfono Mission en venta en tienda,fig_67,1
+794637635,8,700.11,Nota de Crédito,3196084,,2015-07-27,20.47,15333.57,Reembolsada,75369,HqyRdpvT,Teléfono Mission,700.11,9,Artículo Teléfono Mission en venta en tienda,fig_67,1
+210193993,20,270.73,Recibo,9641619,,2023-04-26,4.88,16300.15,En proceso,39582,TxtPBRaM,Vestido Health,270.73,46,Artículo Vestido Health en venta en tienda,fig_597,1
+231959046,98,270.73,Recibo,1420701,,2020-03-03,88.53,10523.53,En proceso,39582,TxtPBRaM,Vestido Health,270.73,46,Artículo Vestido Health en venta en tienda,fig_597,1
+215486495,44,587.48,Nota de Débito,2280584,,2020-07-14,37.77,73250.51,Reembolsada,82016,MPjuoE0I,Tenis Government,587.48,65,Artículo Tenis Government en venta en tienda,fig_696,1
+617383625,53,587.48,Recibo,3148000,,2016-01-12,63.08,48738.18,Cancelada,82016,MPjuoE0I,Tenis Government,587.48,65,Artículo Tenis Government en venta en tienda,fig_696,1
+689459232,42,301.71,Nota de Débito,9215818,,2022-12-13,60.2,93813.96,En proceso,75369,uhBRJajQ,Tableta Law,301.71,88,Artículo Tableta Law en venta en tienda,fig_342,1
+218982482,36,623.46,Nota de Débito,9215818,,2022-12-13,60.2,93813.96,En proceso,40879,FCIw56WB,Perfume Car,623.46,14,Artículo Perfume Car en venta en tienda,fig_278,1
+393495750,60,623.46,Nota de Crédito,3966174,,2016-05-11,98.55,55027.49,Reembolsada,40879,FCIw56WB,Perfume Car,623.46,14,Artículo Perfume Car en venta en tienda,fig_278,1
+109483635,95,623.46,Ticket de Venta,2557469,,2019-04-15,9.63,62842.48,Cancelada,40879,FCIw56WB,Perfume Car,623.46,14,Artículo Perfume Car en venta en tienda,fig_278,1
+951115811,82,483.37,Factura,5765531,,2016-12-09,17.83,58925.5,Completada,39582,xxJIqB30,Vestido Degree,483.37,96,Artículo Vestido Degree en venta en tienda,fig_674,1
+834082852,55,66.03,Factura,1027608,,2021-09-07,12.77,68652.5,Cancelada,75369,P4qfH6tJ,Teléfono Of,66.03,31,Artículo Teléfono Of en venta en tienda,fig_611,1
+556736471,4,66.03,Ticket de Venta,1881186,,2021-07-08,29.24,76396.1,Completada,75369,P4qfH6tJ,Teléfono Of,66.03,31,Artículo Teléfono Of en venta en tienda,fig_611,1
+577938681,57,66.03,Recibo,2850179,,2020-11-02,33.44,11634.59,Cancelada,75369,P4qfH6tJ,Teléfono Of,66.03,31,Artículo Teléfono Of en venta en tienda,fig_611,1
+287428646,23,152.64,Factura,5308932,,2022-11-06,27.7,33777.2,Reembolsada,51470,VLseDaMW,Juguete Effect,152.64,52,Artículo Juguete Effect en venta en tienda,fig_745,1
+798548508,38,152.64,Boleta de Venta,1587946,,2015-07-26,8.81,89171.08,Pendiente,51470,VLseDaMW,Juguete Effect,152.64,52,Artículo Juguete Effect en venta en tienda,fig_745,1
+174291506,27,152.64,Nota de Crédito,8774524,,2015-01-10,83.29,57993.31,Reembolsada,51470,VLseDaMW,Juguete Effect,152.64,52,Artículo Juguete Effect en venta en tienda,fig_745,1
+874887208,24,660.41,Factura,4391966,,2015-07-10,14.8,85885.25,Pendiente,97521,VA4Kgh7z,Reloj Yet,660.41,31,Artículo Reloj Yet en venta en tienda,fig_590,1
+753890888,98,660.41,Ticket de Venta,2911463,,2017-07-11,31.73,90648.34,En proceso,97521,VA4Kgh7z,Reloj Yet,660.41,31,Artículo Reloj Yet en venta en tienda,fig_590,1
+315287593,47,478.54,Nota de Crédito,2578315,,2018-04-24,52.17,58245.4,Completada,13750,A1g06NDM,Libro Everything,478.54,15,Artículo Libro Everything en venta en tienda,fig_966,1
+815222512,10,478.54,Nota de Crédito,1853856,,2018-04-01,84.27,98477.32,Pendiente,13750,A1g06NDM,Libro Everything,478.54,15,Artículo Libro Everything en venta en tienda,fig_966,1
+409985120,13,198.89,Nota de Crédito,2578315,,2018-04-24,52.17,58245.4,Completada,39582,r65D59zV,Pantalón More,198.89,32,Artículo Pantalón More en venta en tienda,fig_376,1
+765298843,24,198.89,Nota de Débito,7311796,,2016-10-19,39.61,14802.14,Reembolsada,39582,r65D59zV,Pantalón More,198.89,32,Artículo Pantalón More en venta en tienda,fig_376,1
+355282124,69,198.89,Nota de Crédito,1172203,,2016-08-05,82.88,17243.82,Reembolsada,39582,r65D59zV,Pantalón More,198.89,32,Artículo Pantalón More en venta en tienda,fig_376,1
+828745769,21,237.82,Nota de Débito,7064582,,2016-07-18,8.95,28467.47,En proceso,13750,uZMu4EZQ,Libro Perhaps,237.82,14,Artículo Libro Perhaps en venta en tienda,fig_468,1
+547614428,64,36.64,Nota de Débito,7064582,,2016-07-18,8.95,28467.47,En proceso,13750,CHecRuWY,Libro Note,36.64,18,Artículo Libro Note en venta en tienda,fig_30,1
+996771933,31,36.64,Ticket de Venta,7570276,,2023-07-11,56.42,29420.63,Cancelada,13750,CHecRuWY,Libro Note,36.64,18,Artículo Libro Note en venta en tienda,fig_30,1
+126712103,17,36.64,Boleta de Venta,2143457,,2018-11-04,55.76,65172.45,En proceso,13750,CHecRuWY,Libro Note,36.64,18,Artículo Libro Note en venta en tienda,fig_30,1
+571559977,59,272.74,Ticket de Venta,5199330,,2021-01-25,2.07,90910.98,Completada,39582,sppiANhR,Suéter Center,272.74,92,Artículo Suéter Center en venta en tienda,fig_415,1
+704445864,62,272.74,Ticket de Venta,2911463,,2017-07-11,31.73,90648.34,En proceso,39582,sppiANhR,Suéter Center,272.74,92,Artículo Suéter Center en venta en tienda,fig_415,1
+483121648,66,272.74,Nota de Crédito,5564920,,2017-11-11,22.22,14319.32,Pendiente,39582,sppiANhR,Suéter Center,272.74,92,Artículo Suéter Center en venta en tienda,fig_415,1
+540070899,47,236.81,Ticket de Venta,5199330,,2021-01-25,2.07,90910.98,Completada,13750,NaPbVN3K,Bolígrafo Want,236.81,33,Artículo Bolígrafo Want en venta en tienda,fig_968,1
+120999886,28,236.81,Factura,7996943,,2020-04-26,35.28,92638.75,Pendiente,13750,NaPbVN3K,Bolígrafo Want,236.81,33,Artículo Bolígrafo Want en venta en tienda,fig_968,1
+344438828,11,886.63,Nota de Crédito,9033154,,2016-10-21,36.63,81789.33,En proceso,13750,BPwWVA59,Bolígrafo Option,886.63,87,Artículo Bolígrafo Option en venta en tienda,fig_62,1
+756361150,28,886.63,Factura,8639657,,2017-11-28,47.96,67198.31,Cancelada,13750,BPwWVA59,Bolígrafo Option,886.63,87,Artículo Bolígrafo Option en venta en tienda,fig_62,1
+693202991,42,800.78,Factura,9428434,,2022-04-30,11.55,55967.4,Cancelada,32684,hxHz1UqJ,Cuadro Think,800.78,44,Artículo Cuadro Think en venta en tienda,fig_105,1
+794150409,28,223.61,Factura,9428434,,2022-04-30,11.55,55967.4,Cancelada,75369,LZ6kBszc,Tableta West,223.61,20,Artículo Tableta West en venta en tienda,fig_528,1
+187876472,68,223.61,Nota de Débito,1493882,,2015-02-07,43.46,44962.6,Pendiente,75369,LZ6kBszc,Tableta West,223.61,20,Artículo Tableta West en venta en tienda,fig_528,1
+861335541,15,223.61,Nota de Crédito,8344056,,2020-10-06,90.87,46047.87,En proceso,75369,LZ6kBszc,Tableta West,223.61,20,Artículo Tableta West en venta en tienda,fig_528,1
+829958193,63,819.08,Ticket de Venta,2175327,,2020-05-18,34.06,81784.06,Pendiente,97521,Znrpkeo3,Anillo Return,819.08,96,Artículo Anillo Return en venta en tienda,fig_723,1
+523741235,59,553.1,Ticket de Venta,6869074,,2021-12-24,77.15,76984.56,Reembolsada,64218,bLrtZEPw,Galleta Our,553.1,46,Artículo Galleta Our en venta en tienda,fig_951,1
+980732951,78,553.1,Nota de Débito,3331942,,2017-06-19,29.71,37794.29,Reembolsada,64218,bLrtZEPw,Galleta Our,553.1,46,Artículo Galleta Our en venta en tienda,fig_951,1
+871560499,22,553.1,Factura,1378474,,2015-12-19,77.24,26902.12,Completada,64218,bLrtZEPw,Galleta Our,553.1,46,Artículo Galleta Our en venta en tienda,fig_951,1
+863727031,5,553.1,Boleta de Venta,4422770,,2020-08-28,8.25,79543.15,En proceso,64218,bLrtZEPw,Galleta Our,553.1,46,Artículo Galleta Our en venta en tienda,fig_951,1
+278327929,33,338.14,Ticket de Venta,6869074,,2021-12-24,77.15,76984.56,Reembolsada,82016,HDMQ6uzx,Zapatos Course,338.14,74,Artículo Zapatos Course en venta en tienda,fig_388,1
+748837967,51,338.14,Boleta de Venta,9204242,,2021-09-17,43.17,63731.29,Completada,82016,HDMQ6uzx,Zapatos Course,338.14,74,Artículo Zapatos Course en venta en tienda,fig_388,1
+700085003,33,607.04,Ticket de Venta,6869074,,2021-12-24,77.15,76984.56,Reembolsada,40879,4BqozgDJ,Maquillaje Direction,607.04,5,Artículo Maquillaje Direction en venta en tienda,fig_965,1
+214565573,87,607.04,Factura,4447962,,2019-10-26,89.67,51270.64,Completada,40879,4BqozgDJ,Maquillaje Direction,607.04,5,Artículo Maquillaje Direction en venta en tienda,fig_965,1
+755157588,79,607.04,Recibo,7885693,,2022-09-03,40.47,31819.75,En proceso,40879,4BqozgDJ,Maquillaje Direction,607.04,5,Artículo Maquillaje Direction en venta en tienda,fig_965,1
+757715769,53,139.46,Ticket de Venta,6869074,,2021-12-24,77.15,76984.56,Reembolsada,39582,HPPSAaEh,Suéter Soldier,139.46,91,Artículo Suéter Soldier en venta en tienda,fig_711,1
+525717011,89,994.23,Ticket de Venta,6869074,,2021-12-24,77.15,76984.56,Reembolsada,75369,vO7Rr9zj,Teléfono Less,994.23,72,Artículo Teléfono Less en venta en tienda,fig_557,1
+669003827,45,957.47,Nota de Débito,3724955,,2022-03-23,17.55,90101.14,Reembolsada,32684,yJXlmXSf,Cama Represent,957.47,60,Artículo Cama Represent en venta en tienda,fig_432,1
+582238123,47,957.47,Recibo,4356323,,2019-11-04,77.54,16214.62,Completada,32684,yJXlmXSf,Cama Represent,957.47,60,Artículo Cama Represent en venta en tienda,fig_432,1
+124313652,35,830.08,Ticket de Venta,3481141,,2020-05-05,14.25,74472.15,En proceso,51470,4qoREwGa,Juguete Without,830.08,60,Artículo Juguete Without en venta en tienda,fig_310,1
+510050889,54,830.08,Nota de Crédito,5508333,,2022-01-31,27.19,69639.28,Cancelada,51470,4qoREwGa,Juguete Without,830.08,60,Artículo Juguete Without en venta en tienda,fig_310,1
+483974395,13,830.08,Nota de Débito,8901203,,2016-01-10,34.26,36325.46,Reembolsada,51470,4qoREwGa,Juguete Without,830.08,60,Artículo Juguete Without en venta en tienda,fig_310,1
+851676148,85,625.4,Ticket de Venta,3481141,,2020-05-05,14.25,74472.15,En proceso,39582,VzbhNJLT,Vestido Agree,625.4,80,Artículo Vestido Agree en venta en tienda,fig_957,1
+737224929,14,625.4,Nota de Débito,1191413,,2018-06-28,35.86,41407.47,Cancelada,39582,VzbhNJLT,Vestido Agree,625.4,80,Artículo Vestido Agree en venta en tienda,fig_957,1
+913288192,45,625.4,Nota de Débito,1855065,,2018-10-25,12.15,13817.94,Completada,39582,VzbhNJLT,Vestido Agree,625.4,80,Artículo Vestido Agree en venta en tienda,fig_957,1
+999168427,45,625.4,Factura,9409037,,2019-02-06,97.33,22146.16,En proceso,39582,VzbhNJLT,Vestido Agree,625.4,80,Artículo Vestido Agree en venta en tienda,fig_957,1
+276183727,79,625.4,Boleta de Venta,2682538,,2019-07-27,94.04,43231.39,En proceso,39582,VzbhNJLT,Vestido Agree,625.4,80,Artículo Vestido Agree en venta en tienda,fig_957,1
+413149235,83,409.58,Recibo,4034094,,2021-02-01,85.56,62874.5,En proceso,51470,jtOZQ0Rs,Pelota Weight,409.58,20,Artículo Pelota Weight en venta en tienda,fig_211,1
+290913083,52,409.58,Boleta de Venta,4146162,,2016-01-19,36.78,19347.82,Pendiente,51470,jtOZQ0Rs,Pelota Weight,409.58,20,Artículo Pelota Weight en venta en tienda,fig_211,1
+519725897,5,409.58,Boleta de Venta,7045569,,2015-02-17,84.46,89628.11,Cancelada,51470,jtOZQ0Rs,Pelota Weight,409.58,20,Artículo Pelota Weight en venta en tienda,fig_211,1
+977162303,15,412.91,Nota de Débito,1070971,,2015-06-10,97.26,88741.86,Cancelada,32684,sMwwpPv8,Cuadro Challenge,412.91,57,Artículo Cuadro Challenge en venta en tienda,fig_34,1
+850859241,79,895.94,Nota de Débito,1070971,,2015-06-10,97.26,88741.86,Cancelada,82016,LZJ3g3Qj,Zapatos Majority,895.94,13,Artículo Zapatos Majority en venta en tienda,fig_771,1
+739989571,69,142.9,Ticket de Venta,2055292,,2016-09-20,17.56,3036.71,En proceso,39582,owWbTm3k,Vestido Own,142.9,85,Artículo Vestido Own en venta en tienda,fig_485,1
+784896137,15,944.94,Ticket de Venta,2055292,,2016-09-20,17.56,3036.71,En proceso,39582,Bop57vfw,Vestido Girl,944.94,70,Artículo Vestido Girl en venta en tienda,fig_356,1
+985174087,68,105.03,Factura,9651422,,2019-03-30,13.93,10917.63,Cancelada,39582,ustV4pwz,Vestido Candidate,105.03,42,Artículo Vestido Candidate en venta en tienda,fig_380,1
+855004639,61,105.03,Boleta de Venta,6198701,,2022-07-11,64.02,74503.49,Cancelada,39582,ustV4pwz,Vestido Candidate,105.03,42,Artículo Vestido Candidate en venta en tienda,fig_380,1
+903301192,92,733.6,Nota de Crédito,5487947,,2020-05-26,40.24,66668.81,Pendiente,39582,6PEUqpOp,Vestido Push,733.6,39,Artículo Vestido Push en venta en tienda,fig_494,1
+336385782,23,124.91,Nota de Crédito,5487947,,2020-05-26,40.24,66668.81,Pendiente,39582,mPU6nkMs,Camisa Suffer,124.91,92,Artículo Camisa Suffer en venta en tienda,fig_963,1
+894054222,77,124.91,Factura,1378474,,2015-12-19,77.24,26902.12,Completada,39582,mPU6nkMs,Camisa Suffer,124.91,92,Artículo Camisa Suffer en venta en tienda,fig_963,1
+903366727,56,154.72,Ticket de Venta,3636270,,2016-05-12,1.94,58266.69,Reembolsada,75369,qQcoocj7,Portátil Organization,154.72,81,Artículo Portátil Organization en venta en tienda,fig_328,1
+997279819,94,221.16,Nota de Crédito,3277788,,2023-12-07,91.31,74367.26,Cancelada,32684,K22mGlly,Cama Compare,221.16,40,Artículo Cama Compare en venta en tienda,fig_795,1
+270690383,18,466.82,Nota de Crédito,5330976,,2016-06-26,58.65,83074.14,Reembolsada,32684,O7A4xsJp,Cama Respond,466.82,9,Artículo Cama Respond en venta en tienda,fig_809,1
+819583876,44,466.82,Nota de Crédito,8499424,,2015-08-15,72.91,15549.45,Pendiente,32684,O7A4xsJp,Cama Respond,466.82,9,Artículo Cama Respond en venta en tienda,fig_809,1
+787002266,53,635.94,Nota de Crédito,5330976,,2016-06-26,58.65,83074.14,Reembolsada,75369,5sFH3AWK,Teléfono Machine,635.94,94,Artículo Teléfono Machine en venta en tienda,fig_776,1
+742847053,70,635.94,Ticket de Venta,9294680,,2018-07-11,58.07,58032.75,En proceso,75369,5sFH3AWK,Teléfono Machine,635.94,94,Artículo Teléfono Machine en venta en tienda,fig_776,1
+511275088,98,18.01,Boleta de Venta,4703485,,2019-01-10,11.49,1637.71,Reembolsada,39582,vyocMUU3,Pantalón Offer,18.01,12,Artículo Pantalón Offer en venta en tienda,fig_933,1
+904567285,86,300.95,Boleta de Venta,4703485,,2019-01-10,11.49,1637.71,Reembolsada,39582,5qOf73zl,Pantalón Space,300.95,64,Artículo Pantalón Space en venta en tienda,fig_754,1
+673121438,60,300.95,Ticket de Venta,1881186,,2021-07-08,29.24,76396.1,Completada,39582,5qOf73zl,Pantalón Space,300.95,64,Artículo Pantalón Space en venta en tienda,fig_754,1
+676107135,67,38.67,Boleta de Venta,4703485,,2019-01-10,11.49,1637.71,Reembolsada,32684,AXBkaB2e,Cama Simple,38.67,49,Artículo Cama Simple en venta en tienda,fig_949,1
+927000657,12,348.73,Nota de Crédito,1534787,,2015-01-14,80.55,84050.64,En proceso,40879,B27qpu5h,Maquillaje Officer,348.73,97,Artículo Maquillaje Officer en venta en tienda,fig_410,1
+566254745,6,321.98,Nota de Crédito,1534787,,2015-01-14,80.55,84050.64,En proceso,32684,ZHEz5ZrH,Cuadro Send,321.98,68,Artículo Cuadro Send en venta en tienda,fig_261,1
+596332626,37,631.44,Boleta de Venta,8009706,,2017-09-10,46.91,37752.92,Cancelada,64218,m5Nqic4Z,Galleta Same,631.44,3,Artículo Galleta Same en venta en tienda,fig_732,1
+251685371,67,631.44,Nota de Débito,5633712,,2015-08-17,85.68,66950.5,Reembolsada,64218,m5Nqic4Z,Galleta Same,631.44,3,Artículo Galleta Same en venta en tienda,fig_732,1
+568412535,71,631.44,Boleta de Venta,2682014,,2015-01-24,7.93,36461.58,Cancelada,64218,m5Nqic4Z,Galleta Same,631.44,3,Artículo Galleta Same en venta en tienda,fig_732,1
+138632822,63,631.44,Boleta de Venta,5586406,,2018-06-05,13.55,41099.33,Reembolsada,64218,m5Nqic4Z,Galleta Same,631.44,3,Artículo Galleta Same en venta en tienda,fig_732,1
+526422598,74,145.6,Boleta de Venta,8009706,,2017-09-10,46.91,37752.92,Cancelada,75369,Xg7QLyQn,Tableta Try,145.6,76,Artículo Tableta Try en venta en tienda,fig_445,1
+819760652,83,145.6,Factura,6716739,,2023-05-17,67.41,1799.01,Cancelada,75369,Xg7QLyQn,Tableta Try,145.6,76,Artículo Tableta Try en venta en tienda,fig_445,1
+453412209,50,692.17,Boleta de Venta,8009706,,2017-09-10,46.91,37752.92,Cancelada,32684,M77PZrKu,Cama Specific,692.17,59,Artículo Cama Specific en venta en tienda,fig_281,1
+334530197,50,692.17,Nota de Crédito,8974735,,2023-07-08,77.95,60324.23,Cancelada,32684,M77PZrKu,Cama Specific,692.17,59,Artículo Cama Specific en venta en tienda,fig_281,1
+939520084,98,244.55,Ticket de Venta,5018846,,2018-07-19,69.45,57910.91,Cancelada,32684,0A2J5K6U,Jarrón International,244.55,8,Artículo Jarrón International en venta en tienda,fig_76,1
+953032785,24,593.22,Recibo,9941029,,2018-11-22,43.83,63125.99,Reembolsada,39582,5BJu35af,Vestido Trouble,593.22,45,Artículo Vestido Trouble en venta en tienda,fig_360,1
+996617142,3,593.22,Nota de Crédito,1846175,,2023-06-11,36.85,40477.9,Completada,39582,5BJu35af,Vestido Trouble,593.22,45,Artículo Vestido Trouble en venta en tienda,fig_360,1
+588318964,83,259.42,Recibo,9941029,,2018-11-22,43.83,63125.99,Reembolsada,32684,BNxv8PXb,Alfombra Seat,259.42,36,Artículo Alfombra Seat en venta en tienda,fig_532,1
+694556040,82,259.42,Recibo,2587778,,2022-12-02,55.15,47121.52,Reembolsada,32684,BNxv8PXb,Alfombra Seat,259.42,36,Artículo Alfombra Seat en venta en tienda,fig_532,1
+916199210,61,259.42,Factura,5452670,,2018-11-19,33.32,85244.8,En proceso,32684,BNxv8PXb,Alfombra Seat,259.42,36,Artículo Alfombra Seat en venta en tienda,fig_532,1
+184659646,20,259.42,Recibo,2490660,,2018-01-26,65.89,84287.4,Pendiente,32684,BNxv8PXb,Alfombra Seat,259.42,36,Artículo Alfombra Seat en venta en tienda,fig_532,1
+711899222,53,926.19,Nota de Débito,5716813,,2023-06-14,78.91,1105.5,Pendiente,32684,482kuGg9,Alfombra Accept,926.19,74,Artículo Alfombra Accept en venta en tienda,fig_519,1
+544058884,44,926.19,Nota de Crédito,5213253,,2020-04-20,24.12,63539.04,Reembolsada,32684,482kuGg9,Alfombra Accept,926.19,74,Artículo Alfombra Accept en venta en tienda,fig_519,1
+459801967,66,724.78,Nota de Débito,5716813,,2023-06-14,78.91,1105.5,Pendiente,75369,mDrgAL1m,Portátil Box,724.78,53,Artículo Portátil Box en venta en tienda,fig_491,1
+685088723,97,724.78,Recibo,8258580,,2016-08-12,3.4,16624.64,Cancelada,75369,mDrgAL1m,Portátil Box,724.78,53,Artículo Portátil Box en venta en tienda,fig_491,1
+829148744,89,237.91,Nota de Débito,5716813,,2023-06-14,78.91,1105.5,Pendiente,32684,zhXeUg2l,Alfombra Yes,237.91,98,Artículo Alfombra Yes en venta en tienda,fig_60,1
+420846529,36,237.91,Recibo,9300901,,2018-03-28,30.63,83864.93,Pendiente,32684,zhXeUg2l,Alfombra Yes,237.91,98,Artículo Alfombra Yes en venta en tienda,fig_60,1
+624389398,56,237.91,Recibo,1004142,,2015-07-08,81.87,57503.78,Cancelada,32684,zhXeUg2l,Alfombra Yes,237.91,98,Artículo Alfombra Yes en venta en tienda,fig_60,1
+106059386,35,776.98,Nota de Débito,5716813,,2023-06-14,78.91,1105.5,Pendiente,32684,gc6uJ1tR,Jarrón Ok,776.98,27,Artículo Jarrón Ok en venta en tienda,fig_334,1
+791781463,97,860.73,Ticket de Venta,4457531,,2023-08-18,30.1,19505.43,Reembolsada,82016,BmrB2YRK,Zapatos Executive,860.73,38,Artículo Zapatos Executive en venta en tienda,fig_660,1
+511649876,38,166.24,Ticket de Venta,2113689,,2016-02-01,18.77,87224.11,En proceso,82016,YHpMer4L,Zapatos Resource,166.24,45,Artículo Zapatos Resource en venta en tienda,fig_857,1
+427036973,96,166.24,Boleta de Venta,9121513,,2018-01-10,1.31,77257.4,Reembolsada,82016,YHpMer4L,Zapatos Resource,166.24,45,Artículo Zapatos Resource en venta en tienda,fig_857,1
+176474197,92,669.37,Ticket de Venta,3746503,,2015-12-11,82.99,29250.73,Reembolsada,39582,jWtpoG5w,Camisa A,669.37,22,Artículo Camisa A en venta en tienda,fig_240,1
+165684107,45,268.22,Ticket de Venta,3746503,,2015-12-11,82.99,29250.73,Reembolsada,32684,08b0Je2L,Cuadro Anything,268.22,39,Artículo Cuadro Anything en venta en tienda,fig_117,1
+167370736,6,268.22,Nota de Débito,6818547,,2020-08-07,65.5,76105.36,Cancelada,32684,08b0Je2L,Cuadro Anything,268.22,39,Artículo Cuadro Anything en venta en tienda,fig_117,1
+438216499,21,268.22,Nota de Débito,8804814,,2019-09-13,51.88,29411.42,Cancelada,32684,08b0Je2L,Cuadro Anything,268.22,39,Artículo Cuadro Anything en venta en tienda,fig_117,1
+109410251,73,268.22,Factura,7234302,,2016-08-27,23.71,70675.92,En proceso,32684,08b0Je2L,Cuadro Anything,268.22,39,Artículo Cuadro Anything en venta en tienda,fig_117,1
+394839565,52,788.21,Ticket de Venta,3746503,,2015-12-11,82.99,29250.73,Reembolsada,32684,gTpqGjtB,Mesa Will,788.21,11,Artículo Mesa Will en venta en tienda,fig_839,1
+751338375,5,788.21,Ticket de Venta,9478105,,2019-05-22,13.9,88138.19,Cancelada,32684,gTpqGjtB,Mesa Will,788.21,11,Artículo Mesa Will en venta en tienda,fig_839,1
+558130467,53,788.21,Ticket de Venta,7748829,,2021-12-17,91.46,70393.9,Reembolsada,32684,gTpqGjtB,Mesa Will,788.21,11,Artículo Mesa Will en venta en tienda,fig_839,1
+357316042,59,788.21,Ticket de Venta,2897388,,2020-09-29,11.29,22707.2,Pendiente,32684,gTpqGjtB,Mesa Will,788.21,11,Artículo Mesa Will en venta en tienda,fig_839,1
+121702490,19,869.79,Factura,8407417,,2016-08-16,40.42,36222.19,Pendiente,40879,WdBsGrDE,Maquillaje Shake,869.79,78,Artículo Maquillaje Shake en venta en tienda,fig_72,1
+392126172,51,917.28,Factura,8407417,,2016-08-16,40.42,36222.19,Pendiente,75369,pN3NeFAE,Tableta Bag,917.28,28,Artículo Tableta Bag en venta en tienda,fig_516,1
+216100950,79,629.13,Boleta de Venta,6294601,,2018-09-30,16.84,4585.01,Cancelada,82016,3kMO0M9z,Tenis Talk,629.13,75,Artículo Tenis Talk en venta en tienda,fig_224,1
+442681061,42,687.71,Boleta de Venta,6294601,,2018-09-30,16.84,4585.01,Cancelada,32684,nipXnkSj,Alfombra Especially,687.71,68,Artículo Alfombra Especially en venta en tienda,fig_154,1
+167784643,40,687.71,Factura,2862431,,2019-06-06,14.65,65432.63,Cancelada,32684,nipXnkSj,Alfombra Especially,687.71,68,Artículo Alfombra Especially en venta en tienda,fig_154,1
+356857975,99,96.29,Ticket de Venta,7570276,,2023-07-11,56.42,29420.63,Cancelada,39582,rj1PIR7P,Camisa Oil,96.29,82,Artículo Camisa Oil en venta en tienda,fig_937,1
+909594578,37,96.29,Ticket de Venta,2228372,,2018-08-12,71.66,28877.11,Reembolsada,39582,rj1PIR7P,Camisa Oil,96.29,82,Artículo Camisa Oil en venta en tienda,fig_937,1
+218741683,57,96.29,Recibo,4032632,,2017-04-26,85.26,48863.9,En proceso,39582,rj1PIR7P,Camisa Oil,96.29,82,Artículo Camisa Oil en venta en tienda,fig_937,1
+394809210,95,96.29,Nota de Crédito,9363909,,2023-07-02,26.79,97742.98,Pendiente,39582,rj1PIR7P,Camisa Oil,96.29,82,Artículo Camisa Oil en venta en tienda,fig_937,1
+435755107,58,581.8,Nota de Débito,7098601,,2023-07-06,12.98,21804.7,Completada,64218,WJRUXhCo,Galleta Nice,581.8,59,Artículo Galleta Nice en venta en tienda,fig_368,1
+921683218,71,581.8,Nota de Débito,9983112,,2015-09-16,10.25,20858.03,Completada,64218,WJRUXhCo,Galleta Nice,581.8,59,Artículo Galleta Nice en venta en tienda,fig_368,1
+503554575,22,392.89,Nota de Débito,7098601,,2023-07-06,12.98,21804.7,Completada,32684,qD8rsPS4,Cuadro Young,392.89,42,Artículo Cuadro Young en venta en tienda,fig_555,1
+432793704,22,940.92,Nota de Débito,1152667,,2018-08-31,91.8,67993.34,Reembolsada,64218,GZqgg6PN,Galleta Against,940.92,34,Artículo Galleta Against en venta en tienda,fig_961,1
+318613824,93,940.92,Boleta de Venta,8984702,,2017-03-01,68.1,47102.06,Pendiente,64218,GZqgg6PN,Galleta Against,940.92,34,Artículo Galleta Against en venta en tienda,fig_961,1
+573325642,54,940.92,Factura,2423580,,2021-07-17,61.35,72185.68,Cancelada,64218,GZqgg6PN,Galleta Against,940.92,34,Artículo Galleta Against en venta en tienda,fig_961,1
+891294831,85,312.28,Nota de Débito,1152667,,2018-08-31,91.8,67993.34,Reembolsada,97521,BR1axDKD,Anillo Manager,312.28,25,Artículo Anillo Manager en venta en tienda,fig_189,1
+111534185,17,556.05,Factura,9541661,,2020-11-28,4.04,19659.98,Pendiente,32684,f1L5hDsK,Mesa Sometimes,556.05,72,Artículo Mesa Sometimes en venta en tienda,fig_910,1
+117359730,92,556.05,Nota de Crédito,9198192,,2015-04-16,38.22,7761.38,Completada,32684,f1L5hDsK,Mesa Sometimes,556.05,72,Artículo Mesa Sometimes en venta en tienda,fig_910,1
+204889942,21,556.05,Boleta de Venta,8959097,,2022-02-01,49.35,1981.51,Pendiente,32684,f1L5hDsK,Mesa Sometimes,556.05,72,Artículo Mesa Sometimes en venta en tienda,fig_910,1
+334307439,49,864.97,Factura,1860524,,2018-05-12,71.46,52193.22,Reembolsada,82016,aAj8Jnwx,Zapatos Talk,864.97,39,Artículo Zapatos Talk en venta en tienda,fig_997,1
+595524293,61,864.97,Boleta de Venta,2796784,,2022-04-08,45.21,41605.72,Pendiente,82016,aAj8Jnwx,Zapatos Talk,864.97,39,Artículo Zapatos Talk en venta en tienda,fig_997,1
+731328913,77,773.63,Factura,1860524,,2018-05-12,71.46,52193.22,Reembolsada,32684,5szgZ9dn,Lámpara Budget,773.63,57,Artículo Lámpara Budget en venta en tienda,fig_854,1
+363287185,9,821.35,Factura,1860524,,2018-05-12,71.46,52193.22,Reembolsada,32684,GzQn489o,Cama Particularly,821.35,14,Artículo Cama Particularly en venta en tienda,fig_760,1
+102626755,32,821.35,Ticket de Venta,1736668,,2021-10-05,68.26,27056.35,Pendiente,32684,GzQn489o,Cama Particularly,821.35,14,Artículo Cama Particularly en venta en tienda,fig_760,1
+906842225,93,615.24,Nota de Crédito,4184037,,2018-01-25,22.8,47610.14,Completada,39582,lAyO7zsO,Vestido Figure,615.24,58,Artículo Vestido Figure en venta en tienda,fig_828,1
+578192524,16,396.79,Nota de Crédito,4184037,,2018-01-25,22.8,47610.14,Completada,13750,HxzSrZRh,Libro East,396.79,73,Artículo Libro East en venta en tienda,fig_42,1
+816837399,3,396.79,Recibo,7430065,,2015-08-16,45.62,4293.22,En proceso,13750,HxzSrZRh,Libro East,396.79,73,Artículo Libro East en venta en tienda,fig_42,1
+257344992,8,396.79,Nota de Crédito,6467200,,2015-10-01,34.18,91630.0,En proceso,13750,HxzSrZRh,Libro East,396.79,73,Artículo Libro East en venta en tienda,fig_42,1
+913780194,9,680.63,Nota de Crédito,4184037,,2018-01-25,22.8,47610.14,Completada,39582,l4qI30WF,Suéter History,680.63,29,Artículo Suéter History en venta en tienda,fig_369,1
+523666563,94,680.63,Ticket de Venta,6372333,,2016-08-14,69.94,73127.03,Pendiente,39582,l4qI30WF,Suéter History,680.63,29,Artículo Suéter History en venta en tienda,fig_369,1
+989239410,78,728.29,Recibo,6205402,,2022-06-28,69.03,76681.32,Reembolsada,51470,DZosl5qN,Juguete Remain,728.29,7,Artículo Juguete Remain en venta en tienda,fig_918,1
+571174655,62,949.7,Recibo,6205402,,2022-06-28,69.03,76681.32,Reembolsada,32684,XXFQVQWe,Silla Surface,949.7,3,Artículo Silla Surface en venta en tienda,fig_549,1
+610965292,58,405.85,Recibo,6205402,,2022-06-28,69.03,76681.32,Reembolsada,32684,wuumNi9y,Jarrón Single,405.85,5,Artículo Jarrón Single en venta en tienda,fig_470,1
+462403492,46,405.85,Recibo,4071021,,2021-03-28,84.23,13981.92,Pendiente,32684,wuumNi9y,Jarrón Single,405.85,5,Artículo Jarrón Single en venta en tienda,fig_470,1
+531894387,21,444.25,Recibo,1593918,,2020-03-15,33.3,15912.18,Pendiente,32684,5DJhn3P9,Alfombra Moment,444.25,58,Artículo Alfombra Moment en venta en tienda,fig_245,1
+549860987,13,444.25,Recibo,6792249,,2020-05-09,91.84,64959.38,Pendiente,32684,5DJhn3P9,Alfombra Moment,444.25,58,Artículo Alfombra Moment en venta en tienda,fig_245,1
+375717522,46,444.25,Nota de Crédito,5080299,,2018-04-11,38.66,93706.65,Pendiente,32684,5DJhn3P9,Alfombra Moment,444.25,58,Artículo Alfombra Moment en venta en tienda,fig_245,1
+857176496,93,574.66,Recibo,1593918,,2020-03-15,33.3,15912.18,Pendiente,32684,aksW3APf,Cama Stay,574.66,4,Artículo Cama Stay en venta en tienda,fig_260,1
+936889143,34,112.55,Recibo,1593918,,2020-03-15,33.3,15912.18,Pendiente,32684,Y7kcOqIi,Jarrón Meeting,112.55,38,Artículo Jarrón Meeting en venta en tienda,fig_131,1
+367230665,85,112.55,Recibo,1510117,,2018-07-09,61.35,52373.68,Cancelada,32684,Y7kcOqIi,Jarrón Meeting,112.55,38,Artículo Jarrón Meeting en venta en tienda,fig_131,1
+222908533,0,955.1,Ticket de Venta,4788536,,2018-02-20,63.8,67661.11,Reembolsada,97521,0n9IejMQ,Reloj Everything,955.1,39,Artículo Reloj Everything en venta en tienda,fig_123,1
+661559730,23,871.96,Ticket de Venta,4788536,,2018-02-20,63.8,67661.11,Reembolsada,32684,MJrFMtKQ,Alfombra Body,871.96,12,Artículo Alfombra Body en venta en tienda,fig_789,1
+967821430,6,151.21,Ticket de Venta,9056432,,2018-10-02,52.84,64188.35,Completada,51470,kP01uTyu,Juguete Clearly,151.21,75,Artículo Juguete Clearly en venta en tienda,fig_300,1
+357527265,86,151.21,Nota de Crédito,5564920,,2017-11-11,22.22,14319.32,Pendiente,51470,kP01uTyu,Juguete Clearly,151.21,75,Artículo Juguete Clearly en venta en tienda,fig_300,1
+266166393,34,120.37,Boleta de Venta,5317383,,2022-08-22,11.56,53944.16,Reembolsada,13750,NamAR5SN,Libro Present,120.37,49,Artículo Libro Present en venta en tienda,fig_462,1
+107707910,73,120.37,Factura,4748316,,2015-06-09,69.52,29529.73,Reembolsada,13750,NamAR5SN,Libro Present,120.37,49,Artículo Libro Present en venta en tienda,fig_462,1
+485221579,9,391.8,Boleta de Venta,5317383,,2022-08-22,11.56,53944.16,Reembolsada,39582,Ai33KZM9,Camisa Pick,391.8,73,Artículo Camisa Pick en venta en tienda,fig_359,1
+831385723,20,762.13,Boleta de Venta,6492904,,2019-11-07,58.26,6741.47,Cancelada,32684,8PxBvQHA,Lámpara Enough,762.13,8,Artículo Lámpara Enough en venta en tienda,fig_912,1
+154225270,93,762.13,Nota de Crédito,2723485,,2015-03-27,72.6,27160.39,Cancelada,32684,8PxBvQHA,Lámpara Enough,762.13,8,Artículo Lámpara Enough en venta en tienda,fig_912,1
+299923239,17,762.13,Ticket de Venta,7659286,,2015-08-22,41.61,91339.87,En proceso,32684,8PxBvQHA,Lámpara Enough,762.13,8,Artículo Lámpara Enough en venta en tienda,fig_912,1
+661667961,17,925.35,Nota de Crédito,8499424,,2015-08-15,72.91,15549.45,Pendiente,64218,wkTdosFx,Galleta Nearly,925.35,86,Artículo Galleta Nearly en venta en tienda,fig_433,1
+660108513,8,925.35,Nota de Crédito,5687247,,2015-08-13,88.99,89531.94,Reembolsada,64218,wkTdosFx,Galleta Nearly,925.35,86,Artículo Galleta Nearly en venta en tienda,fig_433,1
+464383354,4,925.35,Nota de Crédito,2723485,,2015-03-27,72.6,27160.39,Cancelada,64218,wkTdosFx,Galleta Nearly,925.35,86,Artículo Galleta Nearly en venta en tienda,fig_433,1
+987272814,84,925.35,Recibo,9806271,,2023-10-26,87.68,81345.46,Reembolsada,64218,wkTdosFx,Galleta Nearly,925.35,86,Artículo Galleta Nearly en venta en tienda,fig_433,1
+551518331,58,487.26,Factura,9372448,,2017-03-08,49.69,88421.72,Cancelada,39582,sUPYMt9s,Pantalón Cell,487.26,42,Artículo Pantalón Cell en venta en tienda,fig_939,1
+640897555,67,487.26,Recibo,6371140,,2019-12-18,3.36,30506.89,Completada,39582,sUPYMt9s,Pantalón Cell,487.26,42,Artículo Pantalón Cell en venta en tienda,fig_939,1
+826123437,99,359.33,Factura,9372448,,2017-03-08,49.69,88421.72,Cancelada,97521,Z4RgPJbF,Anillo Second,359.33,12,Artículo Anillo Second en venta en tienda,fig_689,1
+842687742,7,152.34,Factura,9372448,,2017-03-08,49.69,88421.72,Cancelada,39582,hgQHzPGp,Pantalón Reason,152.34,74,Artículo Pantalón Reason en venta en tienda,fig_533,1
+564204648,23,152.34,Nota de Crédito,5848635,,2018-08-11,75.43,51816.28,Cancelada,39582,hgQHzPGp,Pantalón Reason,152.34,74,Artículo Pantalón Reason en venta en tienda,fig_533,1
+294860926,20,477.04,Boleta de Venta,8162601,,2022-03-03,41.31,96632.27,Reembolsada,39582,ID6Bajn8,Pantalón Pick,477.04,32,Artículo Pantalón Pick en venta en tienda,fig_829,1
+397939056,39,77.44,Boleta de Venta,8162601,,2022-03-03,41.31,96632.27,Reembolsada,39582,YKbgr4MI,Suéter Trade,77.44,1,Artículo Suéter Trade en venta en tienda,fig_822,1
+293406891,59,77.44,Boleta de Venta,2518062,,2023-10-31,65.8,74541.47,En proceso,39582,YKbgr4MI,Suéter Trade,77.44,1,Artículo Suéter Trade en venta en tienda,fig_822,1
+151686611,85,488.12,Boleta de Venta,8162601,,2022-03-03,41.31,96632.27,Reembolsada,40879,EZWwTM0z,Maquillaje Fly,488.12,69,Artículo Maquillaje Fly en venta en tienda,fig_915,1
+451721609,11,488.12,Factura,4158381,,2019-02-08,98.39,66817.69,En proceso,40879,EZWwTM0z,Maquillaje Fly,488.12,69,Artículo Maquillaje Fly en venta en tienda,fig_915,1
+424864227,9,488.12,Factura,7414143,,2019-11-15,14.5,7368.18,Pendiente,40879,EZWwTM0z,Maquillaje Fly,488.12,69,Artículo Maquillaje Fly en venta en tienda,fig_915,1
+837695094,96,601.57,Boleta de Venta,8162601,,2022-03-03,41.31,96632.27,Reembolsada,32684,qDdkrpGc,Lámpara Face,601.57,72,Artículo Lámpara Face en venta en tienda,fig_499,1
+278315135,0,145.79,Ticket de Venta,2809841,,2015-02-06,54.2,51208.45,Cancelada,64218,BWVxWVTj,Galleta Unit,145.79,62,Artículo Galleta Unit en venta en tienda,fig_538,1
+689908432,90,145.79,Ticket de Venta,3756567,,2021-06-11,95.39,78591.72,Reembolsada,64218,BWVxWVTj,Galleta Unit,145.79,62,Artículo Galleta Unit en venta en tienda,fig_538,1
+363554050,1,455.46,Ticket de Venta,2809841,,2015-02-06,54.2,51208.45,Cancelada,64218,ZCQOEqTG,Galleta Entire,455.46,76,Artículo Galleta Entire en venta en tienda,fig_524,1
+341373672,80,455.46,Factura,6131223,,2020-02-13,40.82,43065.34,En proceso,64218,ZCQOEqTG,Galleta Entire,455.46,76,Artículo Galleta Entire en venta en tienda,fig_524,1
+990617186,8,192.59,Ticket de Venta,2809841,,2015-02-06,54.2,51208.45,Cancelada,32684,ZAickCdM,Mesa Police,192.59,18,Artículo Mesa Police en venta en tienda,fig_107,1
+239720748,38,192.59,Recibo,3223499,,2016-01-31,9.37,58490.09,Completada,32684,ZAickCdM,Mesa Police,192.59,18,Artículo Mesa Police en venta en tienda,fig_107,1
+242737279,53,672.13,Recibo,4814611,,2016-02-21,86.18,95842.37,Reembolsada,64218,yR670lAl,Galleta Defense,672.13,78,Artículo Galleta Defense en venta en tienda,fig_89,1
+126788020,59,672.13,Nota de Débito,4695013,,2021-01-23,66.06,37404.5,En proceso,64218,yR670lAl,Galleta Defense,672.13,78,Artículo Galleta Defense en venta en tienda,fig_89,1
+803066042,3,218.61,Recibo,4814611,,2016-02-21,86.18,95842.37,Reembolsada,40879,FtBO6mpc,Perfume Take,218.61,5,Artículo Perfume Take en venta en tienda,fig_333,1
+596637107,64,218.61,Boleta de Venta,2139325,,2023-04-03,15.69,20510.02,Cancelada,40879,FtBO6mpc,Perfume Take,218.61,5,Artículo Perfume Take en venta en tienda,fig_333,1
+656184758,69,876.63,Recibo,4814611,,2016-02-21,86.18,95842.37,Reembolsada,97521,VuQmVjjx,Reloj Allow,876.63,88,Artículo Reloj Allow en venta en tienda,fig_716,1
+722856068,26,315.21,Nota de Débito,4611372,,2018-11-25,55.51,1480.15,Completada,75369,gBYbxWBS,Tableta We,315.21,44,Artículo Tableta We en venta en tienda,fig_417,1
+892061829,84,236.23,Factura,8717312,,2022-09-11,57.04,32667.98,Reembolsada,40879,64dY7aVE,Perfume Agreement,236.23,6,Artículo Perfume Agreement en venta en tienda,fig_273,1
+796001016,36,236.23,Recibo,7342774,,2022-12-09,19.93,23695.29,Cancelada,40879,64dY7aVE,Perfume Agreement,236.23,6,Artículo Perfume Agreement en venta en tienda,fig_273,1
+945375467,63,351.5,Factura,8717312,,2022-09-11,57.04,32667.98,Reembolsada,32684,uNKQWuFa,Cama Outside,351.5,76,Artículo Cama Outside en venta en tienda,fig_514,1
+493806727,86,351.5,Ticket de Venta,2250088,,2016-08-07,47.62,13330.99,Pendiente,32684,uNKQWuFa,Cama Outside,351.5,76,Artículo Cama Outside en venta en tienda,fig_514,1
+980437697,11,431.74,Factura,8717312,,2022-09-11,57.04,32667.98,Reembolsada,32684,qkY4bPje,Cama Choice,431.74,42,Artículo Cama Choice en venta en tienda,fig_709,1
+196136748,99,431.74,Nota de Débito,3515017,,2018-07-10,63.63,57444.07,Pendiente,32684,qkY4bPje,Cama Choice,431.74,42,Artículo Cama Choice en venta en tienda,fig_709,1
+345589896,32,252.59,Nota de Crédito,8963199,,2022-11-10,47.02,96185.25,Reembolsada,32684,OXIMziyU,Silla Baby,252.59,74,Artículo Silla Baby en venta en tienda,fig_878,1
+286744252,68,252.59,Ticket de Venta,1736668,,2021-10-05,68.26,27056.35,Pendiente,32684,OXIMziyU,Silla Baby,252.59,74,Artículo Silla Baby en venta en tienda,fig_878,1
+752848693,79,547.91,Nota de Crédito,8963199,,2022-11-10,47.02,96185.25,Reembolsada,32684,MbD6DZPI,Alfombra Everybody,547.91,48,Artículo Alfombra Everybody en venta en tienda,fig_103,1
+284561600,74,547.91,Recibo,2646328,,2019-11-29,0.54,75903.45,Pendiente,32684,MbD6DZPI,Alfombra Everybody,547.91,48,Artículo Alfombra Everybody en venta en tienda,fig_103,1
+899858569,19,529.3,Factura,1962472,,2021-01-18,7.85,10232.36,Reembolsada,32684,JHLhgoBM,Alfombra Space,529.3,90,Artículo Alfombra Space en venta en tienda,fig_838,1
+761409672,95,101.52,Nota de Débito,2604833,,2022-02-14,45.94,72043.76,Pendiente,97521,fmUTQeLi,Reloj Forget,101.52,18,Artículo Reloj Forget en venta en tienda,fig_758,1
+442285591,80,101.52,Recibo,2090755,,2017-08-01,32.71,45956.34,Cancelada,97521,fmUTQeLi,Reloj Forget,101.52,18,Artículo Reloj Forget en venta en tienda,fig_758,1
+752072679,10,308.06,Nota de Débito,2604833,,2022-02-14,45.94,72043.76,Pendiente,75369,yNReC1XJ,Portátil All,308.06,91,Artículo Portátil All en venta en tienda,fig_692,1
+473456778,28,479.55,Ticket de Venta,9325480,,2018-10-08,78.79,51989.52,Completada,51470,OqHgGuR5,Juguete Season,479.55,35,Artículo Juguete Season en venta en tienda,fig_404,1
+794924644,11,479.55,Nota de Débito,6818547,,2020-08-07,65.5,76105.36,Cancelada,51470,OqHgGuR5,Juguete Season,479.55,35,Artículo Juguete Season en venta en tienda,fig_404,1
+106865836,46,479.55,Nota de Débito,1268248,,2015-09-15,3.6,85131.62,En proceso,51470,OqHgGuR5,Juguete Season,479.55,35,Artículo Juguete Season en venta en tienda,fig_404,1
+554511305,48,214.63,Ticket de Venta,9325480,,2018-10-08,78.79,51989.52,Completada,39582,Pi5EOatk,Pantalón Various,214.63,22,Artículo Pantalón Various en venta en tienda,fig_698,1
+540168880,35,214.63,Boleta de Venta,8983837,,2017-11-20,84.34,18818.8,Cancelada,39582,Pi5EOatk,Pantalón Various,214.63,22,Artículo Pantalón Various en venta en tienda,fig_698,1
+908650637,10,835.71,Ticket de Venta,5369450,,2018-09-06,93.82,34530.46,Completada,75369,e4hku8tJ,Teléfono Newspaper,835.71,13,Artículo Teléfono Newspaper en venta en tienda,fig_623,1
+104326366,30,352.73,Ticket de Venta,5369450,,2018-09-06,93.82,34530.46,Completada,32684,lMYORtVv,Cocina Whether,352.73,8,Artículo Cocina Whether en venta en tienda,fig_874,1
+495267663,48,352.73,Ticket de Venta,1865401,,2020-12-17,46.52,24451.91,Cancelada,32684,lMYORtVv,Cocina Whether,352.73,8,Artículo Cocina Whether en venta en tienda,fig_874,1
+482144758,72,352.73,Recibo,8258580,,2016-08-12,3.4,16624.64,Cancelada,32684,lMYORtVv,Cocina Whether,352.73,8,Artículo Cocina Whether en venta en tienda,fig_874,1
+380448905,56,577.32,Recibo,5325064,,2017-09-27,11.54,69014.89,Reembolsada,64218,6HXdE2A9,Galleta Chance,577.32,87,Artículo Galleta Chance en venta en tienda,fig_749,1
+678084755,98,606.74,Factura,3186779,,2021-08-21,13.48,27328.77,Pendiente,32684,dRacNb9P,Cocina Me,606.74,96,Artículo Cocina Me en venta en tienda,fig_868,1
+315246481,80,836.5,Factura,3186779,,2021-08-21,13.48,27328.77,Pendiente,97521,WvZQajoo,Anillo Get,836.5,32,Artículo Anillo Get en venta en tienda,fig_634,1
+868651157,57,13.52,Ticket de Venta,4763541,,2020-04-11,80.49,24531.27,En proceso,51470,9RwdSaIC,Juguete Heart,13.52,10,Artículo Juguete Heart en venta en tienda,fig_746,1
+498766721,17,13.52,Recibo,1916841,,2015-03-12,53.18,18180.13,En proceso,51470,9RwdSaIC,Juguete Heart,13.52,10,Artículo Juguete Heart en venta en tienda,fig_746,1
+789598567,46,124.13,Ticket de Venta,4763541,,2020-04-11,80.49,24531.27,En proceso,97521,9C5yBpmG,Reloj Training,124.13,84,Artículo Reloj Training en venta en tienda,fig_58,1
+803369113,80,521.51,Nota de Débito,1217127,,2016-09-20,77.57,21958.41,En proceso,64218,JvZM3oqs,Galleta Suggest,521.51,2,Artículo Galleta Suggest en venta en tienda,fig_810,1
+176541852,95,447.78,Recibo,6792249,,2020-05-09,91.84,64959.38,Pendiente,51470,wUffbaNY,Juguete Me,447.78,40,Artículo Juguete Me en venta en tienda,fig_81,1
+274524324,50,138.89,Nota de Débito,9582805,,2021-01-01,49.32,7735.66,Completada,13750,CgyXTamw,Libro Art,138.89,75,Artículo Libro Art en venta en tienda,fig_78,1
+497725606,7,158.05,Recibo,4945030,,2022-03-04,10.33,61783.86,En proceso,64218,bCOPG7XJ,Galleta Way,158.05,79,Artículo Galleta Way en venta en tienda,fig_321,1
+216205055,87,217.96,Recibo,4945030,,2022-03-04,10.33,61783.86,En proceso,39582,tdaR0X75,Suéter Since,217.96,20,Artículo Suéter Since en venta en tienda,fig_405,1
+750254248,79,658.6,Nota de Débito,3285149,,2015-08-16,32.25,86287.0,Completada,97521,UC9NzETn,Anillo Tv,658.6,70,Artículo Anillo Tv en venta en tienda,fig_352,1
+390994387,61,283.79,Nota de Débito,3285149,,2015-08-16,32.25,86287.0,Completada,32684,OKyyOqaL,Cocina Concern,283.79,52,Artículo Cocina Concern en venta en tienda,fig_646,1
+680613701,10,283.79,Nota de Crédito,2266646,,2017-10-27,43.56,21578.8,Pendiente,32684,OKyyOqaL,Cocina Concern,283.79,52,Artículo Cocina Concern en venta en tienda,fig_646,1
+166634229,75,641.75,Nota de Débito,3285149,,2015-08-16,32.25,86287.0,Completada,51470,0fOal32j,Juguete Lot,641.75,80,Artículo Juguete Lot en venta en tienda,fig_266,1
+213972343,16,847.6,Nota de Débito,3285149,,2015-08-16,32.25,86287.0,Completada,39582,HE6u9Cwo,Vestido Picture,847.6,23,Artículo Vestido Picture en venta en tienda,fig_144,1
+887649543,81,847.6,Boleta de Venta,8762277,,2021-07-09,75.44,64200.94,Reembolsada,39582,HE6u9Cwo,Vestido Picture,847.6,23,Artículo Vestido Picture en venta en tienda,fig_144,1
+483831977,1,38.39,Nota de Crédito,8627371,,2018-03-03,3.23,70186.25,Pendiente,75369,fJaD6YKU,Teléfono Beyond,38.39,80,Artículo Teléfono Beyond en venta en tienda,fig_101,1
+352428203,50,551.62,Boleta de Venta,2631026,,2022-12-06,61.21,7472.37,Pendiente,39582,iRtjtqh5,Vestido Central,551.62,94,Artículo Vestido Central en venta en tienda,fig_262,1
+246720685,93,99.15,Nota de Crédito,7639235,,2019-07-07,61.82,21572.91,Cancelada,64218,qOloMO5U,Galleta Myself,99.15,66,Artículo Galleta Myself en venta en tienda,fig_198,1
+891496623,99,479.27,Factura,1400579,,2018-06-30,4.78,70571.04,Cancelada,39582,FusV4mEm,Pantalón Could,479.27,68,Artículo Pantalón Could en venta en tienda,fig_357,1
+662452399,76,751.02,Recibo,7480273,,2022-09-09,46.15,22881.83,Reembolsada,51470,P98yPzKR,Juguete Get,751.02,72,Artículo Juguete Get en venta en tienda,fig_88,1
+882965811,20,607.34,Recibo,7480273,,2022-09-09,46.15,22881.83,Reembolsada,64218,aJ7MiTey,Galleta Result,607.34,30,Artículo Galleta Result en venta en tienda,fig_467,1
+921352963,43,607.34,Factura,2407921,,2021-04-26,54.36,491.01,En proceso,64218,aJ7MiTey,Galleta Result,607.34,30,Artículo Galleta Result en venta en tienda,fig_467,1
+729128755,27,798.86,Recibo,7480273,,2022-09-09,46.15,22881.83,Reembolsada,32684,a7hAIEoP,Alfombra Stay,798.86,5,Artículo Alfombra Stay en venta en tienda,fig_239,1
+476090545,31,970.45,Ticket de Venta,4451087,,2020-04-05,57.81,63320.94,Cancelada,82016,DeCzwQLw,Zapatos Successful,970.45,70,Artículo Zapatos Successful en venta en tienda,fig_159,1
+507591717,36,970.45,Nota de Débito,1307660,,2020-12-26,7.81,47006.31,Pendiente,82016,DeCzwQLw,Zapatos Successful,970.45,70,Artículo Zapatos Successful en venta en tienda,fig_159,1
+531219507,21,970.45,Boleta de Venta,2277723,,2016-05-24,63.83,19806.98,Completada,82016,DeCzwQLw,Zapatos Successful,970.45,70,Artículo Zapatos Successful en venta en tienda,fig_159,1
+536457394,79,267.4,Nota de Crédito,9556103,,2015-05-23,17.63,60077.68,Completada,39582,ObqrUHHk,Suéter Already,267.4,50,Artículo Suéter Already en venta en tienda,fig_142,1
+728157607,57,267.4,Nota de Crédito,6433556,,2016-01-27,0.48,45277.71,En proceso,39582,ObqrUHHk,Suéter Already,267.4,50,Artículo Suéter Already en venta en tienda,fig_142,1
+758896818,47,678.26,Boleta de Venta,8022006,,2023-10-28,45.12,37197.12,Completada,64218,ir06qGfH,Galleta Begin,678.26,99,Artículo Galleta Begin en venta en tienda,fig_906,1
+610735404,28,678.26,Boleta de Venta,2337995,,2019-06-21,30.42,24386.63,Reembolsada,64218,ir06qGfH,Galleta Begin,678.26,99,Artículo Galleta Begin en venta en tienda,fig_906,1
+832546191,3,678.26,Nota de Crédito,2981845,,2017-02-26,36.57,76981.71,Pendiente,64218,ir06qGfH,Galleta Begin,678.26,99,Artículo Galleta Begin en venta en tienda,fig_906,1
+215297770,8,678.26,Recibo,3601798,,2019-03-28,58.51,10780.41,Reembolsada,64218,ir06qGfH,Galleta Begin,678.26,99,Artículo Galleta Begin en venta en tienda,fig_906,1
+766180853,53,678.26,Ticket de Venta,5741292,,2019-11-06,77.5,78746.21,Cancelada,64218,ir06qGfH,Galleta Begin,678.26,99,Artículo Galleta Begin en venta en tienda,fig_906,1
+704274612,84,941.73,Nota de Débito,6648999,,2015-11-18,7.67,98088.33,En proceso,32684,AZhp1uQ7,Cama House,941.73,1,Artículo Cama House en venta en tienda,fig_111,1
+123332907,84,941.73,Nota de Crédito,6356121,,2021-11-22,58.31,94484.64,En proceso,32684,AZhp1uQ7,Cama House,941.73,1,Artículo Cama House en venta en tienda,fig_111,1
+613378224,87,446.8,Recibo,2587778,,2022-12-02,55.15,47121.52,Reembolsada,51470,DID5U8qo,Pelota Husband,446.8,2,Artículo Pelota Husband en venta en tienda,fig_540,1
+564229153,69,446.8,Ticket de Venta,2583572,,2016-12-23,99.22,45475.81,Reembolsada,51470,DID5U8qo,Pelota Husband,446.8,2,Artículo Pelota Husband en venta en tienda,fig_540,1
+158976176,4,727.25,Factura,8502005,,2018-06-08,5.42,30050.07,Reembolsada,51470,EjCMQZil,Juguete Visit,727.25,74,Artículo Juguete Visit en venta en tienda,fig_493,1
+469714866,65,727.25,Recibo,1809582,,2020-07-29,71.44,14462.13,Reembolsada,51470,EjCMQZil,Juguete Visit,727.25,74,Artículo Juguete Visit en venta en tienda,fig_493,1
+711272982,82,727.25,Factura,3683387,,2019-04-25,37.84,38596.84,Reembolsada,51470,EjCMQZil,Juguete Visit,727.25,74,Artículo Juguete Visit en venta en tienda,fig_493,1
+950313671,49,635.4,Factura,8502005,,2018-06-08,5.42,30050.07,Reembolsada,39582,hqS27Hlg,Pantalón Member,635.4,52,Artículo Pantalón Member en venta en tienda,fig_423,1
+908523709,83,938.24,Factura,4218616,,2017-07-15,63.77,5656.57,Completada,51470,fmfzRGeh,Juguete So,938.24,16,Artículo Juguete So en venta en tienda,fig_650,1
+535632744,58,164.96,Factura,4218616,,2017-07-15,63.77,5656.57,Completada,75369,kpnrUkMw,Tableta Share,164.96,28,Artículo Tableta Share en venta en tienda,fig_463,1
+870356741,88,164.96,Factura,1397716,,2016-05-17,35.1,83403.7,Completada,75369,kpnrUkMw,Tableta Share,164.96,28,Artículo Tableta Share en venta en tienda,fig_463,1
+631060670,20,717.66,Nota de Crédito,9562351,,2015-12-02,42.71,26571.91,Reembolsada,97521,cW6dWXui,Anillo Notice,717.66,40,Artículo Anillo Notice en venta en tienda,fig_413,1
+612846422,66,710.04,Nota de Crédito,9562351,,2015-12-02,42.71,26571.91,Reembolsada,75369,usWVsebN,Portátil Seem,710.04,76,Artículo Portátil Seem en venta en tienda,fig_782,1
+713002234,80,678.6,Nota de Crédito,9562351,,2015-12-02,42.71,26571.91,Reembolsada,40879,z6Z8lKBS,Perfume Return,678.6,73,Artículo Perfume Return en venta en tienda,fig_805,1
+362516169,39,678.6,Nota de Crédito,6230877,,2015-11-13,23.82,38264.08,En proceso,40879,z6Z8lKBS,Perfume Return,678.6,73,Artículo Perfume Return en venta en tienda,fig_805,1
+684857535,98,690.22,Ticket de Venta,2583572,,2016-12-23,99.22,45475.81,Reembolsada,40879,olzFgnuw,Maquillaje Account,690.22,23,Artículo Maquillaje Account en venta en tienda,fig_848,1
+876226526,20,690.22,Boleta de Venta,9204242,,2021-09-17,43.17,63731.29,Completada,40879,olzFgnuw,Maquillaje Account,690.22,23,Artículo Maquillaje Account en venta en tienda,fig_848,1
+146531569,20,690.22,Boleta de Venta,3144935,,2016-05-26,72.99,8218.08,Reembolsada,40879,olzFgnuw,Maquillaje Account,690.22,23,Artículo Maquillaje Account en venta en tienda,fig_848,1
+704625985,7,690.22,Ticket de Venta,7484554,,2023-04-24,59.08,45213.93,Cancelada,40879,olzFgnuw,Maquillaje Account,690.22,23,Artículo Maquillaje Account en venta en tienda,fig_848,1
+400159807,89,690.22,Factura,1787041,,2019-03-16,46.06,4520.13,Pendiente,40879,olzFgnuw,Maquillaje Account,690.22,23,Artículo Maquillaje Account en venta en tienda,fig_848,1
+571864641,19,690.22,Factura,7266836,,2022-08-03,53.43,96960.78,Completada,40879,olzFgnuw,Maquillaje Account,690.22,23,Artículo Maquillaje Account en venta en tienda,fig_848,1
+357657159,37,353.45,Ticket de Venta,2583572,,2016-12-23,99.22,45475.81,Reembolsada,75369,iCJcGoNT,Teléfono Be,353.45,31,Artículo Teléfono Be en venta en tienda,fig_819,1
+619637271,36,353.45,Recibo,9931308,,2015-01-31,81.05,3252.17,Pendiente,75369,iCJcGoNT,Teléfono Be,353.45,31,Artículo Teléfono Be en venta en tienda,fig_819,1
+131644637,85,353.45,Factura,9160297,,2023-08-04,6.88,53535.84,En proceso,75369,iCJcGoNT,Teléfono Be,353.45,31,Artículo Teléfono Be en venta en tienda,fig_819,1
+222025714,18,353.45,Recibo,4858291,,2019-11-17,22.12,26723.86,Pendiente,75369,iCJcGoNT,Teléfono Be,353.45,31,Artículo Teléfono Be en venta en tienda,fig_819,1
+779276111,7,86.11,Recibo,2646328,,2019-11-29,0.54,75903.45,Pendiente,82016,8SgMYz6G,Zapatos System,86.11,10,Artículo Zapatos System en venta en tienda,fig_480,1
+956960690,21,86.11,Recibo,9697581,,2021-02-02,6.29,21138.05,Reembolsada,82016,8SgMYz6G,Zapatos System,86.11,10,Artículo Zapatos System en venta en tienda,fig_480,1
+790456066,18,86.11,Factura,4028538,,2015-09-18,66.67,26761.34,Cancelada,82016,8SgMYz6G,Zapatos System,86.11,10,Artículo Zapatos System en venta en tienda,fig_480,1
+570351807,44,72.63,Ticket de Venta,8934172,,2017-05-04,61.85,61025.67,En proceso,82016,f1XTQKhE,Zapatos Often,72.63,16,Artículo Zapatos Often en venta en tienda,fig_203,1
+614434453,55,72.63,Recibo,5340064,,2017-08-11,27.91,20774.81,Pendiente,82016,f1XTQKhE,Zapatos Often,72.63,16,Artículo Zapatos Often en venta en tienda,fig_203,1
+516016320,15,739.07,Nota de Crédito,4751090,,2021-03-17,84.42,30943.98,Pendiente,13750,Okdu5cKC,Bolígrafo Member,739.07,44,Artículo Bolígrafo Member en venta en tienda,fig_865,1
+708553224,13,739.07,Ticket de Venta,2063097,,2019-07-28,11.31,88683.41,Cancelada,13750,Okdu5cKC,Bolígrafo Member,739.07,44,Artículo Bolígrafo Member en venta en tienda,fig_865,1
+850386883,42,722.54,Nota de Crédito,4751090,,2021-03-17,84.42,30943.98,Pendiente,75369,bmOkiuMb,Teléfono Tend,722.54,34,Artículo Teléfono Tend en venta en tienda,fig_448,1
+871699258,43,720.33,Factura,2862431,,2019-06-06,14.65,65432.63,Cancelada,75369,39XQyXGY,Tableta Receive,720.33,19,Artículo Tableta Receive en venta en tienda,fig_243,1
+719704721,77,138.74,Nota de Débito,3480178,,2017-03-26,22.38,32448.67,En proceso,13750,l5dL1xqK,Bolígrafo Article,138.74,42,Artículo Bolígrafo Article en venta en tienda,fig_527,1
+994917323,28,138.74,Factura,9618484,,2021-05-14,87.0,91955.47,Pendiente,13750,l5dL1xqK,Bolígrafo Article,138.74,42,Artículo Bolígrafo Article en venta en tienda,fig_527,1
+984441024,13,185.17,Nota de Crédito,2914612,,2017-11-20,34.98,25895.34,Pendiente,32684,Z0kJgc59,Mesa Century,185.17,80,Artículo Mesa Century en venta en tienda,fig_53,1
+457370122,37,684.61,Nota de Crédito,2914612,,2017-11-20,34.98,25895.34,Pendiente,32684,Aou6TYQS,Cama Foot,684.61,22,Artículo Cama Foot en venta en tienda,fig_414,1
+290646860,4,385.43,Nota de Crédito,2914612,,2017-11-20,34.98,25895.34,Pendiente,13750,4e3KJcLv,Bolígrafo Measure,385.43,44,Artículo Bolígrafo Measure en venta en tienda,fig_930,1
+381893468,91,385.43,Ticket de Venta,3673838,,2018-09-26,10.19,82502.3,En proceso,13750,4e3KJcLv,Bolígrafo Measure,385.43,44,Artículo Bolígrafo Measure en venta en tienda,fig_930,1
+139335530,52,385.43,Nota de Crédito,1467519,,2017-02-22,39.62,39993.07,En proceso,13750,4e3KJcLv,Bolígrafo Measure,385.43,44,Artículo Bolígrafo Measure en venta en tienda,fig_930,1
+496785612,10,445.51,Nota de Crédito,9198192,,2015-04-16,38.22,7761.38,Completada,51470,vVjT6z0I,Pelota City,445.51,36,Artículo Pelota City en venta en tienda,fig_208,1
+878395208,65,445.51,Ticket de Venta,8210361,,2019-10-26,82.82,16384.46,Completada,51470,vVjT6z0I,Pelota City,445.51,36,Artículo Pelota City en venta en tienda,fig_208,1
+279788057,76,937.37,Nota de Crédito,9198192,,2015-04-16,38.22,7761.38,Completada,51470,Ozlcn7oZ,Juguete Structure,937.37,96,Artículo Juguete Structure en venta en tienda,fig_449,1
+734008416,7,871.33,Nota de Crédito,9198192,,2015-04-16,38.22,7761.38,Completada,97521,I14cfDDZ,Anillo Be,871.33,86,Artículo Anillo Be en venta en tienda,fig_63,1
+755839181,3,393.39,Ticket de Venta,1131307,,2023-08-06,65.33,18654.4,Pendiente,32684,5JSwCDyU,Cuadro Raise,393.39,95,Artículo Cuadro Raise en venta en tienda,fig_477,1
+217780708,25,393.39,Nota de Crédito,6693372,,2022-12-29,60.13,19121.31,Pendiente,32684,5JSwCDyU,Cuadro Raise,393.39,95,Artículo Cuadro Raise en venta en tienda,fig_477,1
+184180955,51,970.34,Recibo,8506412,,2023-06-03,82.12,73883.57,En proceso,40879,LBWpTdWL,Maquillaje Could,970.34,33,Artículo Maquillaje Could en venta en tienda,fig_773,1
+269100906,98,970.34,Boleta de Venta,2373711,,2016-01-21,93.71,38076.58,Reembolsada,40879,LBWpTdWL,Maquillaje Could,970.34,33,Artículo Maquillaje Could en venta en tienda,fig_773,1
+955973157,90,970.34,Nota de Crédito,5952967,,2019-01-12,88.53,33189.09,Pendiente,40879,LBWpTdWL,Maquillaje Could,970.34,33,Artículo Maquillaje Could en venta en tienda,fig_773,1
+461635449,99,207.64,Recibo,8506412,,2023-06-03,82.12,73883.57,En proceso,82016,yl8w4FoF,Zapatos Into,207.64,11,Artículo Zapatos Into en venta en tienda,fig_397,1
+841362296,0,207.64,Nota de Crédito,6356121,,2021-11-22,58.31,94484.64,En proceso,82016,yl8w4FoF,Zapatos Into,207.64,11,Artículo Zapatos Into en venta en tienda,fig_397,1
+882952687,37,207.64,Nota de Débito,4107625,,2017-06-11,51.04,24068.61,Pendiente,82016,yl8w4FoF,Zapatos Into,207.64,11,Artículo Zapatos Into en venta en tienda,fig_397,1
+540387551,10,456.4,Boleta de Venta,5522596,,2021-11-07,22.37,86910.95,En proceso,40879,smKp88ZC,Perfume Think,456.4,67,Artículo Perfume Think en venta en tienda,fig_305,1
+365590753,86,212.75,Ticket de Venta,1604218,,2015-09-25,39.87,50666.86,Completada,39582,kGaNfNKF,Suéter Security,212.75,55,Artículo Suéter Security en venta en tienda,fig_407,1
+608460782,55,212.75,Factura,6307704,,2020-08-12,87.77,79981.94,En proceso,39582,kGaNfNKF,Suéter Security,212.75,55,Artículo Suéter Security en venta en tienda,fig_407,1
+316991894,69,389.83,Ticket de Venta,1604218,,2015-09-25,39.87,50666.86,Completada,51470,4zaE9JVL,Pelota Cultural,389.83,44,Artículo Pelota Cultural en venta en tienda,fig_631,1
+614609162,96,389.83,Ticket de Venta,8699972,,2017-08-25,11.65,49851.63,En proceso,51470,4zaE9JVL,Pelota Cultural,389.83,44,Artículo Pelota Cultural en venta en tienda,fig_631,1
+203128619,80,389.83,Ticket de Venta,9001998,,2022-02-12,64.31,23203.06,Pendiente,51470,4zaE9JVL,Pelota Cultural,389.83,44,Artículo Pelota Cultural en venta en tienda,fig_631,1
+147260944,71,389.83,Boleta de Venta,6928851,,2020-06-25,1.58,74166.45,Reembolsada,51470,4zaE9JVL,Pelota Cultural,389.83,44,Artículo Pelota Cultural en venta en tienda,fig_631,1
+655675618,9,506.33,Boleta de Venta,2612603,,2018-04-12,69.91,35047.36,Reembolsada,40879,Qpp4RLYU,Maquillaje Next,506.33,92,Artículo Maquillaje Next en venta en tienda,fig_958,1
+818563332,39,80.34,Boleta de Venta,2612603,,2018-04-12,69.91,35047.36,Reembolsada,75369,x8g4VeD9,Portátil Either,80.34,4,Artículo Portátil Either en venta en tienda,fig_424,1
+774089271,87,80.34,Ticket de Venta,5484374,,2016-07-23,23.11,29378.69,Reembolsada,75369,x8g4VeD9,Portátil Either,80.34,4,Artículo Portátil Either en venta en tienda,fig_424,1
+204649470,95,80.34,Nota de Débito,1390325,,2023-06-24,17.73,7007.26,Reembolsada,75369,x8g4VeD9,Portátil Either,80.34,4,Artículo Portátil Either en venta en tienda,fig_424,1
+111209901,15,80.34,Ticket de Venta,5256918,,2020-02-03,76.73,60563.43,Reembolsada,75369,x8g4VeD9,Portátil Either,80.34,4,Artículo Portátil Either en venta en tienda,fig_424,1
+670853471,94,748.1,Boleta de Venta,2612603,,2018-04-12,69.91,35047.36,Reembolsada,32684,KV2hM3Cs,Silla Training,748.1,56,Artículo Silla Training en venta en tienda,fig_663,1
+788737844,84,602.86,Boleta de Venta,2612603,,2018-04-12,69.91,35047.36,Reembolsada,51470,c5nd8IZy,Juguete Begin,602.86,32,Artículo Juguete Begin en venta en tienda,fig_411,1
+874714753,32,602.86,Nota de Crédito,6447125,,2016-10-21,77.15,86941.76,Reembolsada,51470,c5nd8IZy,Juguete Begin,602.86,32,Artículo Juguete Begin en venta en tienda,fig_411,1
+443865076,2,602.86,Nota de Crédito,2245218,,2017-12-22,73.25,71284.86,En proceso,51470,c5nd8IZy,Juguete Begin,602.86,32,Artículo Juguete Begin en venta en tienda,fig_411,1
+236794084,79,972.55,Nota de Débito,8587273,,2018-10-26,94.24,14662.26,Cancelada,32684,Wen7Dksg,Jarrón Join,972.55,61,Artículo Jarrón Join en venta en tienda,fig_602,1
+619611164,8,972.55,Boleta de Venta,2337995,,2019-06-21,30.42,24386.63,Reembolsada,32684,Wen7Dksg,Jarrón Join,972.55,61,Artículo Jarrón Join en venta en tienda,fig_602,1
+110925696,54,659.86,Nota de Débito,8587273,,2018-10-26,94.24,14662.26,Cancelada,39582,cplKTQ9t,Pantalón Top,659.86,45,Artículo Pantalón Top en venta en tienda,fig_222,1
+328177934,67,659.86,Factura,1941800,,2021-12-29,31.56,71685.14,Cancelada,39582,cplKTQ9t,Pantalón Top,659.86,45,Artículo Pantalón Top en venta en tienda,fig_222,1
+488395532,42,17.91,Nota de Crédito,8319041,,2021-06-23,14.31,50239.23,Completada,32684,jbnq4CO0,Jarrón Force,17.91,40,Artículo Jarrón Force en venta en tienda,fig_609,1
+491472822,81,17.91,Nota de Débito,5996643,,2016-10-17,84.83,57011.8,Cancelada,32684,jbnq4CO0,Jarrón Force,17.91,40,Artículo Jarrón Force en venta en tienda,fig_609,1
+129728743,5,104.04,Boleta de Venta,2458480,,2018-07-14,45.95,2040.34,Cancelada,75369,ciOZkmzi,Tableta Hour,104.04,76,Artículo Tableta Hour en venta en tienda,fig_608,1
+416626919,92,926.72,Nota de Crédito,5157237,,2022-06-02,98.58,25173.28,Completada,97521,Z1LNaCuh,Reloj Discuss,926.72,30,Artículo Reloj Discuss en venta en tienda,fig_940,1
+631101679,31,477.73,Ticket de Venta,3673838,,2018-09-26,10.19,82502.3,En proceso,40879,ModSBrnl,Maquillaje Tonight,477.73,41,Artículo Maquillaje Tonight en venta en tienda,fig_972,1
+857809137,66,619.79,Recibo,5603393,,2022-06-05,55.89,16375.48,Cancelada,64218,wqZKLN7b,Galleta Soon,619.79,46,Artículo Galleta Soon en venta en tienda,fig_264,1
+353999097,63,763.52,Factura,1475283,,2017-05-30,3.79,46472.66,Completada,13750,imXHQvmZ,Bolígrafo With,763.52,29,Artículo Bolígrafo With en venta en tienda,fig_628,1
+254090056,16,763.52,Factura,8059327,,2021-08-23,3.79,73521.7,Cancelada,13750,imXHQvmZ,Bolígrafo With,763.52,29,Artículo Bolígrafo With en venta en tienda,fig_628,1
+856276067,31,763.52,Factura,6497084,,2016-02-12,72.63,48783.15,Cancelada,13750,imXHQvmZ,Bolígrafo With,763.52,29,Artículo Bolígrafo With en venta en tienda,fig_628,1
+624146893,61,426.8,Factura,1475283,,2017-05-30,3.79,46472.66,Completada,75369,4YTkjyoz,Teléfono Area,426.8,30,Artículo Teléfono Area en venta en tienda,fig_729,1
+751299101,32,779.44,Factura,1475283,,2017-05-30,3.79,46472.66,Completada,75369,QpI0Eu2W,Tableta Wish,779.44,93,Artículo Tableta Wish en venta en tienda,fig_887,1
+735935283,61,836.62,Factura,1475283,,2017-05-30,3.79,46472.66,Completada,64218,GHjZbPRu,Galleta Guess,836.62,60,Artículo Galleta Guess en venta en tienda,fig_152,1
+378720507,6,568.61,Factura,3290335,,2020-07-23,21.94,68161.48,Pendiente,75369,5w3RWhAI,Tableta Spring,568.61,34,Artículo Tableta Spring en venta en tienda,fig_160,1
+967659772,82,380.41,Nota de Débito,8709908,,2022-02-21,51.27,33038.0,Completada,32684,KrUndURi,Mesa Him,380.41,88,Artículo Mesa Him en venta en tienda,fig_618,1
+855649133,70,236.64,Nota de Débito,8709908,,2022-02-21,51.27,33038.0,Completada,75369,jpmeEDYa,Portátil Prepare,236.64,77,Artículo Portátil Prepare en venta en tienda,fig_99,1
+324712700,84,32.62,Factura,2674743,,2016-01-02,23.23,50183.11,Completada,39582,WbXd4Ysv,Camisa Truth,32.62,92,Artículo Camisa Truth en venta en tienda,fig_506,1
+788953339,47,295.82,Recibo,6785458,,2022-01-23,62.83,84149.6,Reembolsada,97521,H386bhwA,Reloj Likely,295.82,39,Artículo Reloj Likely en venta en tienda,fig_693,1
+659801669,78,295.82,Boleta de Venta,2619022,,2020-01-30,21.79,76274.38,Cancelada,97521,H386bhwA,Reloj Likely,295.82,39,Artículo Reloj Likely en venta en tienda,fig_693,1
+893838190,75,942.41,Recibo,6785458,,2022-01-23,62.83,84149.6,Reembolsada,82016,RoTuooMv,Tenis Message,942.41,7,Artículo Tenis Message en venta en tienda,fig_36,1
+195776771,60,599.8,Nota de Débito,3142673,,2023-01-22,25.55,88094.53,Reembolsada,51470,bEGuxM8s,Juguete Receive,599.8,68,Artículo Juguete Receive en venta en tienda,fig_350,1
+717159429,18,814.82,Nota de Débito,3142673,,2023-01-22,25.55,88094.53,Reembolsada,97521,xehoPG57,Reloj What,814.82,11,Artículo Reloj What en venta en tienda,fig_317,1
+452618500,35,456.07,Factura,1397716,,2016-05-17,35.1,83403.7,Completada,32684,v68L1vP9,Silla Hope,456.07,58,Artículo Silla Hope en venta en tienda,fig_888,1
+708448650,8,456.07,Nota de Crédito,9000550,,2022-01-23,41.54,31711.29,Reembolsada,32684,v68L1vP9,Silla Hope,456.07,58,Artículo Silla Hope en venta en tienda,fig_888,1
+613994234,47,456.07,Ticket de Venta,9190999,,2021-01-28,5.72,22482.35,Pendiente,32684,v68L1vP9,Silla Hope,456.07,58,Artículo Silla Hope en venta en tienda,fig_888,1
+957964721,58,472.02,Factura,1397716,,2016-05-17,35.1,83403.7,Completada,40879,rTm2NA7l,Maquillaje Whether,472.02,83,Artículo Maquillaje Whether en venta en tienda,fig_87,1
+514607671,7,472.02,Recibo,3516302,,2019-05-31,33.19,46271.16,Cancelada,40879,rTm2NA7l,Maquillaje Whether,472.02,83,Artículo Maquillaje Whether en venta en tienda,fig_87,1
+255571498,58,472.02,Factura,2982068,,2019-02-16,27.53,56693.76,En proceso,40879,rTm2NA7l,Maquillaje Whether,472.02,83,Artículo Maquillaje Whether en venta en tienda,fig_87,1
+427550688,68,857.46,Factura,1397716,,2016-05-17,35.1,83403.7,Completada,75369,Y6pkYJ8t,Teléfono Ten,857.46,20,Artículo Teléfono Ten en venta en tienda,fig_447,1
+933018509,64,857.46,Nota de Crédito,1011323,,2015-02-19,34.75,60016.7,Cancelada,75369,Y6pkYJ8t,Teléfono Ten,857.46,20,Artículo Teléfono Ten en venta en tienda,fig_447,1
+206850310,64,658.54,Ticket de Venta,1865401,,2020-12-17,46.52,24451.91,Cancelada,40879,cxvPkp8g,Maquillaje Once,658.54,37,Artículo Maquillaje Once en venta en tienda,fig_84,1
+195045121,33,209.73,Ticket de Venta,1865401,,2020-12-17,46.52,24451.91,Cancelada,32684,fbIop2cv,Cocina Forward,209.73,6,Artículo Cocina Forward en venta en tienda,fig_2,1
+439810310,16,409.01,Factura,3583267,,2016-08-28,74.12,51546.08,Pendiente,97521,iZXJcQPj,Reloj Measure,409.01,10,Artículo Reloj Measure en venta en tienda,fig_983,1
+599853314,77,492.79,Ticket de Venta,2911463,,2017-07-11,31.73,90648.34,En proceso,82016,8YZh8gU1,Tenis Call,492.79,77,Artículo Tenis Call en venta en tienda,fig_713,1
+942460227,10,492.79,Ticket de Venta,9827707,,2015-02-04,4.17,16995.91,Pendiente,82016,8YZh8gU1,Tenis Call,492.79,77,Artículo Tenis Call en venta en tienda,fig_713,1
+841093383,22,544.24,Boleta de Venta,6744277,,2020-06-22,89.41,98920.47,En proceso,75369,Pywy5dhW,Tableta Lose,544.24,90,Artículo Tableta Lose en venta en tienda,fig_585,1
+179321139,34,544.24,Nota de Crédito,7932884,,2018-11-27,40.42,72561.16,Reembolsada,75369,Pywy5dhW,Tableta Lose,544.24,90,Artículo Tableta Lose en venta en tienda,fig_585,1
+307662100,49,544.24,Nota de Débito,1307660,,2020-12-26,7.81,47006.31,Pendiente,75369,Pywy5dhW,Tableta Lose,544.24,90,Artículo Tableta Lose en venta en tienda,fig_585,1
+811524408,10,118.87,Ticket de Venta,8699972,,2017-08-25,11.65,49851.63,En proceso,32684,nQmlMsos,Jarrón Their,118.87,87,Artículo Jarrón Their en venta en tienda,fig_757,1
+182734685,36,118.87,Factura,2655769,,2017-08-04,22.27,62176.51,Cancelada,32684,nQmlMsos,Jarrón Their,118.87,87,Artículo Jarrón Their en venta en tienda,fig_757,1
+605047046,27,64.3,Factura,8241994,,2018-01-08,40.09,61739.32,Cancelada,32684,bHaYYILS,Cocina Wear,64.3,48,Artículo Cocina Wear en venta en tienda,fig_531,1
+972321926,61,64.3,Ticket de Venta,7616950,,2016-10-30,5.79,31446.88,Pendiente,32684,bHaYYILS,Cocina Wear,64.3,48,Artículo Cocina Wear en venta en tienda,fig_531,1
+508239024,88,655.17,Factura,1941800,,2021-12-29,31.56,71685.14,Cancelada,32684,QqSYJo2Z,Cama Those,655.17,58,Artículo Cama Those en venta en tienda,fig_722,1
+443523345,69,876.53,Nota de Débito,3299925,,2022-04-22,53.23,97303.34,En proceso,82016,qQ8bdeS9,Tenis Sign,876.53,28,Artículo Tenis Sign en venta en tienda,fig_691,1
+633518786,45,876.53,Factura,9409037,,2019-02-06,97.33,22146.16,En proceso,82016,qQ8bdeS9,Tenis Sign,876.53,28,Artículo Tenis Sign en venta en tienda,fig_691,1
+663795592,91,876.53,Nota de Débito,9599040,,2021-01-21,87.69,97213.81,En proceso,82016,qQ8bdeS9,Tenis Sign,876.53,28,Artículo Tenis Sign en venta en tienda,fig_691,1
+337659127,22,564.0,Nota de Débito,3299925,,2022-04-22,53.23,97303.34,En proceso,32684,4yN5wBY1,Cuadro Present,564.0,77,Artículo Cuadro Present en venta en tienda,fig_570,1
+722329905,90,564.0,Recibo,1207643,,2021-12-12,44.8,29133.21,En proceso,32684,4yN5wBY1,Cuadro Present,564.0,77,Artículo Cuadro Present en venta en tienda,fig_570,1
+198686995,77,648.35,Nota de Débito,5633712,,2015-08-17,85.68,66950.5,Reembolsada,32684,sOl41G5B,Alfombra Fear,648.35,88,Artículo Alfombra Fear en venta en tienda,fig_629,1
+687611774,67,648.35,Recibo,6329789,,2023-09-08,22.63,17970.8,En proceso,32684,sOl41G5B,Alfombra Fear,648.35,88,Artículo Alfombra Fear en venta en tienda,fig_629,1
+942924575,86,267.71,Nota de Débito,5633712,,2015-08-17,85.68,66950.5,Reembolsada,82016,p3fMwWEZ,Tenis Benefit,267.71,50,Artículo Tenis Benefit en venta en tienda,fig_195,1
+277549332,62,794.19,Ticket de Venta,2683028,,2023-08-10,70.5,35669.64,Reembolsada,82016,4X8RsCwe,Zapatos Group,794.19,34,Artículo Zapatos Group en venta en tienda,fig_150,1
+682726717,14,343.34,Ticket de Venta,2683028,,2023-08-10,70.5,35669.64,Reembolsada,13750,gjyjNKde,Bolígrafo Citizen,343.34,67,Artículo Bolígrafo Citizen en venta en tienda,fig_220,1
+205146388,2,529.62,Nota de Crédito,1725812,,2020-07-14,11.91,91762.08,Cancelada,82016,aheXHBvd,Zapatos Answer,529.62,14,Artículo Zapatos Answer en venta en tienda,fig_267,1
+917452528,68,529.62,Recibo,2998040,,2015-03-06,30.32,37649.54,En proceso,82016,aheXHBvd,Zapatos Answer,529.62,14,Artículo Zapatos Answer en venta en tienda,fig_267,1
+478325831,9,462.59,Nota de Crédito,1725812,,2020-07-14,11.91,91762.08,Cancelada,39582,6HA0H9Fw,Vestido Spend,462.59,87,Artículo Vestido Spend en venta en tienda,fig_683,1
+387540042,24,578.75,Nota de Crédito,1725812,,2020-07-14,11.91,91762.08,Cancelada,32684,htgelcmg,Cama Concern,578.75,56,Artículo Cama Concern en venta en tienda,fig_814,1
+448624920,99,831.26,Nota de Crédito,6447125,,2016-10-21,77.15,86941.76,Reembolsada,13750,eUKZ2udx,Libro Machine,831.26,10,Artículo Libro Machine en venta en tienda,fig_520,1
+662692715,3,323.09,Nota de Crédito,6447125,,2016-10-21,77.15,86941.76,Reembolsada,75369,XgjTQA9s,Tableta Choice,323.09,20,Artículo Tableta Choice en venta en tienda,fig_508,1
+823795682,54,323.09,Factura,7476280,,2018-12-05,6.09,75791.99,Reembolsada,75369,XgjTQA9s,Tableta Choice,323.09,20,Artículo Tableta Choice en venta en tienda,fig_508,1
+712771989,47,79.29,Factura,2982792,,2015-07-16,90.14,96204.87,Cancelada,39582,FVigqbFn,Camisa Real,79.29,15,Artículo Camisa Real en venta en tienda,fig_738,1
+798154478,2,79.29,Factura,8059327,,2021-08-23,3.79,73521.7,Cancelada,39582,FVigqbFn,Camisa Real,79.29,15,Artículo Camisa Real en venta en tienda,fig_738,1
+375475263,73,395.91,Factura,2982792,,2015-07-16,90.14,96204.87,Cancelada,40879,j7GtoBLU,Perfume Brother,395.91,70,Artículo Perfume Brother en venta en tienda,fig_903,1
+168943900,74,161.72,Recibo,2110189,,2016-06-29,58.09,17687.51,En proceso,39582,cdxBhyAK,Camisa Read,161.72,8,Artículo Camisa Read en venta en tienda,fig_193,1
+139861363,41,161.72,Boleta de Venta,8793447,,2022-10-16,92.0,94834.82,Completada,39582,cdxBhyAK,Camisa Read,161.72,8,Artículo Camisa Read en venta en tienda,fig_193,1
+371405089,3,556.77,Factura,1049207,,2020-10-03,21.38,34705.41,Completada,32684,VhkE1PmB,Lámpara Cause,556.77,65,Artículo Lámpara Cause en venta en tienda,fig_935,1
+515698462,2,556.77,Boleta de Venta,2682538,,2019-07-27,94.04,43231.39,En proceso,32684,VhkE1PmB,Lámpara Cause,556.77,65,Artículo Lámpara Cause en venta en tienda,fig_935,1
+440722286,52,556.77,Ticket de Venta,8291147,,2023-08-22,45.2,4568.8,En proceso,32684,VhkE1PmB,Lámpara Cause,556.77,65,Artículo Lámpara Cause en venta en tienda,fig_935,1
+444107042,2,396.82,Ticket de Venta,8797979,,2017-08-05,96.94,97629.57,Reembolsada,13750,rnNGKdTA,Libro Baby,396.82,34,Artículo Libro Baby en venta en tienda,fig_12,1
+832735911,65,396.82,Nota de Débito,8310293,,2015-03-04,30.87,40320.91,Cancelada,13750,rnNGKdTA,Libro Baby,396.82,34,Artículo Libro Baby en venta en tienda,fig_12,1
+246395199,66,200.43,Ticket de Venta,8797979,,2017-08-05,96.94,97629.57,Reembolsada,75369,yPExnI5w,Tableta Rest,200.43,22,Artículo Tableta Rest en venta en tienda,fig_799,1
+549344606,15,200.43,Recibo,7342774,,2022-12-09,19.93,23695.29,Cancelada,75369,yPExnI5w,Tableta Rest,200.43,22,Artículo Tableta Rest en venta en tienda,fig_799,1
+458456091,65,654.64,Ticket de Venta,8797979,,2017-08-05,96.94,97629.57,Reembolsada,32684,uVQGbCFN,Cama Million,654.64,17,Artículo Cama Million en venta en tienda,fig_846,1
+725625907,29,654.64,Factura,6268093,,2019-01-14,31.91,4612.88,En proceso,32684,uVQGbCFN,Cama Million,654.64,17,Artículo Cama Million en venta en tienda,fig_846,1
+386073526,82,654.64,Boleta de Venta,2682538,,2019-07-27,94.04,43231.39,En proceso,32684,uVQGbCFN,Cama Million,654.64,17,Artículo Cama Million en venta en tienda,fig_846,1
+424879061,63,654.64,Factura,2536418,,2022-09-08,86.48,17687.5,En proceso,32684,uVQGbCFN,Cama Million,654.64,17,Artículo Cama Million en venta en tienda,fig_846,1
+244683043,66,559.81,Nota de Débito,6942346,,2018-03-27,23.39,78903.71,Pendiente,51470,ffNh3iMW,Pelota Production,559.81,58,Artículo Pelota Production en venta en tienda,fig_530,1
+557470818,86,654.58,Nota de Débito,6942346,,2018-03-27,23.39,78903.71,Pendiente,75369,YfoSXBNu,Tableta Why,654.58,61,Artículo Tableta Why en venta en tienda,fig_579,1
+655876388,80,745.76,Factura,7476280,,2018-12-05,6.09,75791.99,Reembolsada,32684,VCwShbpi,Lámpara Evening,745.76,3,Artículo Lámpara Evening en venta en tienda,fig_642,1
+394111750,78,745.76,Recibo,9577742,,2020-02-02,15.35,48304.56,Cancelada,32684,VCwShbpi,Lámpara Evening,745.76,3,Artículo Lámpara Evening en venta en tienda,fig_642,1
+717110771,8,745.76,Ticket de Venta,6753440,,2018-11-16,47.52,80792.54,Cancelada,32684,VCwShbpi,Lámpara Evening,745.76,3,Artículo Lámpara Evening en venta en tienda,fig_642,1
+304550181,66,891.14,Recibo,9697581,,2021-02-02,6.29,21138.05,Reembolsada,51470,mDi1Eryo,Juguete Forward,891.14,19,Artículo Juguete Forward en venta en tienda,fig_75,1
+511431833,4,891.14,Factura,9522894,,2022-03-25,15.66,58468.85,Pendiente,51470,mDi1Eryo,Juguete Forward,891.14,19,Artículo Juguete Forward en venta en tienda,fig_75,1
+209507103,96,795.49,Recibo,9697581,,2021-02-02,6.29,21138.05,Reembolsada,32684,jN5MFupI,Lámpara Involve,795.49,4,Artículo Lámpara Involve en venta en tienda,fig_820,1
+445351303,88,795.49,Ticket de Venta,1866176,,2017-08-09,65.25,79882.25,Cancelada,32684,jN5MFupI,Lámpara Involve,795.49,4,Artículo Lámpara Involve en venta en tienda,fig_820,1
+808010572,26,795.49,Nota de Crédito,4065971,,2015-03-14,44.26,38075.87,En proceso,32684,jN5MFupI,Lámpara Involve,795.49,4,Artículo Lámpara Involve en venta en tienda,fig_820,1
+724515664,21,550.26,Recibo,9697581,,2021-02-02,6.29,21138.05,Reembolsada,40879,eAoHo2xW,Maquillaje Range,550.26,25,Artículo Maquillaje Range en venta en tienda,fig_627,1
+846763536,1,595.43,Recibo,9697581,,2021-02-02,6.29,21138.05,Reembolsada,39582,QGNRRKUu,Suéter Out,595.43,9,Artículo Suéter Out en venta en tienda,fig_22,1
+121479511,4,595.43,Ticket de Venta,3295122,,2023-03-03,71.6,56401.64,Cancelada,39582,QGNRRKUu,Suéter Out,595.43,9,Artículo Suéter Out en venta en tienda,fig_22,1
+384901855,52,595.43,Recibo,8838823,,2018-01-07,70.49,36760.97,En proceso,39582,QGNRRKUu,Suéter Out,595.43,9,Artículo Suéter Out en venta en tienda,fig_22,1
+541620521,11,993.26,Recibo,5267279,,2020-08-12,24.13,32523.71,Cancelada,39582,Ly5eoftW,Vestido I,993.26,13,Artículo Vestido I en venta en tienda,fig_113,1
+629690860,37,366.1,Recibo,5267279,,2020-08-12,24.13,32523.71,Cancelada,40879,H7U4tlWk,Perfume Eye,366.1,8,Artículo Perfume Eye en venta en tienda,fig_330,1
+526525548,4,366.1,Factura,7156035,,2017-05-26,37.86,78307.89,Completada,40879,H7U4tlWk,Perfume Eye,366.1,8,Artículo Perfume Eye en venta en tienda,fig_330,1
+186411306,16,195.17,Nota de Débito,1855065,,2018-10-25,12.15,13817.94,Completada,32684,5QC1JGCD,Jarrón Imagine,195.17,74,Artículo Jarrón Imagine en venta en tienda,fig_736,1
+745565463,59,195.17,Ticket de Venta,9375091,,2015-01-15,74.64,4544.61,Cancelada,32684,5QC1JGCD,Jarrón Imagine,195.17,74,Artículo Jarrón Imagine en venta en tienda,fig_736,1
+104834765,66,195.17,Ticket de Venta,4983047,,2018-07-28,0.29,33914.02,Completada,32684,5QC1JGCD,Jarrón Imagine,195.17,74,Artículo Jarrón Imagine en venta en tienda,fig_736,1
+395782443,24,151.08,Nota de Crédito,3196084,,2015-07-27,20.47,15333.57,Reembolsada,40879,86g503Gk,Perfume Few,151.08,38,Artículo Perfume Few en venta en tienda,fig_284,1
+826215870,20,151.08,Nota de Crédito,1751778,,2021-08-09,36.62,87274.81,Completada,40879,86g503Gk,Perfume Few,151.08,38,Artículo Perfume Few en venta en tienda,fig_284,1
+264553658,51,82.49,Nota de Crédito,3196084,,2015-07-27,20.47,15333.57,Reembolsada,32684,7px3E857,Cuadro Doctor,82.49,80,Artículo Cuadro Doctor en venta en tienda,fig_765,1
+341548308,31,82.49,Nota de Débito,4926586,,2018-05-07,71.97,59832.69,Completada,32684,7px3E857,Cuadro Doctor,82.49,80,Artículo Cuadro Doctor en venta en tienda,fig_765,1
+244563544,72,815.06,Nota de Crédito,3196084,,2015-07-27,20.47,15333.57,Reembolsada,32684,StTbKc41,Jarrón Occur,815.06,81,Artículo Jarrón Occur en venta en tienda,fig_897,1
+122091233,76,424.8,Nota de Crédito,6356121,,2021-11-22,58.31,94484.64,En proceso,97521,910e6w2L,Anillo Important,424.8,73,Artículo Anillo Important en venta en tienda,fig_128,1
+399507758,99,998.27,Nota de Crédito,6230877,,2015-11-13,23.82,38264.08,En proceso,51470,ELSrutdn,Juguete All,998.27,13,Artículo Juguete All en venta en tienda,fig_109,1
+297462623,45,998.27,Nota de Débito,4675270,,2018-09-05,86.38,24833.21,Reembolsada,51470,ELSrutdn,Juguete All,998.27,13,Artículo Juguete All en venta en tienda,fig_109,1
+253940015,1,80.81,Recibo,1853082,,2023-10-20,6.55,53701.51,Pendiente,39582,HmyvwQN6,Suéter Have,80.81,36,Artículo Suéter Have en venta en tienda,fig_808,1
+143222329,85,352.9,Nota de Crédito,7932884,,2018-11-27,40.42,72561.16,Reembolsada,32684,w3CJiQdY,Jarrón Positive,352.9,36,Artículo Jarrón Positive en venta en tienda,fig_807,1
+613850972,68,872.34,Nota de Crédito,7932884,,2018-11-27,40.42,72561.16,Reembolsada,82016,8dESpMH7,Zapatos Shake,872.34,88,Artículo Zapatos Shake en venta en tienda,fig_550,1
+176636505,1,872.34,Nota de Débito,8888691,,2020-05-14,39.78,54737.68,Cancelada,82016,8dESpMH7,Zapatos Shake,872.34,88,Artículo Zapatos Shake en venta en tienda,fig_550,1
+831570232,77,566.65,Ticket de Venta,2228372,,2018-08-12,71.66,28877.11,Reembolsada,82016,gf3k2rDv,Tenis Better,566.65,78,Artículo Tenis Better en venta en tienda,fig_351,1
+889349051,76,331.74,Ticket de Venta,2228372,,2018-08-12,71.66,28877.11,Reembolsada,32684,nXgpGSOh,Lámpara Sure,331.74,87,Artículo Lámpara Sure en venta en tienda,fig_354,1
+606355774,12,487.29,Recibo,8486188,,2016-12-10,18.52,56777.93,En proceso,39582,8W7Ed4G5,Pantalón Shoulder,487.29,15,Artículo Pantalón Shoulder en venta en tienda,fig_842,1
+437244979,22,174.51,Recibo,8486188,,2016-12-10,18.52,56777.93,En proceso,32684,OkPUx8a6,Lámpara Spring,174.51,52,Artículo Lámpara Spring en venta en tienda,fig_54,1
+742035328,35,174.51,Nota de Crédito,1923719,,2021-04-02,12.93,54715.66,En proceso,32684,OkPUx8a6,Lámpara Spring,174.51,52,Artículo Lámpara Spring en venta en tienda,fig_54,1
+729305410,48,810.43,Ticket de Venta,9001998,,2022-02-12,64.31,23203.06,Pendiente,32684,NAkduEqN,Lámpara Fish,810.43,5,Artículo Lámpara Fish en venta en tienda,fig_441,1
+709405322,33,810.43,Recibo,9806271,,2023-10-26,87.68,81345.46,Reembolsada,32684,NAkduEqN,Lámpara Fish,810.43,5,Artículo Lámpara Fish en venta en tienda,fig_441,1
+863492800,38,761.97,Ticket de Venta,9001998,,2022-02-12,64.31,23203.06,Pendiente,40879,41IHDM82,Maquillaje Lot,761.97,9,Artículo Maquillaje Lot en venta en tienda,fig_149,1
+642471054,33,761.97,Nota de Débito,6022379,,2018-05-06,29.91,83567.64,Reembolsada,40879,41IHDM82,Maquillaje Lot,761.97,9,Artículo Maquillaje Lot en venta en tienda,fig_149,1
+449657162,95,533.91,Factura,4447962,,2019-10-26,89.67,51270.64,Completada,32684,BYOtFkym,Cocina Approach,533.91,52,Artículo Cocina Approach en venta en tienda,fig_981,1
+146245360,26,302.35,Factura,2423580,,2021-07-17,61.35,72185.68,Cancelada,32684,vMDYqGfB,Mesa Environmental,302.35,99,Artículo Mesa Environmental en venta en tienda,fig_766,1
+787628833,36,302.35,Factura,9903362,,2020-10-08,43.14,40336.85,Reembolsada,32684,vMDYqGfB,Mesa Environmental,302.35,99,Artículo Mesa Environmental en venta en tienda,fig_766,1
+821218987,73,302.35,Nota de Crédito,8974735,,2023-07-08,77.95,60324.23,Cancelada,32684,vMDYqGfB,Mesa Environmental,302.35,99,Artículo Mesa Environmental en venta en tienda,fig_766,1
+521034065,77,907.97,Factura,7240582,,2020-01-12,96.23,44928.53,Reembolsada,13750,26ZVzrpd,Libro Risk,907.97,76,Artículo Libro Risk en venta en tienda,fig_242,1
+875646581,67,907.97,Factura,3110029,,2023-09-08,89.6,5151.93,Pendiente,13750,26ZVzrpd,Libro Risk,907.97,76,Artículo Libro Risk en venta en tienda,fig_242,1
+367880532,40,56.32,Recibo,1510117,,2018-07-09,61.35,52373.68,Cancelada,40879,4lsftyEu,Perfume Try,56.32,96,Artículo Perfume Try en venta en tienda,fig_324,1
+512888173,24,56.32,Factura,8023605,,2015-05-23,55.73,55201.55,Cancelada,40879,4lsftyEu,Perfume Try,56.32,96,Artículo Perfume Try en venta en tienda,fig_324,1
+185422816,87,229.01,Recibo,1510117,,2018-07-09,61.35,52373.68,Cancelada,39582,FK2chSV6,Camisa Past,229.01,81,Artículo Camisa Past en venta en tienda,fig_755,1
+680282460,2,102.24,Boleta de Venta,1587946,,2015-07-26,8.81,89171.08,Pendiente,75369,tDs7kp17,Teléfono Range,102.24,69,Artículo Teléfono Range en venta en tienda,fig_322,1
+999554526,25,102.24,Nota de Crédito,9000550,,2022-01-23,41.54,31711.29,Reembolsada,75369,tDs7kp17,Teléfono Range,102.24,69,Artículo Teléfono Range en venta en tienda,fig_322,1
+595209426,4,549.58,Boleta de Venta,1587946,,2015-07-26,8.81,89171.08,Pendiente,32684,PxUZEEzm,Jarrón Family,549.58,73,Artículo Jarrón Family en venta en tienda,fig_945,1
+647201118,60,130.69,Recibo,8883120,,2017-03-28,19.39,17550.53,En proceso,39582,kQcGEvzC,Vestido Natural,130.69,13,Artículo Vestido Natural en venta en tienda,fig_694,1
+558755227,56,130.69,Nota de Crédito,1751778,,2021-08-09,36.62,87274.81,Completada,39582,kQcGEvzC,Vestido Natural,130.69,13,Artículo Vestido Natural en venta en tienda,fig_694,1
+353077766,89,762.71,Recibo,8883120,,2017-03-28,19.39,17550.53,En proceso,82016,Ll1yGD30,Tenis Expect,762.71,16,Artículo Tenis Expect en venta en tienda,fig_649,1
+278159711,10,680.8,Nota de Crédito,2352477,,2016-06-17,37.78,88797.11,En proceso,75369,MfOj3Zux,Teléfono Treat,680.8,8,Artículo Teléfono Treat en venta en tienda,fig_872,1
+824003641,80,450.88,Nota de Crédito,2352477,,2016-06-17,37.78,88797.11,En proceso,40879,mQDKUP8C,Maquillaje Suggest,450.88,96,Artículo Maquillaje Suggest en venta en tienda,fig_362,1
+734807212,47,450.88,Boleta de Venta,7799619,,2015-12-01,27.03,74441.44,Cancelada,40879,mQDKUP8C,Maquillaje Suggest,450.88,96,Artículo Maquillaje Suggest en venta en tienda,fig_362,1
+212029791,55,723.09,Nota de Débito,8664744,,2017-06-23,62.46,38933.22,Pendiente,51470,TG3BbPEw,Juguete A,723.09,45,Artículo Juguete A en venta en tienda,fig_598,1
+364109790,94,723.09,Nota de Débito,8469582,,2021-04-17,13.67,73938.21,Reembolsada,51470,TG3BbPEw,Juguete A,723.09,45,Artículo Juguete A en venta en tienda,fig_598,1
+801646950,34,158.94,Nota de Crédito,8843925,,2022-05-27,25.18,16925.76,Reembolsada,75369,FjhHt6L5,Portátil Treatment,158.94,69,Artículo Portátil Treatment en venta en tienda,fig_772,1
+675304219,35,158.94,Nota de Débito,9736040,,2015-10-23,13.84,94081.02,Pendiente,75369,FjhHt6L5,Portátil Treatment,158.94,69,Artículo Portátil Treatment en venta en tienda,fig_772,1
+330549223,49,158.94,Recibo,8068372,,2016-03-17,96.3,20109.69,Pendiente,75369,FjhHt6L5,Portátil Treatment,158.94,69,Artículo Portátil Treatment en venta en tienda,fig_772,1
+974401894,20,283.72,Ticket de Venta,1866176,,2017-08-09,65.25,79882.25,Cancelada,39582,uKROzEnB,Suéter Shake,283.72,72,Artículo Suéter Shake en venta en tienda,fig_482,1
+403445715,48,279.56,Ticket de Venta,1866176,,2017-08-09,65.25,79882.25,Cancelada,75369,fhgLFDZH,Tableta Quite,279.56,38,Artículo Tableta Quite en venta en tienda,fig_505,1
+331829608,24,809.92,Factura,7402235,,2016-04-04,44.24,18013.96,En proceso,13750,qB9NFOuT,Libro Fight,809.92,63,Artículo Libro Fight en venta en tienda,fig_936,1
+529087015,20,809.92,Recibo,3917700,,2016-04-22,87.23,5642.46,En proceso,13750,qB9NFOuT,Libro Fight,809.92,63,Artículo Libro Fight en venta en tienda,fig_936,1
+111089618,33,364.88,Factura,7402235,,2016-04-04,44.24,18013.96,En proceso,32684,lLuJpsMM,Cama Every,364.88,89,Artículo Cama Every en venta en tienda,fig_556,1
+797302345,40,364.88,Nota de Crédito,4065971,,2015-03-14,44.26,38075.87,En proceso,32684,lLuJpsMM,Cama Every,364.88,89,Artículo Cama Every en venta en tienda,fig_556,1
+786879527,57,364.88,Nota de Débito,6022379,,2018-05-06,29.91,83567.64,Reembolsada,32684,lLuJpsMM,Cama Every,364.88,89,Artículo Cama Every en venta en tienda,fig_556,1
+312195435,47,67.71,Recibo,3726748,,2015-08-08,4.16,31642.78,Cancelada,32684,KlWigwf7,Mesa Ball,67.71,79,Artículo Mesa Ball en venta en tienda,fig_592,1
+533967836,56,67.71,Nota de Débito,5546811,,2017-07-08,64.24,71344.63,Reembolsada,32684,KlWigwf7,Mesa Ball,67.71,79,Artículo Mesa Ball en venta en tienda,fig_592,1
+125915500,33,136.35,Factura,1575709,,2016-09-26,55.5,63522.11,Pendiente,51470,Deb1dszE,Juguete Exist,136.35,83,Artículo Juguete Exist en venta en tienda,fig_724,1
+816079245,51,136.35,Nota de Crédito,8774524,,2015-01-10,83.29,57993.31,Reembolsada,51470,Deb1dszE,Juguete Exist,136.35,83,Artículo Juguete Exist en venta en tienda,fig_724,1
+253856110,63,841.83,Ticket de Venta,6144239,,2022-02-26,31.27,11623.56,Reembolsada,32684,uRe4MlOu,Cama Strong,841.83,46,Artículo Cama Strong en venta en tienda,fig_70,1
+475866253,35,325.73,Ticket de Venta,6144239,,2022-02-26,31.27,11623.56,Reembolsada,51470,o8QvkvOt,Pelota Fly,325.73,54,Artículo Pelota Fly en venta en tienda,fig_44,1
+255660399,65,76.65,Nota de Débito,9988174,,2019-09-07,11.05,87743.55,Cancelada,97521,cNkEUB0v,Anillo Step,76.65,67,Artículo Anillo Step en venta en tienda,fig_263,1
+367944050,30,569.76,Ticket de Venta,8051564,,2018-04-07,17.03,64266.99,Completada,13750,c3NibM5u,Bolígrafo Job,569.76,63,Artículo Bolígrafo Job en venta en tienda,fig_909,1
+889216056,62,569.76,Ticket de Venta,7145080,,2017-12-17,76.94,35118.63,Cancelada,13750,c3NibM5u,Bolígrafo Job,569.76,63,Artículo Bolígrafo Job en venta en tienda,fig_909,1
+299355897,19,569.76,Ticket de Venta,7448801,,2019-11-29,14.61,19712.67,Pendiente,13750,c3NibM5u,Bolígrafo Job,569.76,63,Artículo Bolígrafo Job en venta en tienda,fig_909,1
+681045242,99,946.56,Ticket de Venta,8051564,,2018-04-07,17.03,64266.99,Completada,39582,hSJdvXVJ,Pantalón Fine,946.56,31,Artículo Pantalón Fine en venta en tienda,fig_181,1
+799689990,84,439.54,Boleta de Venta,2682014,,2015-01-24,7.93,36461.58,Cancelada,39582,bxbDsISy,Pantalón Cut,439.54,30,Artículo Pantalón Cut en venta en tienda,fig_604,1
+125716345,67,439.54,Factura,1533588,,2023-09-10,28.53,8316.58,En proceso,39582,bxbDsISy,Pantalón Cut,439.54,30,Artículo Pantalón Cut en venta en tienda,fig_604,1
+413725049,71,277.57,Nota de Débito,9494790,,2022-10-16,6.6,97896.07,Reembolsada,32684,Y6gLaGeW,Alfombra Sport,277.57,38,Artículo Alfombra Sport en venta en tienda,fig_381,1
+871942598,69,421.89,Nota de Débito,9494790,,2022-10-16,6.6,97896.07,Reembolsada,51470,FcEV6201,Juguete Face,421.89,89,Artículo Juguete Face en venta en tienda,fig_71,1
+777164358,27,421.89,Factura,9744790,,2018-06-01,75.07,56493.73,Pendiente,51470,FcEV6201,Juguete Face,421.89,89,Artículo Juguete Face en venta en tienda,fig_71,1
+585693564,53,303.99,Ticket de Venta,8958737,,2023-02-28,26.41,94952.89,Pendiente,97521,Cs1bij33,Reloj For,303.99,87,Artículo Reloj For en venta en tienda,fig_607,1
+209572497,60,303.99,Nota de Débito,3515017,,2018-07-10,63.63,57444.07,Pendiente,97521,Cs1bij33,Reloj For,303.99,87,Artículo Reloj For en venta en tienda,fig_607,1
+140976509,42,60.04,Nota de Crédito,2242955,,2022-10-01,30.29,96319.2,Completada,32684,LXpkvQTX,Mesa Least,60.04,60,Artículo Mesa Least en venta en tienda,fig_654,1
+210771566,17,60.04,Boleta de Venta,6505317,,2022-05-03,33.14,85468.94,Completada,32684,LXpkvQTX,Mesa Least,60.04,60,Artículo Mesa Least en venta en tienda,fig_654,1
+843702678,92,105.28,Nota de Crédito,2242955,,2022-10-01,30.29,96319.2,Completada,40879,pUNUV8Vz,Maquillaje Prevent,105.28,98,Artículo Maquillaje Prevent en venta en tienda,fig_298,1
+404380030,74,308.63,Boleta de Venta,6505317,,2022-05-03,33.14,85468.94,Completada,39582,Izp042Ke,Pantalón Level,308.63,71,Artículo Pantalón Level en venta en tienda,fig_340,1
+235291007,24,847.57,Nota de Crédito,3966174,,2016-05-11,98.55,55027.49,Reembolsada,75369,tN8fV2nz,Teléfono American,847.57,47,Artículo Teléfono American en venta en tienda,fig_919,1
+888238602,48,847.57,Recibo,1912948,,2017-08-01,92.54,27556.45,Pendiente,75369,tN8fV2nz,Teléfono American,847.57,47,Artículo Teléfono American en venta en tienda,fig_919,1
+720241477,27,847.57,Boleta de Venta,2277723,,2016-05-24,63.83,19806.98,Completada,75369,tN8fV2nz,Teléfono American,847.57,47,Artículo Teléfono American en venta en tienda,fig_919,1
+438829440,10,924.72,Nota de Crédito,2670879,,2018-03-21,72.41,60456.9,En proceso,39582,s0QAre01,Pantalón Near,924.72,82,Artículo Pantalón Near en venta en tienda,fig_325,1
+112373130,2,924.72,Nota de Crédito,7638799,,2015-07-02,21.45,12708.31,Cancelada,39582,s0QAre01,Pantalón Near,924.72,82,Artículo Pantalón Near en venta en tienda,fig_325,1
+374694274,49,327.86,Recibo,6551641,,2015-09-10,38.29,53380.22,Cancelada,32684,qpeekFX1,Cocina From,327.86,47,Artículo Cocina From en venta en tienda,fig_876,1
+141296486,80,871.89,Recibo,6551641,,2015-09-10,38.29,53380.22,Cancelada,40879,iZzrKfdJ,Maquillaje Image,871.89,61,Artículo Maquillaje Image en venta en tienda,fig_391,1
+769642889,58,767.1,Nota de Crédito,3185927,,2015-02-24,5.0,95893.13,Reembolsada,75369,iwLtLaRT,Portátil Piece,767.1,81,Artículo Portátil Piece en venta en tienda,fig_554,1
+343592113,64,767.1,Factura,1952384,,2018-08-27,0.11,95760.3,Cancelada,75369,iwLtLaRT,Portátil Piece,767.1,81,Artículo Portátil Piece en venta en tienda,fig_554,1
+322438660,19,227.73,Nota de Crédito,9000550,,2022-01-23,41.54,31711.29,Reembolsada,32684,9j9ZsvPn,Cuadro Specific,227.73,51,Artículo Cuadro Specific en venta en tienda,fig_389,1
+739510811,76,227.73,Ticket de Venta,3361089,,2019-09-07,87.49,85025.32,Completada,32684,9j9ZsvPn,Cuadro Specific,227.73,51,Artículo Cuadro Specific en venta en tienda,fig_389,1
+567650699,71,880.47,Nota de Crédito,7867917,,2017-04-30,0.93,21623.47,Pendiente,32684,WxTnLlGm,Cocina Choose,880.47,90,Artículo Cocina Choose en venta en tienda,fig_9,1
+873411237,35,880.47,Ticket de Venta,3972620,,2018-11-15,89.66,16758.55,Pendiente,32684,WxTnLlGm,Cocina Choose,880.47,90,Artículo Cocina Choose en venta en tienda,fig_9,1
+490992021,18,955.66,Factura,4158381,,2019-02-08,98.39,66817.69,En proceso,82016,lWXBAU8C,Tenis Usually,955.66,79,Artículo Tenis Usually en venta en tienda,fig_522,1
+201297096,91,455.35,Factura,4158381,,2019-02-08,98.39,66817.69,En proceso,13750,58RgtHCc,Libro Whole,455.35,83,Artículo Libro Whole en venta en tienda,fig_332,1
+125850224,46,376.89,Nota de Crédito,8774524,,2015-01-10,83.29,57993.31,Reembolsada,39582,U0RRD7qf,Suéter Ability,376.89,86,Artículo Suéter Ability en venta en tienda,fig_135,1
+146299282,95,985.89,Nota de Débito,1193105,,2022-06-09,60.62,14995.94,Cancelada,32684,nzD1OdeW,Silla Vote,985.89,10,Artículo Silla Vote en venta en tienda,fig_20,1
+172971982,22,985.89,Ticket de Venta,1365033,,2017-08-09,80.22,1609.69,Reembolsada,32684,nzD1OdeW,Silla Vote,985.89,10,Artículo Silla Vote en venta en tienda,fig_20,1
+734341522,47,812.73,Boleta de Venta,9182129,,2017-05-23,32.1,66846.34,Completada,39582,fzhVDJGz,Vestido After,812.73,86,Artículo Vestido After en venta en tienda,fig_363,1
+349656050,39,812.73,Recibo,9819709,,2021-11-05,25.47,195.46,Cancelada,39582,fzhVDJGz,Vestido After,812.73,86,Artículo Vestido After en venta en tienda,fig_363,1
+316076436,93,863.98,Nota de Crédito,5687247,,2015-08-13,88.99,89531.94,Reembolsada,82016,HTb5jaqT,Zapatos Show,863.98,14,Artículo Zapatos Show en venta en tienda,fig_28,1
+286323131,24,177.57,Nota de Crédito,5687247,,2015-08-13,88.99,89531.94,Reembolsada,32684,5sZXZ6SB,Cama Meeting,177.57,23,Artículo Cama Meeting en venta en tienda,fig_215,1
+690807617,14,177.57,Boleta de Venta,6936950,,2019-04-17,46.3,28021.55,Completada,32684,5sZXZ6SB,Cama Meeting,177.57,23,Artículo Cama Meeting en venta en tienda,fig_215,1
+618605793,48,177.57,Recibo,1104475,,2021-02-17,88.21,24538.63,Pendiente,32684,5sZXZ6SB,Cama Meeting,177.57,23,Artículo Cama Meeting en venta en tienda,fig_215,1
+173836695,26,450.62,Nota de Débito,1307660,,2020-12-26,7.81,47006.31,Pendiente,97521,JFfSLvF5,Reloj Reduce,450.62,83,Artículo Reloj Reduce en venta en tienda,fig_701,1
+309160352,54,465.7,Nota de Crédito,6539557,,2016-07-25,25.02,93351.21,Pendiente,75369,bJyAsoBy,Teléfono Beautiful,465.7,52,Artículo Teléfono Beautiful en venta en tienda,fig_679,1
+526823841,83,976.98,Nota de Crédito,8914885,,2021-06-07,11.2,44135.06,En proceso,39582,PJuZoODK,Vestido Save,976.98,7,Artículo Vestido Save en venta en tienda,fig_370,1
+789750483,81,809.65,Nota de Crédito,8914885,,2021-06-07,11.2,44135.06,En proceso,13750,2ZIdpXm0,Libro Director,809.65,12,Artículo Libro Director en venta en tienda,fig_559,1
+934776231,96,809.65,Ticket de Venta,2250088,,2016-08-07,47.62,13330.99,Pendiente,13750,2ZIdpXm0,Libro Director,809.65,12,Artículo Libro Director en venta en tienda,fig_559,1
+937425841,55,483.9,Nota de Crédito,8914885,,2021-06-07,11.2,44135.06,En proceso,75369,esOxiIJO,Portátil Happen,483.9,21,Artículo Portátil Happen en venta en tienda,fig_882,1
+322474696,7,483.9,Factura,4290631,,2021-05-17,97.82,97235.2,Completada,75369,esOxiIJO,Portátil Happen,483.9,21,Artículo Portátil Happen en venta en tienda,fig_882,1
+291890685,27,483.9,Ticket de Venta,3191326,,2016-04-03,74.51,76624.55,En proceso,75369,esOxiIJO,Portátil Happen,483.9,21,Artículo Portátil Happen en venta en tienda,fig_882,1
+163796478,56,211.14,Nota de Crédito,8914885,,2021-06-07,11.2,44135.06,En proceso,39582,TWmDyKUU,Vestido Board,211.14,18,Artículo Vestido Board en venta en tienda,fig_132,1
+880813799,96,211.14,Recibo,1759235,,2016-05-31,40.71,83536.47,Cancelada,39582,TWmDyKUU,Vestido Board,211.14,18,Artículo Vestido Board en venta en tienda,fig_132,1
+689665987,33,436.6,Nota de Crédito,8914885,,2021-06-07,11.2,44135.06,En proceso,64218,sHYyUhGh,Galleta Old,436.6,55,Artículo Galleta Old en venta en tienda,fig_815,1
+356430244,25,298.2,Recibo,9666743,,2021-08-23,6.51,18780.57,Cancelada,39582,pWhEto0r,Camisa Toward,298.2,60,Artículo Camisa Toward en venta en tienda,fig_399,1
+203258490,3,143.24,Nota de Débito,1319730,,2017-08-23,80.55,22128.93,En proceso,39582,KkGUfa0r,Camisa Four,143.24,50,Artículo Camisa Four en venta en tienda,fig_989,1
+366456749,37,143.24,Recibo,3148000,,2016-01-12,63.08,48738.18,Cancelada,39582,KkGUfa0r,Camisa Four,143.24,50,Artículo Camisa Four en venta en tienda,fig_989,1
+516766119,38,313.78,Boleta de Venta,8002126,,2020-09-29,87.1,81386.84,Pendiente,75369,0wXOkuy3,Teléfono Firm,313.78,80,Artículo Teléfono Firm en venta en tienda,fig_870,1
+165524387,49,293.65,Boleta de Venta,8002126,,2020-09-29,87.1,81386.84,Pendiente,40879,7rNOJRGt,Maquillaje Him,293.65,84,Artículo Maquillaje Him en venta en tienda,fig_727,1
+196374345,74,293.65,Nota de Débito,8310293,,2015-03-04,30.87,40320.91,Cancelada,40879,7rNOJRGt,Maquillaje Him,293.65,84,Artículo Maquillaje Him en venta en tienda,fig_727,1
+621470181,27,230.06,Factura,9409037,,2019-02-06,97.33,22146.16,En proceso,40879,itTBjN3r,Maquillaje Three,230.06,83,Artículo Maquillaje Three en venta en tienda,fig_336,1
+123022581,21,557.91,Factura,9409037,,2019-02-06,97.33,22146.16,En proceso,97521,PvblctA5,Reloj Not,557.91,21,Artículo Reloj Not en venta en tienda,fig_429,1
+740852140,78,429.16,Nota de Crédito,1083963,,2018-07-05,79.62,34473.92,Completada,64218,664Zonw5,Galleta Pm,429.16,7,Artículo Galleta Pm en venta en tienda,fig_270,1
+249043866,96,429.16,Boleta de Venta,3582293,,2017-11-05,52.91,34945.84,En proceso,64218,664Zonw5,Galleta Pm,429.16,7,Artículo Galleta Pm en venta en tienda,fig_270,1
+371179972,47,16.23,Nota de Crédito,1083963,,2018-07-05,79.62,34473.92,Completada,97521,8mKYry8l,Reloj On,16.23,37,Artículo Reloj On en venta en tienda,fig_104,1
+939726120,44,331.8,Nota de Crédito,1083963,,2018-07-05,79.62,34473.92,Completada,32684,7fTA0Wdt,Mesa According,331.8,48,Artículo Mesa According en venta en tienda,fig_291,1
+266301870,66,841.71,Recibo,6373746,,2016-07-26,5.12,43576.3,En proceso,97521,6qN43Dkk,Reloj Mrs,841.71,96,Artículo Reloj Mrs en venta en tienda,fig_804,1
+278404886,53,841.71,Nota de Débito,9599040,,2021-01-21,87.69,97213.81,En proceso,97521,6qN43Dkk,Reloj Mrs,841.71,96,Artículo Reloj Mrs en venta en tienda,fig_804,1
+797191944,12,959.76,Recibo,6373746,,2016-07-26,5.12,43576.3,En proceso,32684,yDSZYbYI,Cuadro Those,959.76,25,Artículo Cuadro Those en venta en tienda,fig_64,1
+540656052,3,804.39,Recibo,4535907,,2015-07-10,49.43,74051.2,Pendiente,75369,cTOXI9RP,Teléfono Quickly,804.39,83,Artículo Teléfono Quickly en venta en tienda,fig_38,1
+122912722,21,804.39,Nota de Crédito,8829344,,2019-04-27,73.34,13032.71,Pendiente,75369,cTOXI9RP,Teléfono Quickly,804.39,83,Artículo Teléfono Quickly en venta en tienda,fig_38,1
+205095349,24,504.89,Boleta de Venta,8549958,,2015-01-05,45.73,76622.77,Cancelada,39582,RfF28wKl,Pantalón Article,504.89,5,Artículo Pantalón Article en venta en tienda,fig_4,1
+983030210,30,863.06,Factura,4931859,,2022-12-01,55.92,37356.58,Completada,32684,eScchffG,Lámpara Though,863.06,60,Artículo Lámpara Though en venta en tienda,fig_661,1
+722874819,15,381.4,Nota de Débito,9845869,,2016-10-26,30.16,42054.23,Reembolsada,82016,09Jhm5Zk,Tenis Religious,381.4,89,Artículo Tenis Religious en venta en tienda,fig_453,1
+390523332,74,682.27,Boleta de Venta,6669313,,2015-12-07,31.51,32475.65,Cancelada,13750,SU2M1pAd,Bolígrafo Defense,682.27,8,Artículo Bolígrafo Defense en venta en tienda,fig_677,1
+819902922,24,396.77,Recibo,7911720,,2019-08-09,14.19,99360.11,Cancelada,75369,P5h3IOjk,Teléfono Last,396.77,53,Artículo Teléfono Last en venta en tienda,fig_29,1
+348714385,98,396.77,Nota de Débito,5877832,,2022-02-24,67.92,18843.54,Reembolsada,75369,P5h3IOjk,Teléfono Last,396.77,53,Artículo Teléfono Last en venta en tienda,fig_29,1
+137482699,32,990.01,Boleta de Venta,9204242,,2021-09-17,43.17,63731.29,Completada,82016,XZV12Fa3,Tenis Claim,990.01,16,Artículo Tenis Claim en venta en tienda,fig_792,1
+886287405,15,990.01,Nota de Crédito,2723485,,2015-03-27,72.6,27160.39,Cancelada,82016,XZV12Fa3,Tenis Claim,990.01,16,Artículo Tenis Claim en venta en tienda,fig_792,1
+726487953,83,990.01,Recibo,7819854,,2022-11-11,77.69,72812.06,Pendiente,82016,XZV12Fa3,Tenis Claim,990.01,16,Artículo Tenis Claim en venta en tienda,fig_792,1
+958635834,10,191.68,Boleta de Venta,9204242,,2021-09-17,43.17,63731.29,Completada,82016,qxd5nbmZ,Tenis Sea,191.68,6,Artículo Tenis Sea en venta en tienda,fig_59,1
+243843920,3,191.68,Factura,6541624,,2020-02-19,79.91,30556.35,Completada,82016,qxd5nbmZ,Tenis Sea,191.68,6,Artículo Tenis Sea en venta en tienda,fig_59,1
+172747990,93,191.68,Boleta de Venta,1992683,,2021-10-19,96.39,40075.56,Reembolsada,82016,qxd5nbmZ,Tenis Sea,191.68,6,Artículo Tenis Sea en venta en tienda,fig_59,1
+627982795,21,855.54,Boleta de Venta,8793447,,2022-10-16,92.0,94834.82,Completada,32684,ZwdsAJrj,Cama Court,855.54,48,Artículo Cama Court en venta en tienda,fig_235,1
+491781398,22,855.54,Recibo,7342774,,2022-12-09,19.93,23695.29,Cancelada,32684,ZwdsAJrj,Cama Court,855.54,48,Artículo Cama Court en venta en tienda,fig_235,1
+676222026,53,855.54,Nota de Crédito,8974735,,2023-07-08,77.95,60324.23,Cancelada,32684,ZwdsAJrj,Cama Court,855.54,48,Artículo Cama Court en venta en tienda,fig_235,1
+641712586,74,126.99,Ticket de Venta,4880695,,2019-10-29,60.77,77678.41,En proceso,32684,JIksA96q,Cama Avoid,126.99,26,Artículo Cama Avoid en venta en tienda,fig_942,1
+162406947,49,126.99,Nota de Débito,5263690,,2016-02-24,69.37,72498.61,Pendiente,32684,JIksA96q,Cama Avoid,126.99,26,Artículo Cama Avoid en venta en tienda,fig_942,1
+769099240,61,126.99,Nota de Crédito,5021584,,2016-10-03,98.46,57296.29,En proceso,32684,JIksA96q,Cama Avoid,126.99,26,Artículo Cama Avoid en venta en tienda,fig_942,1
+594302885,26,126.99,Nota de Débito,6416595,,2019-09-13,50.2,69783.89,Reembolsada,32684,JIksA96q,Cama Avoid,126.99,26,Artículo Cama Avoid en venta en tienda,fig_942,1
+166804968,41,684.68,Ticket de Venta,4880695,,2019-10-29,60.77,77678.41,En proceso,75369,GE6Nfrh0,Teléfono Edge,684.68,25,Artículo Teléfono Edge en venta en tienda,fig_517,1
+711963761,80,684.68,Ticket de Venta,6733821,,2022-02-23,6.21,96337.81,Pendiente,75369,GE6Nfrh0,Teléfono Edge,684.68,25,Artículo Teléfono Edge en venta en tienda,fig_517,1
+680567251,52,586.82,Recibo,7896238,,2020-11-03,99.24,58620.9,En proceso,32684,Wm3h0pVT,Mesa Forget,586.82,75,Artículo Mesa Forget en venta en tienda,fig_635,1
+476479958,66,110.88,Factura,1078847,,2020-04-18,52.56,35021.68,Completada,40879,I39vgecA,Perfume Hot,110.88,64,Artículo Perfume Hot en venta en tienda,fig_643,1
+724414936,50,926.41,Factura,6268093,,2019-01-14,31.91,4612.88,En proceso,75369,DtQYOC7c,Portátil Fly,926.41,51,Artículo Portátil Fly en venta en tienda,fig_515,1
+840913512,66,651.61,Factura,6268093,,2019-01-14,31.91,4612.88,En proceso,97521,pzMX5rQh,Anillo Street,651.61,42,Artículo Anillo Street en venta en tienda,fig_251,1
+939561532,13,651.61,Recibo,3523095,,2021-10-14,89.58,5231.46,En proceso,97521,pzMX5rQh,Anillo Street,651.61,42,Artículo Anillo Street en venta en tienda,fig_251,1
+936567256,94,53.34,Boleta de Venta,4725810,,2016-06-04,96.54,78136.14,Completada,13750,KyO0cGcw,Libro Star,53.34,91,Artículo Libro Star en venta en tienda,fig_924,1
+813667507,47,53.34,Nota de Débito,1467302,,2016-03-03,27.15,1132.25,Cancelada,13750,KyO0cGcw,Libro Star,53.34,91,Artículo Libro Star en venta en tienda,fig_924,1
+631743082,50,367.69,Boleta de Venta,4725810,,2016-06-04,96.54,78136.14,Completada,32684,ZlI8PVg1,Cama Address,367.69,97,Artículo Cama Address en venta en tienda,fig_79,1
+407249376,66,530.32,Recibo,2998040,,2015-03-06,30.32,37649.54,En proceso,51470,KjCyYSYM,Pelota Good,530.32,7,Artículo Pelota Good en venta en tienda,fig_140,1
+785900000,98,103.03,Factura,8106254,,2020-08-11,15.6,8004.59,Cancelada,32684,qbrWjxS2,Mesa Clearly,103.03,11,Artículo Mesa Clearly en venta en tienda,fig_377,1
+879370720,8,447.39,Boleta de Venta,7741328,,2019-01-17,45.74,31889.21,Completada,75369,BjdN9Yei,Portátil Hotel,447.39,46,Artículo Portátil Hotel en venta en tienda,fig_254,1
+777590295,78,447.39,Ticket de Venta,9619400,,2019-10-11,34.76,20123.57,Cancelada,75369,BjdN9Yei,Portátil Hotel,447.39,46,Artículo Portátil Hotel en venta en tienda,fig_254,1
+659440431,75,751.5,Boleta de Venta,7741328,,2019-01-17,45.74,31889.21,Completada,39582,EGOwcJsT,Vestido Too,751.5,65,Artículo Vestido Too en venta en tienda,fig_175,1
+721464839,95,751.5,Recibo,5054068,,2022-11-19,40.19,89497.1,Cancelada,39582,EGOwcJsT,Vestido Too,751.5,65,Artículo Vestido Too en venta en tienda,fig_175,1
+547088872,87,609.06,Boleta de Venta,8762277,,2021-07-09,75.44,64200.94,Reembolsada,32684,QZ6uGH7U,Cama Time,609.06,59,Artículo Cama Time en venta en tienda,fig_503,1
+581241324,23,784.24,Recibo,4356323,,2019-11-04,77.54,16214.62,Completada,82016,ORyutQZU,Tenis Machine,784.24,77,Artículo Tenis Machine en venta en tienda,fig_329,1
+861700590,27,917.48,Factura,1742377,,2019-12-27,22.89,78722.66,En proceso,51470,ztyleaC6,Pelota Chance,917.48,88,Artículo Pelota Chance en venta en tienda,fig_339,1
+349918558,53,917.48,Factura,1624063,,2017-03-01,50.82,57423.95,Reembolsada,51470,ztyleaC6,Pelota Chance,917.48,88,Artículo Pelota Chance en venta en tienda,fig_339,1
+519555567,16,551.27,Recibo,1809582,,2020-07-29,71.44,14462.13,Reembolsada,75369,5QBLWAtW,Tableta Someone,551.27,79,Artículo Tableta Someone en venta en tienda,fig_578,1
+367124977,95,964.6,Boleta de Venta,4173503,,2022-09-17,16.47,23289.59,Cancelada,39582,wvePVEhg,Suéter Never,964.6,51,Artículo Suéter Never en venta en tienda,fig_735,1
+118248073,2,631.15,Boleta de Venta,4173503,,2022-09-17,16.47,23289.59,Cancelada,39582,Lg7rES4Q,Pantalón Apply,631.15,76,Artículo Pantalón Apply en venta en tienda,fig_655,1
+572686836,73,415.85,Recibo,2098568,,2023-02-15,72.33,7821.77,Completada,32684,GLjHT516,Cuadro Pass,415.85,84,Artículo Cuadro Pass en venta en tienda,fig_348,1
+347090616,61,415.85,Factura,9160297,,2023-08-04,6.88,53535.84,En proceso,32684,GLjHT516,Cuadro Pass,415.85,84,Artículo Cuadro Pass en venta en tienda,fig_348,1
+617284096,13,795.0,Recibo,3523095,,2021-10-14,89.58,5231.46,En proceso,97521,nnXgv5Vf,Reloj Mention,795.0,52,Artículo Reloj Mention en venta en tienda,fig_345,1
+967162370,56,80.8,Ticket de Venta,2034180,,2021-11-17,20.06,87887.84,En proceso,32684,zhznI9fb,Cuadro Modern,80.8,14,Artículo Cuadro Modern en venta en tienda,fig_847,1
+346949260,12,80.8,Recibo,3583226,,2022-03-04,41.97,12739.41,Reembolsada,32684,zhznI9fb,Cuadro Modern,80.8,14,Artículo Cuadro Modern en venta en tienda,fig_847,1
+463321606,20,715.66,Recibo,2463784,,2019-09-21,70.0,5371.32,En proceso,51470,BYc9NbyJ,Pelota Public,715.66,29,Artículo Pelota Public en venta en tienda,fig_202,1
+203663195,87,715.66,Boleta de Venta,3582293,,2017-11-05,52.91,34945.84,En proceso,51470,BYc9NbyJ,Pelota Public,715.66,29,Artículo Pelota Public en venta en tienda,fig_202,1
+516776456,75,406.37,Nota de Crédito,2015003,,2017-08-02,72.81,6797.53,Reembolsada,75369,B8jqOO0S,Tableta Town,406.37,28,Artículo Tableta Town en venta en tienda,fig_879,1
+914735985,80,406.37,Nota de Crédito,9211008,,2019-09-30,86.16,94251.21,Cancelada,75369,B8jqOO0S,Tableta Town,406.37,28,Artículo Tableta Town en venta en tienda,fig_879,1
+563257867,93,524.87,Nota de Débito,6578308,,2020-02-09,13.06,61970.75,Completada,82016,ikbqMpuV,Zapatos Of,524.87,46,Artículo Zapatos Of en venta en tienda,fig_511,1
+578133628,39,313.59,Nota de Débito,6578308,,2020-02-09,13.06,61970.75,Completada,32684,z0Slnh6J,Silla Green,313.59,74,Artículo Silla Green en venta en tienda,fig_625,1
+267336205,95,694.84,Recibo,6971154,,2021-05-27,20.95,80058.94,En proceso,39582,oiE64qGX,Pantalón Describe,694.84,33,Artículo Pantalón Describe en venta en tienda,fig_743,1
+777968761,4,831.23,Recibo,1420701,,2020-03-03,88.53,10523.53,En proceso,75369,0DG1RzkG,Tableta Have,831.23,35,Artículo Tableta Have en venta en tienda,fig_10,1
+806460230,33,831.23,Boleta de Venta,3144935,,2016-05-26,72.99,8218.08,Reembolsada,75369,0DG1RzkG,Tableta Have,831.23,35,Artículo Tableta Have en venta en tienda,fig_10,1
+453533532,82,831.23,Recibo,7280332,,2020-03-07,1.39,45537.35,En proceso,75369,0DG1RzkG,Tableta Have,831.23,35,Artículo Tableta Have en venta en tienda,fig_10,1
+125911578,31,17.19,Factura,7721960,,2021-07-10,69.47,76093.75,Completada,39582,RllvjpPQ,Vestido Only,17.19,36,Artículo Vestido Only en venta en tienda,fig_535,1
+702391249,47,17.19,Factura,5375527,,2016-05-30,43.53,27890.97,Cancelada,39582,RllvjpPQ,Vestido Only,17.19,36,Artículo Vestido Only en venta en tienda,fig_535,1
+682183903,55,17.19,Nota de Débito,3993989,,2021-08-04,58.67,46662.04,Completada,39582,RllvjpPQ,Vestido Only,17.19,36,Artículo Vestido Only en venta en tienda,fig_535,1
+665402891,99,485.3,Factura,7721960,,2021-07-10,69.47,76093.75,Completada,40879,cWeGtSVE,Maquillaje Trouble,485.3,24,Artículo Maquillaje Trouble en venta en tienda,fig_15,1
+787102238,33,287.31,Nota de Débito,5450856,,2021-10-29,73.42,739.57,Reembolsada,13750,KY5UziLJ,Libro Training,287.31,56,Artículo Libro Training en venta en tienda,fig_830,1
+946930210,33,930.5,Nota de Crédito,8996262,,2019-03-06,71.88,24786.44,En proceso,32684,ox3IvhIX,Silla Pull,930.5,58,Artículo Silla Pull en venta en tienda,fig_472,1
+649766720,25,930.5,Ticket de Venta,5256918,,2020-02-03,76.73,60563.43,Reembolsada,32684,ox3IvhIX,Silla Pull,930.5,58,Artículo Silla Pull en venta en tienda,fig_472,1
+228698662,23,892.42,Ticket de Venta,2250088,,2016-08-07,47.62,13330.99,Pendiente,40879,tH7nccJc,Maquillaje Analysis,892.42,54,Artículo Maquillaje Analysis en venta en tienda,fig_323,1
+964743719,10,431.27,Factura,3688217,,2019-05-24,4.62,82694.15,Pendiente,40879,rP7N66Sr,Maquillaje Hair,431.27,60,Artículo Maquillaje Hair en venta en tienda,fig_742,1
+464745629,17,626.84,Factura,3688217,,2019-05-24,4.62,82694.15,Pendiente,13750,vPBwsieI,Libro Itself,626.84,25,Artículo Libro Itself en venta en tienda,fig_671,1
+237122086,60,295.11,Recibo,1910209,,2018-10-03,86.78,91436.23,Reembolsada,13750,e0rkqdZn,Libro Religious,295.11,35,Artículo Libro Religious en venta en tienda,fig_498,1
+831332979,7,295.11,Factura,8023605,,2015-05-23,55.73,55201.55,Cancelada,13750,e0rkqdZn,Libro Religious,295.11,35,Artículo Libro Religious en venta en tienda,fig_498,1
+904867262,27,295.11,Nota de Débito,4034849,,2022-04-12,94.09,94594.93,Reembolsada,13750,e0rkqdZn,Libro Religious,295.11,35,Artículo Libro Religious en venta en tienda,fig_498,1
+190804522,53,29.44,Recibo,4477241,,2020-05-18,36.05,76191.66,Cancelada,97521,zZFUClUv,Reloj Great,29.44,44,Artículo Reloj Great en venta en tienda,fig_229,1
+206731818,11,230.27,Boleta de Venta,3837865,,2021-01-17,71.04,34947.86,Pendiente,82016,jfTLvLLV,Tenis Scene,230.27,57,Artículo Tenis Scene en venta en tienda,fig_999,1
+389007171,40,230.27,Factura,1237305,,2015-06-03,71.43,66614.1,Pendiente,82016,jfTLvLLV,Tenis Scene,230.27,57,Artículo Tenis Scene en venta en tienda,fig_999,1
+479969839,35,604.43,Recibo,9223688,,2021-05-16,84.79,46439.11,Pendiente,32684,blmAfHIJ,Mesa Style,604.43,39,Artículo Mesa Style en venta en tienda,fig_572,1
+980496085,73,142.76,Recibo,9223688,,2021-05-16,84.79,46439.11,Pendiente,32684,sZT5rY5f,Alfombra Condition,142.76,16,Artículo Alfombra Condition en venta en tienda,fig_373,1
+350673456,35,19.79,Ticket de Venta,5900833,,2017-04-07,46.54,48358.97,En proceso,32684,FLzGhf4C,Cocina Defense,19.79,11,Artículo Cocina Defense en venta en tienda,fig_573,1
+810326682,37,19.79,Nota de Crédito,5021584,,2016-10-03,98.46,57296.29,En proceso,32684,FLzGhf4C,Cocina Defense,19.79,11,Artículo Cocina Defense en venta en tienda,fig_573,1
+419527218,84,633.67,Nota de Crédito,5508333,,2022-01-31,27.19,69639.28,Cancelada,75369,kVPvXr6W,Tableta Opportunity,633.67,3,Artículo Tableta Opportunity en venta en tienda,fig_612,1
+587587416,25,683.48,Nota de Crédito,5508333,,2022-01-31,27.19,69639.28,Cancelada,51470,yfRdZE5N,Juguete Activity,683.48,68,Artículo Juguete Activity en venta en tienda,fig_616,1
+766721429,32,683.48,Nota de Débito,1235825,,2022-02-01,2.02,18087.98,En proceso,51470,yfRdZE5N,Juguete Activity,683.48,68,Artículo Juguete Activity en venta en tienda,fig_616,1
+444805686,53,696.34,Nota de Crédito,2140584,,2022-10-23,12.29,91546.77,Reembolsada,13750,vGvS98MD,Libro Successful,696.34,37,Artículo Libro Successful en venta en tienda,fig_600,1
+678281795,62,884.72,Nota de Crédito,8523538,,2015-02-20,93.66,68563.81,Completada,64218,zsxES3zX,Galleta Gas,884.72,54,Artículo Galleta Gas en venta en tienda,fig_920,1
+979913289,7,97.38,Recibo,9300901,,2018-03-28,30.63,83864.93,Pendiente,39582,9GrMws48,Suéter Worry,97.38,39,Artículo Suéter Worry en venta en tienda,fig_295,1
+671566409,28,549.82,Factura,5289619,,2020-10-27,45.27,95035.98,Pendiente,32684,T0xiYJ52,Mesa By,549.82,97,Artículo Mesa By en venta en tienda,fig_666,1
+686907084,91,348.31,Ticket de Venta,9294680,,2018-07-11,58.07,58032.75,En proceso,97521,6a5x4lrF,Reloj Once,348.31,81,Artículo Reloj Once en venta en tienda,fig_633,1
+638186560,16,330.59,Recibo,7885693,,2022-09-03,40.47,31819.75,En proceso,32684,MODN34IF,Jarrón Return,330.59,52,Artículo Jarrón Return en venta en tienda,fig_926,1
+272394172,62,330.59,Boleta de Venta,1745361,,2019-12-07,72.92,60697.36,En proceso,32684,MODN34IF,Jarrón Return,330.59,52,Artículo Jarrón Return en venta en tienda,fig_926,1
+522732117,64,625.19,Recibo,9370859,,2015-08-07,75.73,45628.85,Completada,40879,PmcDDwPL,Maquillaje Black,625.19,65,Artículo Maquillaje Black en venta en tienda,fig_588,1
+317445388,69,625.19,Nota de Crédito,7659486,,2021-11-03,31.63,97338.47,En proceso,40879,PmcDDwPL,Maquillaje Black,625.19,65,Artículo Maquillaje Black en venta en tienda,fig_588,1
+619741783,1,907.93,Ticket de Venta,4836756,,2020-07-26,82.87,10867.48,En proceso,32684,ZXj0GF5T,Lámpara Democratic,907.93,44,Artículo Lámpara Democratic en venta en tienda,fig_94,1
+659259995,80,34.32,Nota de Débito,6616700,,2017-05-12,56.21,93174.69,Completada,13750,puFBvRz8,Bolígrafo Why,34.32,54,Artículo Bolígrafo Why en venta en tienda,fig_24,1
+513835618,77,996.02,Factura,2407921,,2021-04-26,54.36,491.01,En proceso,75369,1g57qypv,Tableta Government,996.02,90,Artículo Tableta Government en venta en tienda,fig_932,1
+918729317,9,14.29,Boleta de Venta,2277723,,2016-05-24,63.83,19806.98,Completada,97521,tvfK1xpo,Anillo Identify,14.29,89,Artículo Anillo Identify en venta en tienda,fig_52,1
+667945591,95,14.29,Ticket de Venta,2143531,,2015-10-27,29.16,31268.52,En proceso,97521,tvfK1xpo,Anillo Identify,14.29,89,Artículo Anillo Identify en venta en tienda,fig_52,1
+190166338,58,14.29,Ticket de Venta,1365033,,2017-08-09,80.22,1609.69,Reembolsada,97521,tvfK1xpo,Anillo Identify,14.29,89,Artículo Anillo Identify en venta en tienda,fig_52,1
+508158699,48,426.48,Boleta de Venta,2277723,,2016-05-24,63.83,19806.98,Completada,32684,z8fRmE6y,Alfombra Agreement,426.48,63,Artículo Alfombra Agreement en venta en tienda,fig_867,1
+290721265,22,445.38,Boleta de Venta,2277723,,2016-05-24,63.83,19806.98,Completada,75369,6QzZvWCt,Portátil Establish,445.38,81,Artículo Portátil Establish en venta en tienda,fig_155,1
+283637516,57,445.38,Factura,2536418,,2022-09-08,86.48,17687.5,En proceso,75369,6QzZvWCt,Portátil Establish,445.38,81,Artículo Portátil Establish en venta en tienda,fig_155,1
+740222479,89,451.6,Boleta de Venta,2277723,,2016-05-24,63.83,19806.98,Completada,39582,2Ey8eg8N,Camisa Policy,451.6,97,Artículo Camisa Policy en venta en tienda,fig_186,1
+893578135,61,451.6,Recibo,2669249,,2015-05-03,75.97,25623.31,Pendiente,39582,2Ey8eg8N,Camisa Policy,451.6,97,Artículo Camisa Policy en venta en tienda,fig_186,1
+113842789,53,380.49,Nota de Débito,8040082,,2022-11-12,87.7,99686.01,Cancelada,75369,bQnKs8aS,Tableta Bring,380.49,51,Artículo Tableta Bring en venta en tienda,fig_394,1
+935022514,58,380.49,Factura,1053811,,2022-11-22,99.36,32036.33,En proceso,75369,bQnKs8aS,Tableta Bring,380.49,51,Artículo Tableta Bring en venta en tienda,fig_394,1
+928313961,60,414.94,Nota de Crédito,7659486,,2021-11-03,31.63,97338.47,En proceso,51470,yld5g0pR,Pelota Reflect,414.94,96,Artículo Pelota Reflect en venta en tienda,fig_979,1
+419941608,31,712.7,Nota de Crédito,7659486,,2021-11-03,31.63,97338.47,En proceso,32684,VHb70mBt,Cuadro Somebody,712.7,46,Artículo Cuadro Somebody en venta en tienda,fig_564,1
+945867370,51,874.69,Recibo,3328736,,2022-10-19,96.24,44816.55,Pendiente,75369,94UHLSRM,Portátil Live,874.69,31,Artículo Portátil Live en venta en tienda,fig_796,1
+368558706,12,656.29,Boleta de Venta,9398583,,2021-04-23,66.49,37558.17,Pendiente,32684,4yRU5E95,Silla Probably,656.29,52,Artículo Silla Probably en venta en tienda,fig_163,1
+864922227,31,709.81,Boleta de Venta,2707316,,2016-01-11,8.05,84312.46,Reembolsada,97521,CXxN2paw,Reloj Wall,709.81,4,Artículo Reloj Wall en venta en tienda,fig_904,1
+615167656,98,709.81,Nota de Débito,4358990,,2021-10-02,9.1,5497.66,Cancelada,97521,CXxN2paw,Reloj Wall,709.81,4,Artículo Reloj Wall en venta en tienda,fig_904,1
+848360193,66,930.2,Boleta de Venta,2707316,,2016-01-11,8.05,84312.46,Reembolsada,13750,JDmfbNIn,Bolígrafo Almost,930.2,19,Artículo Bolígrafo Almost en venta en tienda,fig_162,1
+744699241,54,95.72,Nota de Crédito,2723485,,2015-03-27,72.6,27160.39,Cancelada,39582,UU4df3LU,Vestido However,95.72,88,Artículo Vestido However en venta en tienda,fig_970,1
+561234554,46,403.38,Recibo,9251353,,2021-04-24,95.04,37819.04,Pendiente,75369,WHwKwIv1,Portátil Modern,403.38,57,Artículo Portátil Modern en venta en tienda,fig_66,1
+647604032,4,403.38,Nota de Débito,1720405,,2016-08-06,93.39,43452.3,En proceso,75369,WHwKwIv1,Portátil Modern,403.38,57,Artículo Portátil Modern en venta en tienda,fig_66,1
+931644691,51,403.38,Nota de Débito,4102585,,2022-08-04,12.37,76940.35,Pendiente,75369,WHwKwIv1,Portátil Modern,403.38,57,Artículo Portátil Modern en venta en tienda,fig_66,1
+286295465,4,403.38,Factura,3110029,,2023-09-08,89.6,5151.93,Pendiente,75369,WHwKwIv1,Portátil Modern,403.38,57,Artículo Portátil Modern en venta en tienda,fig_66,1
+295955967,99,631.83,Recibo,9251353,,2021-04-24,95.04,37819.04,Pendiente,13750,hgnbi6S6,Libro Go,631.83,21,Artículo Libro Go en venta en tienda,fig_440,1
+342626949,78,873.1,Nota de Débito,3801254,,2023-05-11,85.83,79774.02,En proceso,75369,gHnFQ5oT,Portátil Certainly,873.1,74,Artículo Portátil Certainly en venta en tienda,fig_210,1
+397231502,29,539.14,Recibo,9806271,,2023-10-26,87.68,81345.46,Reembolsada,97521,LYFAfHSr,Reloj Cup,539.14,65,Artículo Reloj Cup en venta en tienda,fig_992,1
+827075211,6,372.57,Factura,2968986,,2018-02-05,68.58,53582.24,Completada,32684,SBNqBNxG,Cocina Data,372.57,73,Artículo Cocina Data en venta en tienda,fig_916,1
+969082108,19,498.09,Factura,2968986,,2018-02-05,68.58,53582.24,Completada,39582,X9UjbPif,Suéter Improve,498.09,22,Artículo Suéter Improve en venta en tienda,fig_55,1
+527544973,57,414.44,Recibo,8369751,,2015-10-12,4.6,93607.54,Reembolsada,64218,3CjHLpMN,Galleta Up,414.44,92,Artículo Galleta Up en venta en tienda,fig_91,1
+800086674,67,925.84,Factura,2649942,,2017-06-20,68.54,65209.7,Cancelada,32684,GtMRFhwJ,Jarrón Fill,925.84,43,Artículo Jarrón Fill en venta en tienda,fig_151,1
+370464544,18,925.84,Factura,8945800,,2018-08-21,53.46,11645.72,Completada,32684,GtMRFhwJ,Jarrón Fill,925.84,43,Artículo Jarrón Fill en venta en tienda,fig_151,1
+524618395,51,950.17,Nota de Débito,5663031,,2022-10-01,86.55,73011.07,Cancelada,75369,btCUs2hY,Tableta Night,950.17,6,Artículo Tableta Night en venta en tienda,fig_464,1
+722494849,30,622.62,Nota de Débito,5663031,,2022-10-01,86.55,73011.07,Cancelada,32684,NTxyByx8,Cama Religious,622.62,65,Artículo Cama Religious en venta en tienda,fig_306,1
+503458641,24,622.62,Factura,9903362,,2020-10-08,43.14,40336.85,Reembolsada,32684,NTxyByx8,Cama Religious,622.62,65,Artículo Cama Religious en venta en tienda,fig_306,1
+489257629,10,997.1,Nota de Débito,7422223,,2021-11-28,4.25,42947.45,En proceso,13750,BCwEeC3R,Bolígrafo Small,997.1,37,Artículo Bolígrafo Small en venta en tienda,fig_17,1
+557116069,37,753.99,Nota de Débito,6818547,,2020-08-07,65.5,76105.36,Cancelada,40879,8pYIck07,Maquillaje Purpose,753.99,11,Artículo Maquillaje Purpose en venta en tienda,fig_119,1
+718717605,38,984.11,Recibo,1500427,,2015-10-24,12.47,32806.85,Completada,32684,auonJ0U3,Lámpara Beautiful,984.11,50,Artículo Lámpara Beautiful en venta en tienda,fig_891,1
+149296149,48,984.11,Nota de Crédito,5100221,,2015-08-03,30.47,2960.52,En proceso,32684,auonJ0U3,Lámpara Beautiful,984.11,50,Artículo Lámpara Beautiful en venta en tienda,fig_891,1
+720056236,88,984.11,Boleta de Venta,5586406,,2018-06-05,13.55,41099.33,Reembolsada,32684,auonJ0U3,Lámpara Beautiful,984.11,50,Artículo Lámpara Beautiful en venta en tienda,fig_891,1
+110344876,46,450.25,Recibo,1684402,,2023-10-10,67.08,18643.98,Pendiente,39582,ltQZm8Mc,Vestido Father,450.25,92,Artículo Vestido Father en venta en tienda,fig_862,1
+217353988,99,450.25,Boleta de Venta,3044096,,2023-06-15,26.3,40969.55,Reembolsada,39582,ltQZm8Mc,Vestido Father,450.25,92,Artículo Vestido Father en venta en tienda,fig_862,1
+290017972,52,817.03,Nota de Crédito,8829344,,2019-04-27,73.34,13032.71,Pendiente,97521,ACsa3lUn,Anillo Simple,817.03,58,Artículo Anillo Simple en venta en tienda,fig_430,1
+872487614,86,762.23,Ticket de Venta,5516069,,2015-08-08,88.5,14180.51,Pendiente,32684,wC4yJecl,Cama Throw,762.23,59,Artículo Cama Throw en venta en tienda,fig_733,1
+347513537,23,410.61,Boleta de Venta,2337995,,2019-06-21,30.42,24386.63,Reembolsada,39582,mZr8e5La,Suéter Happy,410.61,64,Artículo Suéter Happy en venta en tienda,fig_116,1
+233183938,65,40.72,Boleta de Venta,2337995,,2019-06-21,30.42,24386.63,Reembolsada,39582,b6qGemma,Suéter Door,40.72,82,Artículo Suéter Door en venta en tienda,fig_26,1
+849876046,88,40.72,Boleta de Venta,4043189,,2018-07-04,35.14,82144.7,Cancelada,39582,b6qGemma,Suéter Door,40.72,82,Artículo Suéter Door en venta en tienda,fig_26,1
+791415903,87,40.72,Ticket de Venta,9798041,,2018-01-23,52.58,92029.86,Cancelada,39582,b6qGemma,Suéter Door,40.72,82,Artículo Suéter Door en venta en tienda,fig_26,1
+992968622,8,356.09,Boleta de Venta,2796784,,2022-04-08,45.21,41605.72,Pendiente,32684,mx1hXp8Y,Mesa Yet,356.09,46,Artículo Mesa Yet en venta en tienda,fig_139,1
+738398170,17,475.41,Boleta de Venta,2796784,,2022-04-08,45.21,41605.72,Pendiente,75369,bn2YNvDP,Portátil Beyond,475.41,64,Artículo Portátil Beyond en venta en tienda,fig_869,1
+780352574,35,475.41,Nota de Crédito,6955725,,2015-06-05,51.95,65488.03,Pendiente,75369,bn2YNvDP,Portátil Beyond,475.41,64,Artículo Portátil Beyond en venta en tienda,fig_869,1
+249768648,75,317.32,Ticket de Venta,9478105,,2019-05-22,13.9,88138.19,Cancelada,32684,H3rQedQB,Cocina Foreign,317.32,46,Artículo Cocina Foreign en venta en tienda,fig_708,1
+126522066,6,317.32,Nota de Débito,4034849,,2022-04-12,94.09,94594.93,Reembolsada,32684,H3rQedQB,Cocina Foreign,317.32,46,Artículo Cocina Foreign en venta en tienda,fig_708,1
+639530443,29,254.27,Ticket de Venta,9478105,,2019-05-22,13.9,88138.19,Cancelada,97521,CvePgdYO,Anillo Tell,254.27,11,Artículo Anillo Tell en venta en tienda,fig_747,1
+514149065,2,390.43,Nota de Crédito,4899345,,2021-07-27,85.5,24473.4,Cancelada,97521,TNqeTBKT,Anillo Career,390.43,84,Artículo Anillo Career en venta en tienda,fig_296,1
+534856818,77,510.82,Ticket de Venta,3756567,,2021-06-11,95.39,78591.72,Reembolsada,39582,RcwjPaqb,Camisa Nature,510.82,72,Artículo Camisa Nature en venta en tienda,fig_941,1
+312697553,81,662.41,Recibo,4379926,,2017-02-26,4.32,31327.91,Pendiente,51470,pw6pszR9,Pelota Born,662.41,96,Artículo Pelota Born en venta en tienda,fig_153,1
+671618680,72,490.35,Nota de Débito,4034849,,2022-04-12,94.09,94594.93,Reembolsada,32684,tRrr2m6v,Mesa Current,490.35,9,Artículo Mesa Current en venta en tienda,fig_126,1
+888538505,97,490.35,Ticket de Venta,3003113,,2015-09-05,8.41,8653.39,Cancelada,32684,tRrr2m6v,Mesa Current,490.35,9,Artículo Mesa Current en venta en tienda,fig_126,1
+547103452,37,998.48,Ticket de Venta,2326654,,2022-10-03,88.13,33011.08,Pendiente,40879,WRXDcV6F,Perfume Special,998.48,48,Artículo Perfume Special en venta en tienda,fig_719,1
+882745162,26,698.56,Ticket de Venta,2326654,,2022-10-03,88.13,33011.08,Pendiente,32684,1M7mvbK1,Cuadro Issue,698.56,68,Artículo Cuadro Issue en venta en tienda,fig_454,1
+262968193,97,698.56,Boleta de Venta,2087163,,2023-06-26,57.3,77869.27,Cancelada,32684,1M7mvbK1,Cuadro Issue,698.56,68,Artículo Cuadro Issue en venta en tienda,fig_454,1
+858158245,70,698.56,Nota de Crédito,1108297,,2019-09-22,41.9,24538.87,Cancelada,32684,1M7mvbK1,Cuadro Issue,698.56,68,Artículo Cuadro Issue en venta en tienda,fig_454,1
+423819998,4,592.17,Ticket de Venta,3354063,,2017-10-09,13.49,40322.03,Completada,82016,suVFXbdi,Tenis Company,592.17,26,Artículo Tenis Company en venta en tienda,fig_670,1
+934855776,71,792.69,Ticket de Venta,3354063,,2017-10-09,13.49,40322.03,Completada,82016,lY5IMYGB,Tenis Group,792.69,72,Artículo Tenis Group en venta en tienda,fig_510,1
+204123599,29,792.69,Recibo,3613114,,2023-02-13,4.94,63956.4,Completada,82016,lY5IMYGB,Tenis Group,792.69,72,Artículo Tenis Group en venta en tienda,fig_510,1
+273368672,94,792.69,Nota de Débito,5517593,,2023-01-11,76.03,40050.32,Completada,82016,lY5IMYGB,Tenis Group,792.69,72,Artículo Tenis Group en venta en tienda,fig_510,1
+683856612,82,864.52,Nota de Débito,3096870,,2019-04-13,87.18,93545.04,Reembolsada,51470,lTQr9jbZ,Juguete Child,864.52,34,Artículo Juguete Child en venta en tienda,fig_892,1
+625736422,87,481.26,Boleta de Venta,4913491,,2020-09-14,50.22,16253.82,Completada,82016,WA3SF7B7,Zapatos Owner,481.26,14,Artículo Zapatos Owner en venta en tienda,fig_647,1
+409574688,11,481.26,Ticket de Venta,9426529,,2020-05-19,6.64,32282.08,Pendiente,82016,WA3SF7B7,Zapatos Owner,481.26,14,Artículo Zapatos Owner en venta en tienda,fig_647,1
+161163196,16,260.45,Factura,6131223,,2020-02-13,40.82,43065.34,En proceso,39582,mVPNyAfv,Vestido Want,260.45,29,Artículo Vestido Want en venta en tienda,fig_697,1
+356554141,55,260.45,Nota de Crédito,2546294,,2016-06-22,83.32,76320.08,En proceso,39582,mVPNyAfv,Vestido Want,260.45,29,Artículo Vestido Want en venta en tienda,fig_697,1
+439388910,0,876.47,Recibo,5645493,,2015-03-09,33.77,61341.95,Pendiente,13750,mHePFwAu,Libro Table,876.47,35,Artículo Libro Table en venta en tienda,fig_700,1
+884663025,81,46.56,Nota de Crédito,1172203,,2016-08-05,82.88,17243.82,Reembolsada,39582,H7ynkc4x,Pantalón Road,46.56,35,Artículo Pantalón Road en venta en tienda,fig_14,1
+968838928,3,46.56,Boleta de Venta,9016055,,2018-02-04,68.11,5916.61,Reembolsada,39582,H7ynkc4x,Pantalón Road,46.56,35,Artículo Pantalón Road en venta en tienda,fig_14,1
+749336330,47,270.11,Nota de Crédito,1172203,,2016-08-05,82.88,17243.82,Reembolsada,40879,eGCGFQaJ,Perfume Big,270.11,26,Artículo Perfume Big en venta en tienda,fig_726,1
+785459965,99,814.25,Nota de Débito,8456697,,2023-04-16,34.53,20259.46,En proceso,39582,MZPxI3Kz,Vestido Reflect,814.25,78,Artículo Vestido Reflect en venta en tienda,fig_534,1
+934755071,12,693.37,Nota de Crédito,2245218,,2017-12-22,73.25,71284.86,En proceso,32684,rXoz2Q6u,Cama Offer,693.37,45,Artículo Cama Offer en venta en tienda,fig_77,1
+827626563,3,693.37,Nota de Débito,9817159,,2017-10-16,5.48,1816.75,En proceso,32684,rXoz2Q6u,Cama Offer,693.37,45,Artículo Cama Offer en venta en tienda,fig_77,1
+463921919,30,180.6,Nota de Débito,2385147,,2019-12-19,69.07,1350.66,Cancelada,39582,J5v1YlpK,Camisa Tonight,180.6,45,Artículo Camisa Tonight en venta en tienda,fig_762,1
+524272385,51,144.57,Nota de Débito,3238248,,2015-05-03,64.09,48522.8,Reembolsada,82016,TadiV5ub,Zapatos Yes,144.57,1,Artículo Zapatos Yes en venta en tienda,fig_6,1
+498148291,10,144.57,Ticket de Venta,2557469,,2019-04-15,9.63,62842.48,Cancelada,82016,TadiV5ub,Zapatos Yes,144.57,1,Artículo Zapatos Yes en venta en tienda,fig_6,1
+529206017,17,342.76,Ticket de Venta,7347466,,2015-11-26,6.19,80583.15,Cancelada,13750,lDH0jXz9,Libro Space,342.76,76,Artículo Libro Space en venta en tienda,fig_269,1
+753335047,76,840.75,Boleta de Venta,2818750,,2015-10-07,95.24,7619.88,Pendiente,32684,vtGu7HPv,Lámpara Administration,840.75,49,Artículo Lámpara Administration en venta en tienda,fig_831,1
+310191380,58,840.75,Nota de Débito,7776545,,2020-06-13,59.42,10703.62,En proceso,32684,vtGu7HPv,Lámpara Administration,840.75,49,Artículo Lámpara Administration en venta en tienda,fig_831,1
+219961157,94,95.25,Boleta de Venta,2818750,,2015-10-07,95.24,7619.88,Pendiente,75369,jF6Xg4rH,Teléfono Section,95.25,42,Artículo Teléfono Section en venta en tienda,fig_402,1
+662885134,71,624.56,Ticket de Venta,3273940,,2021-08-13,75.19,860.13,En proceso,32684,fcv8r8CB,Cama Computer,624.56,55,Artículo Cama Computer en venta en tienda,fig_442,1
+220988594,50,783.79,Ticket de Venta,3273940,,2021-08-13,75.19,860.13,En proceso,32684,GHll4VK6,Jarrón Fund,783.79,22,Artículo Jarrón Fund en venta en tienda,fig_292,1
+369340059,17,783.79,Recibo,5234285,,2015-05-19,43.05,75153.54,Reembolsada,32684,GHll4VK6,Jarrón Fund,783.79,22,Artículo Jarrón Fund en venta en tienda,fig_292,1
+870488847,61,108.83,Boleta de Venta,9206201,,2023-09-09,77.56,22164.04,En proceso,39582,Kj8osVMC,Vestido None,108.83,97,Artículo Vestido None en venta en tienda,fig_145,1
+566419179,99,108.83,Factura,6716739,,2023-05-17,67.41,1799.01,Cancelada,39582,Kj8osVMC,Vestido None,108.83,97,Artículo Vestido None en venta en tienda,fig_145,1
+215526742,95,655.03,Boleta de Venta,9206201,,2023-09-09,77.56,22164.04,En proceso,75369,pV5WrJ8I,Teléfono Eight,655.03,64,Artículo Teléfono Eight en venta en tienda,fig_361,1
+505033487,62,363.21,Factura,6301831,,2022-01-24,95.06,65226.95,Cancelada,32684,heYy37DE,Mesa Crime,363.21,17,Artículo Mesa Crime en venta en tienda,fig_170,1
+587467535,5,572.2,Recibo,4728798,,2023-06-30,2.02,17099.61,En proceso,32684,pIzgOOqo,Mesa Less,572.2,23,Artículo Mesa Less en venta en tienda,fig_890,1
+164502300,3,885.87,Factura,9562404,,2023-01-23,37.39,13012.27,Completada,75369,4UgH2uAA,Teléfono Court,885.87,97,Artículo Teléfono Court en venta en tienda,fig_960,1
+532248113,91,712.03,Factura,9903362,,2020-10-08,43.14,40336.85,Reembolsada,32684,EIPjanll,Alfombra For,712.03,87,Artículo Alfombra For en venta en tienda,fig_277,1
+358142755,56,739.64,Nota de Crédito,6759653,,2023-08-05,30.91,68813.7,En proceso,75369,Qdxx1UlG,Tableta Investment,739.64,99,Artículo Tableta Investment en venta en tienda,fig_437,1
+478030629,70,679.21,Nota de Crédito,8610780,,2015-10-17,10.35,46456.15,Reembolsada,13750,DomrSKNI,Bolígrafo Son,679.21,96,Artículo Bolígrafo Son en venta en tienda,fig_166,1
+432398186,94,679.21,Nota de Crédito,7386103,,2018-06-09,4.42,26962.95,Reembolsada,13750,DomrSKNI,Bolígrafo Son,679.21,96,Artículo Bolígrafo Son en venta en tienda,fig_166,1
+312916781,34,244.86,Nota de Débito,4028875,,2015-12-08,16.8,31115.27,Pendiente,32684,FyZOLBAA,Cocina Road,244.86,50,Artículo Cocina Road en venta en tienda,fig_893,1
+541344563,75,373.54,Nota de Débito,1493882,,2015-02-07,43.46,44962.6,Pendiente,32684,Ecn1x1BM,Cocina Direction,373.54,92,Artículo Cocina Direction en venta en tienda,fig_272,1
+776613666,21,338.06,Boleta de Venta,4146162,,2016-01-19,36.78,19347.82,Pendiente,51470,aGvhvLZH,Pelota Small,338.06,12,Artículo Pelota Small en venta en tienda,fig_737,1
+640262098,52,71.94,Boleta de Venta,4146162,,2016-01-19,36.78,19347.82,Pendiente,13750,w9XLbzi3,Bolígrafo Should,71.94,53,Artículo Bolígrafo Should en venta en tienda,fig_375,1
+661029692,92,550.15,Boleta de Venta,1897808,,2021-05-18,80.47,51402.62,Reembolsada,82016,kyKbJEh8,Tenis Forward,550.15,36,Artículo Tenis Forward en venta en tienda,fig_753,1
+142262161,16,888.38,Boleta de Venta,1897808,,2021-05-18,80.47,51402.62,Reembolsada,32684,pDm2Gnwa,Cocina Base,888.38,46,Artículo Cocina Base en venta en tienda,fig_562,1
+643075068,43,564.44,Factura,8059327,,2021-08-23,3.79,73521.7,Cancelada,40879,cwrrCDqE,Perfume Side,564.44,10,Artículo Perfume Side en venta en tienda,fig_479,1
+217998693,46,564.44,Boleta de Venta,6413329,,2015-03-11,81.26,90665.63,Completada,40879,cwrrCDqE,Perfume Side,564.44,10,Artículo Perfume Side en venta en tienda,fig_479,1
+971055947,25,808.7,Recibo,9944379,,2016-02-14,93.32,41447.57,Reembolsada,32684,AoLYHmQQ,Mesa Surface,808.7,25,Artículo Mesa Surface en venta en tienda,fig_121,1
+894318469,93,808.7,Nota de Débito,9983112,,2015-09-16,10.25,20858.03,Completada,32684,AoLYHmQQ,Mesa Surface,808.7,25,Artículo Mesa Surface en venta en tienda,fig_121,1
+417741651,1,396.84,Nota de Crédito,2416848,,2021-03-21,32.39,81553.47,En proceso,39582,e1p7BAqE,Pantalón Lead,396.84,97,Artículo Pantalón Lead en venta en tienda,fig_603,1
+473839059,92,396.84,Nota de Débito,5462956,,2021-09-29,0.11,20005.48,Pendiente,39582,e1p7BAqE,Pantalón Lead,396.84,97,Artículo Pantalón Lead en venta en tienda,fig_603,1
+294699869,18,863.25,Ticket de Venta,7748829,,2021-12-17,91.46,70393.9,Reembolsada,32684,sRPVchBY,Cuadro Book,863.25,22,Artículo Cuadro Book en venta en tienda,fig_630,1
+509001395,68,71.6,Nota de Débito,4675270,,2018-09-05,86.38,24833.21,Reembolsada,13750,zOylaqiF,Libro Board,71.6,10,Artículo Libro Board en venta en tienda,fig_569,1
+299258912,7,71.6,Factura,8978361,,2018-07-16,48.5,51421.82,Reembolsada,13750,zOylaqiF,Libro Board,71.6,10,Artículo Libro Board en venta en tienda,fig_569,1
+411705164,95,949.14,Nota de Débito,4675270,,2018-09-05,86.38,24833.21,Reembolsada,51470,oGmZtEvM,Pelota Bed,949.14,87,Artículo Pelota Bed en venta en tienda,fig_662,1
+281618311,1,102.14,Nota de Débito,4675270,,2018-09-05,86.38,24833.21,Reembolsada,40879,vktdavAL,Perfume Book,102.14,20,Artículo Perfume Book en venta en tienda,fig_518,1
+197518180,91,821.57,Factura,1237305,,2015-06-03,71.43,66614.1,Pendiente,40879,eTZQ7F80,Perfume Economy,821.57,83,Artículo Perfume Economy en venta en tienda,fig_282,1
+996639753,12,353.67,Factura,1237305,,2015-06-03,71.43,66614.1,Pendiente,75369,rPa5tqOn,Teléfono Imagine,353.67,68,Artículo Teléfono Imagine en venta en tienda,fig_115,1
+393103133,16,353.67,Factura,4206870,,2018-05-09,71.52,39058.96,En proceso,75369,rPa5tqOn,Teléfono Imagine,353.67,68,Artículo Teléfono Imagine en venta en tienda,fig_115,1
+121462606,4,186.98,Factura,1237305,,2015-06-03,71.43,66614.1,Pendiente,82016,79dHHoBN,Tenis Special,186.98,39,Artículo Tenis Special en venta en tienda,fig_507,1
+350554981,82,244.42,Nota de Crédito,4656012,,2017-08-20,68.14,37020.94,Completada,82016,ZZCPGjTT,Tenis Author,244.42,50,Artículo Tenis Author en venta en tienda,fig_302,1
+768581605,34,520.72,Nota de Crédito,4656012,,2017-08-20,68.14,37020.94,Completada,13750,1J7vHTAZ,Libro Able,520.72,24,Artículo Libro Able en venta en tienda,fig_860,1
+401486971,60,520.72,Factura,7996943,,2020-04-26,35.28,92638.75,Pendiente,13750,1J7vHTAZ,Libro Able,520.72,24,Artículo Libro Able en venta en tienda,fig_860,1
+765143911,98,438.38,Factura,3269057,,2021-11-27,70.09,29381.25,En proceso,32684,WP3SyAYx,Jarrón Adult,438.38,66,Artículo Jarrón Adult en venta en tienda,fig_806,1
+409387893,8,484.97,Factura,6438166,,2016-09-28,46.17,25250.56,Cancelada,32684,GqSw42g7,Lámpara Friend,484.97,71,Artículo Lámpara Friend en venta en tienda,fig_580,1
+825389947,53,359.11,Nota de Crédito,9750038,,2018-02-17,86.08,77226.96,En proceso,39582,plpms3R1,Camisa Door,359.11,27,Artículo Camisa Door en venta en tienda,fig_764,1
+163491674,63,359.11,Nota de Crédito,6845638,,2016-06-11,61.81,27141.87,Reembolsada,39582,plpms3R1,Camisa Door,359.11,27,Artículo Camisa Door en venta en tienda,fig_764,1
+634008977,46,22.11,Recibo,1916841,,2015-03-12,53.18,18180.13,En proceso,97521,efeNKhuo,Anillo Live,22.11,65,Artículo Anillo Live en venta en tienda,fig_656,1
+245933226,53,22.11,Factura,5469990,,2020-04-24,52.55,41527.77,Reembolsada,97521,efeNKhuo,Anillo Live,22.11,65,Artículo Anillo Live en venta en tienda,fig_656,1
+795620235,35,781.91,Recibo,5580239,,2020-12-14,21.01,76805.02,Completada,82016,nf0w5Yfo,Tenis Analysis,781.91,41,Artículo Tenis Analysis en venta en tienda,fig_959,1
+331010992,60,167.57,Recibo,7819854,,2022-11-11,77.69,72812.06,Pendiente,51470,o4JbEeBG,Juguete Author,167.57,32,Artículo Juguete Author en venta en tienda,fig_114,1
+236455016,42,608.07,Recibo,7819854,,2022-11-11,77.69,72812.06,Pendiente,32684,8EYCfetU,Silla Represent,608.07,38,Artículo Silla Represent en venta en tienda,fig_331,1
+775730500,85,608.07,Nota de Débito,1235825,,2022-02-01,2.02,18087.98,En proceso,32684,8EYCfetU,Silla Represent,608.07,38,Artículo Silla Represent en venta en tienda,fig_331,1
+114318234,34,300.19,Recibo,2030694,,2017-08-15,17.45,25615.1,Reembolsada,39582,Zz13DwWu,Camisa Right,300.19,18,Artículo Camisa Right en venta en tienda,fig_179,1
+818940847,79,436.98,Factura,1208797,,2023-10-03,46.55,35460.22,Cancelada,75369,dhdjZ4bF,Portátil Exactly,436.98,71,Artículo Portátil Exactly en venta en tienda,fig_787,1
+720381650,20,436.98,Recibo,7949217,,2021-12-22,37.26,92848.03,Completada,75369,dhdjZ4bF,Portátil Exactly,436.98,71,Artículo Portátil Exactly en venta en tienda,fig_787,1
+791194544,90,580.9,Nota de Crédito,4267149,,2021-04-04,98.62,55682.8,Pendiente,64218,2GiG3c5s,Galleta Strategy,580.9,74,Artículo Galleta Strategy en venta en tienda,fig_156,1
+345761461,3,580.9,Boleta de Venta,8588207,,2016-05-14,71.24,55746.73,Pendiente,64218,2GiG3c5s,Galleta Strategy,580.9,74,Artículo Galleta Strategy en venta en tienda,fig_156,1
+254927835,63,580.9,Recibo,3076177,,2015-10-15,14.23,74540.14,Cancelada,64218,2GiG3c5s,Galleta Strategy,580.9,74,Artículo Galleta Strategy en venta en tienda,fig_156,1
+794310443,76,959.26,Nota de Crédito,4267149,,2021-04-04,98.62,55682.8,Pendiente,39582,CLN5Wfm2,Camisa Pressure,959.26,20,Artículo Camisa Pressure en venta en tienda,fig_93,1
+911576557,2,959.26,Recibo,3533924,,2018-07-19,55.41,6433.83,Reembolsada,39582,CLN5Wfm2,Camisa Pressure,959.26,20,Artículo Camisa Pressure en venta en tienda,fig_93,1
+395945948,54,900.04,Recibo,4032632,,2017-04-26,85.26,48863.9,En proceso,40879,kSqwL8uv,Maquillaje Sport,900.04,43,Artículo Maquillaje Sport en venta en tienda,fig_136,1
+336174013,0,831.64,Boleta de Venta,8588207,,2016-05-14,71.24,55746.73,Pendiente,39582,RV8bCL67,Camisa Realize,831.64,97,Artículo Camisa Realize en venta en tienda,fig_285,1
+387122116,67,152.07,Nota de Débito,1379552,,2015-03-22,14.11,20642.23,Pendiente,32684,kzQOLEz6,Lámpara Civil,152.07,74,Artículo Lámpara Civil en venta en tienda,fig_873,1
+619904047,95,152.07,Nota de Débito,4940435,,2016-11-24,5.18,89719.61,Completada,32684,kzQOLEz6,Lámpara Civil,152.07,74,Artículo Lámpara Civil en venta en tienda,fig_873,1
+371805957,86,152.07,Ticket de Venta,4424638,,2018-05-02,1.25,34632.11,En proceso,32684,kzQOLEz6,Lámpara Civil,152.07,74,Artículo Lámpara Civil en venta en tienda,fig_873,1
+898765774,99,785.08,Boleta de Venta,3044096,,2023-06-15,26.3,40969.55,Reembolsada,13750,CtTfVQkv,Libro Pretty,785.08,69,Artículo Libro Pretty en venta en tienda,fig_817,1
+949163055,63,785.08,Recibo,5625791,,2022-02-10,35.18,39118.0,Pendiente,13750,CtTfVQkv,Libro Pretty,785.08,69,Artículo Libro Pretty en venta en tienda,fig_817,1
+643344021,7,288.69,Boleta de Venta,3044096,,2023-06-15,26.3,40969.55,Reembolsada,82016,vkiQ1M7e,Tenis American,288.69,97,Artículo Tenis American en venta en tienda,fig_355,1
+328399824,19,526.44,Nota de Débito,3726081,,2019-10-27,31.64,4461.85,Pendiente,75369,wXeSUkny,Portátil Be,526.44,55,Artículo Portátil Be en venta en tienda,fig_379,1
+940818309,27,526.44,Recibo,5337325,,2021-10-20,46.21,82849.55,Pendiente,75369,wXeSUkny,Portátil Be,526.44,55,Artículo Portátil Be en venta en tienda,fig_379,1
+186704850,32,400.98,Nota de Débito,2496126,,2016-08-13,18.17,43131.39,Reembolsada,39582,kkZT5SLu,Pantalón Rather,400.98,1,Artículo Pantalón Rather en venta en tienda,fig_707,1
+238765009,60,471.07,Nota de Débito,2964261,,2021-02-26,45.58,79526.6,Cancelada,97521,HFoXvYBs,Reloj Which,471.07,2,Artículo Reloj Which en venta en tienda,fig_223,1
+221614039,21,471.07,Factura,1616749,,2016-08-12,56.17,73587.94,Completada,97521,HFoXvYBs,Reloj Which,471.07,2,Artículo Reloj Which en venta en tienda,fig_223,1
+597743603,51,211.69,Nota de Débito,2964261,,2021-02-26,45.58,79526.6,Cancelada,32684,mSoldJO0,Cama One,211.69,28,Artículo Cama One en venta en tienda,fig_638,1
+639872261,5,211.69,Recibo,3763493,,2020-09-16,63.96,62238.98,Completada,32684,mSoldJO0,Cama One,211.69,28,Artículo Cama One en venta en tienda,fig_638,1
+424162264,0,61.95,Ticket de Venta,7484554,,2023-04-24,59.08,45213.93,Cancelada,32684,j4tveRTG,Alfombra Fly,61.95,16,Artículo Alfombra Fly en venta en tienda,fig_834,1
+852659672,36,220.17,Ticket de Venta,7484554,,2023-04-24,59.08,45213.93,Cancelada,32684,jNtxteTt,Alfombra Account,220.17,76,Artículo Alfombra Account en venta en tienda,fig_327,1
+329481418,40,220.17,Nota de Crédito,8720804,,2017-05-12,60.07,82697.45,Completada,32684,jNtxteTt,Alfombra Account,220.17,76,Artículo Alfombra Account en venta en tienda,fig_327,1
+983143386,72,99.15,Ticket de Venta,4612997,,2018-08-26,12.05,67979.69,Completada,32684,IcAxmfVC,Cuadro Suddenly,99.15,86,Artículo Cuadro Suddenly en venta en tienda,fig_991,1
+782597301,24,987.69,Ticket de Venta,4612997,,2018-08-26,12.05,67979.69,Completada,82016,P49qBWkY,Zapatos Growth,987.69,51,Artículo Zapatos Growth en venta en tienda,fig_178,1
+305212379,6,528.62,Factura,8944435,,2015-06-18,14.25,84052.86,Reembolsada,97521,CxlTp2Q6,Anillo Soon,528.62,71,Artículo Anillo Soon en venta en tienda,fig_584,1
+473138149,50,419.76,Ticket de Venta,1427410,,2016-04-18,50.86,51185.15,Completada,13750,KE9uRP7n,Bolígrafo Voice,419.76,1,Artículo Bolígrafo Voice en venta en tienda,fig_457,1
+741338883,59,419.76,Factura,1162247,,2021-07-27,3.37,95954.48,Completada,13750,KE9uRP7n,Bolígrafo Voice,419.76,1,Artículo Bolígrafo Voice en venta en tienda,fig_457,1
+847135722,8,419.54,Ticket de Venta,9270134,,2018-07-01,94.7,18083.2,Pendiente,64218,kqmMvmez,Galleta Mention,419.54,73,Artículo Galleta Mention en venta en tienda,fig_197,1
+358317036,16,674.07,Ticket de Venta,5624456,,2015-12-22,65.95,87154.39,Completada,32684,a0WwEExh,Cuadro During,674.07,95,Artículo Cuadro During en venta en tienda,fig_466,1
+315091963,5,69.57,Ticket de Venta,4059759,,2019-04-17,74.48,60359.0,En proceso,64218,W1pnHIBT,Galleta Act,69.57,52,Artículo Galleta Act en venta en tienda,fig_487,1
+174494722,77,184.47,Nota de Crédito,4703841,,2016-01-18,12.34,66231.27,Pendiente,75369,FwqbvwwB,Tableta Then,184.47,62,Artículo Tableta Then en venta en tienda,fig_450,1
+445434885,69,204.74,Recibo,6033113,,2015-01-28,48.71,81756.55,Completada,32684,FofeuKKD,Lámpara Operation,204.74,94,Artículo Lámpara Operation en venta en tienda,fig_290,1
+739228683,55,996.49,Recibo,6034320,,2021-01-01,37.97,91363.23,Cancelada,39582,eVCJQoET,Suéter Official,996.49,91,Artículo Suéter Official en venta en tienda,fig_877,1
+493094062,74,97.05,Recibo,6034320,,2021-01-01,37.97,91363.23,Cancelada,39582,aMoF2f6X,Pantalón Young,97.05,70,Artículo Pantalón Young en venta en tienda,fig_167,1
+457484026,79,374.53,Recibo,6034320,,2021-01-01,37.97,91363.23,Cancelada,97521,FlPG1z3C,Anillo As,374.53,45,Artículo Anillo As en venta en tienda,fig_185,1
+449109006,80,605.25,Nota de Crédito,8302834,,2015-10-20,90.48,79092.48,Pendiente,13750,WBYC1zU7,Libro Customer,605.25,35,Artículo Libro Customer en venta en tienda,fig_730,1
+399005010,36,967.37,Nota de Crédito,8302834,,2015-10-20,90.48,79092.48,Pendiente,82016,dArTiu25,Zapatos Fish,967.37,48,Artículo Zapatos Fish en venta en tienda,fig_863,1
+130870289,10,97.65,Nota de Crédito,2546294,,2016-06-22,83.32,76320.08,En proceso,40879,Gmcq8hd9,Maquillaje But,97.65,98,Artículo Maquillaje But en venta en tienda,fig_818,1
+629722130,9,812.54,Ticket de Venta,9375091,,2015-01-15,74.64,4544.61,Cancelada,75369,xnpZzMQx,Tableta Even,812.54,22,Artículo Tableta Even en venta en tienda,fig_61,1
+437863563,90,812.54,Boleta de Venta,7835452,,2015-07-13,18.95,53298.12,Reembolsada,75369,xnpZzMQx,Tableta Even,812.54,22,Artículo Tableta Even en venta en tienda,fig_61,1
+773012514,6,36.06,Recibo,3451639,,2021-04-12,24.39,23888.66,Reembolsada,75369,5LhRlXlj,Teléfono Writer,36.06,96,Artículo Teléfono Writer en venta en tienda,fig_320,1
+331213966,65,36.06,Nota de Crédito,1143263,,2021-07-17,8.63,58824.6,Pendiente,75369,5LhRlXlj,Teléfono Writer,36.06,96,Artículo Teléfono Writer en venta en tienda,fig_320,1
+144641066,19,58.17,Ticket de Venta,3746509,,2019-03-26,63.84,70112.3,En proceso,13750,CnXA0jyO,Bolígrafo Life,58.17,21,Artículo Bolígrafo Life en venta en tienda,fig_712,1
+660233730,47,490.21,Ticket de Venta,3746509,,2019-03-26,63.84,70112.3,En proceso,13750,Z3h1Gz2g,Libro Year,490.21,54,Artículo Libro Year en venta en tienda,fig_923,1
+610501675,2,717.88,Boleta de Venta,7799619,,2015-12-01,27.03,74441.44,Cancelada,32684,Oks54wMz,Jarrón Young,717.88,72,Artículo Jarrón Young en venta en tienda,fig_173,1
+913910827,23,214.65,Nota de Crédito,9508627,,2015-11-12,5.13,12858.97,Pendiente,32684,4FJOMsfS,Cocina Commercial,214.65,60,Artículo Cocina Commercial en venta en tienda,fig_129,1
+145207137,91,214.65,Recibo,3533924,,2018-07-19,55.41,6433.83,Reembolsada,32684,4FJOMsfS,Cocina Commercial,214.65,60,Artículo Cocina Commercial en venta en tienda,fig_129,1
+683310130,89,513.79,Ticket de Venta,5332536,,2020-02-28,83.96,74164.98,Cancelada,32684,fTQtV9ZT,Cuadro Property,513.79,53,Artículo Cuadro Property en venta en tienda,fig_645,1
+847219764,94,66.59,Recibo,1271662,,2021-06-27,27.42,47659.69,Reembolsada,75369,mhn1wdYp,Tableta Serve,66.59,62,Artículo Tableta Serve en venta en tienda,fig_276,1
+498443322,40,311.77,Nota de Débito,9163208,,2020-08-29,21.6,79616.47,En proceso,75369,KwaopAf3,Portátil Arm,311.77,13,Artículo Portátil Arm en venta en tienda,fig_174,1
+349852730,76,817.29,Boleta de Venta,2373711,,2016-01-21,93.71,38076.58,Reembolsada,82016,rEpUgXRk,Tenis Real,817.29,76,Artículo Tenis Real en venta en tienda,fig_565,1
+149421124,32,502.27,Nota de Débito,4924666,,2023-11-24,38.76,79229.05,Reembolsada,32684,UTAsmmly,Mesa Letter,502.27,51,Artículo Mesa Letter en venta en tienda,fig_247,1
+169588087,26,502.27,Nota de Débito,5504965,,2019-11-26,93.17,14139.49,Completada,32684,UTAsmmly,Mesa Letter,502.27,51,Artículo Mesa Letter en venta en tienda,fig_247,1
+465026456,35,35.54,Nota de Crédito,8974735,,2023-07-08,77.95,60324.23,Cancelada,39582,3vTmiA6C,Camisa Clearly,35.54,2,Artículo Camisa Clearly en venta en tienda,fig_973,1
+391027792,26,603.98,Factura,3925153,,2021-05-30,37.44,61377.18,Cancelada,40879,FMljB4pJ,Perfume Water,603.98,40,Artículo Perfume Water en venta en tienda,fig_238,1
+785751120,78,972.38,Nota de Crédito,4465715,,2023-12-07,51.78,23224.11,En proceso,75369,56gQ321H,Portátil Quickly,972.38,92,Artículo Portátil Quickly en venta en tienda,fig_37,1
+820216922,98,605.2,Ticket de Venta,5783470,,2018-01-19,85.32,51812.02,Cancelada,32684,Y7dD0KpG,Cocina Six,605.2,16,Artículo Cocina Six en venta en tienda,fig_563,1
+559255327,45,605.2,Ticket de Venta,7834342,,2018-02-05,83.86,28816.65,En proceso,32684,Y7dD0KpG,Cocina Six,605.2,16,Artículo Cocina Six en venta en tienda,fig_563,1
+900971612,16,721.83,Factura,8069173,,2021-04-25,99.94,95859.8,Reembolsada,32684,clRXMe4q,Mesa Hour,721.83,42,Artículo Mesa Hour en venta en tienda,fig_678,1
+820356387,83,721.83,Ticket de Venta,2908405,,2023-02-19,11.96,67565.69,Completada,32684,clRXMe4q,Mesa Hour,721.83,42,Artículo Mesa Hour en venta en tienda,fig_678,1
+895781980,5,741.29,Factura,5196842,,2020-01-12,76.26,82504.47,Cancelada,32684,fT33skoA,Mesa Particular,741.29,25,Artículo Mesa Particular en venta en tienda,fig_798,1
+280206480,89,513.17,Factura,5196842,,2020-01-12,76.26,82504.47,Cancelada,97521,y4Wuf2wP,Reloj Hear,513.17,90,Artículo Reloj Hear en venta en tienda,fig_225,1
+175981663,42,237.63,Recibo,8118379,,2023-11-16,18.02,66021.56,En proceso,75369,rDmah6gu,Teléfono Participant,237.63,37,Artículo Teléfono Participant en venta en tienda,fig_542,1
+609342567,75,25.97,Ticket de Venta,2643866,,2016-10-07,67.2,7091.63,Reembolsada,32684,Ibw9Rhih,Lámpara Risk,25.97,92,Artículo Lámpara Risk en venta en tienda,fig_5,1
+473855089,56,152.49,Ticket de Venta,1250802,,2018-06-10,59.89,2038.18,Cancelada,32684,f8Kb1azz,Alfombra Sort,152.49,68,Artículo Alfombra Sort en venta en tienda,fig_419,1
+692821112,48,231.76,Recibo,4071021,,2021-03-28,84.23,13981.92,Pendiente,51470,ph7DhizJ,Juguete First,231.76,89,Artículo Juguete First en venta en tienda,fig_523,1
+767575798,98,231.76,Factura,9517193,,2017-10-12,19.26,5147.07,Completada,51470,ph7DhizJ,Juguete First,231.76,89,Artículo Juguete First en venta en tienda,fig_523,1
+916788345,52,764.29,Ticket de Venta,7372945,,2020-01-05,22.01,93671.82,Pendiente,13750,MZCe9YaN,Bolígrafo Head,764.29,99,Artículo Bolígrafo Head en venta en tienda,fig_206,1
+699772919,81,264.58,Factura,7996943,,2020-04-26,35.28,92638.75,Pendiente,75369,np8JKD9M,Teléfono Image,264.58,1,Artículo Teléfono Image en venta en tienda,fig_582,1
+118140035,24,366.03,Factura,9531067,,2015-02-12,61.05,11973.8,En proceso,82016,RAjWKF8F,Zapatos Great,366.03,5,Artículo Zapatos Great en venta en tienda,fig_200,1
+580828719,41,366.03,Nota de Débito,7800350,,2015-03-17,90.48,82428.55,Reembolsada,82016,RAjWKF8F,Zapatos Great,366.03,5,Artículo Zapatos Great en venta en tienda,fig_200,1
+856390797,80,328.58,Boleta de Venta,2139325,,2023-04-03,15.69,20510.02,Cancelada,32684,OEKJOJmu,Cuadro Age,328.58,67,Artículo Cuadro Age en venta en tienda,fig_50,1
+968220130,6,105.16,Boleta de Venta,2139325,,2023-04-03,15.69,20510.02,Cancelada,51470,7iKlIrrd,Juguete Human,105.16,4,Artículo Juguete Human en venta en tienda,fig_947,1
+242011813,51,105.16,Recibo,4644011,,2022-04-21,39.13,81931.32,Completada,51470,7iKlIrrd,Juguete Human,105.16,4,Artículo Juguete Human en venta en tienda,fig_947,1
+501880654,72,513.12,Boleta de Venta,2139325,,2023-04-03,15.69,20510.02,Cancelada,32684,wwlmgGFb,Jarrón Anything,513.12,24,Artículo Jarrón Anything en venta en tienda,fig_25,1
+821753524,57,513.12,Recibo,7608821,,2019-10-28,60.99,13583.33,Reembolsada,32684,wwlmgGFb,Jarrón Anything,513.12,24,Artículo Jarrón Anything en venta en tienda,fig_25,1
+355335314,50,856.51,Ticket de Venta,4136130,,2016-12-03,89.44,70807.87,Completada,32684,Zgog5Tia,Mesa Sort,856.51,30,Artículo Mesa Sort en venta en tienda,fig_836,1
+914001449,0,848.58,Ticket de Venta,4136130,,2016-12-03,89.44,70807.87,Completada,32684,ctDPXa4M,Cocina Ago,848.58,95,Artículo Cocina Ago en venta en tienda,fig_32,1
+510489756,86,207.22,Ticket de Venta,8927679,,2022-03-28,30.39,12009.7,Pendiente,32684,g0Z7Nzoi,Mesa Manage,207.22,40,Artículo Mesa Manage en venta en tienda,fig_458,1
+602936481,74,464.22,Boleta de Venta,7237993,,2018-09-19,56.15,43519.25,Completada,32684,CIsr1J5L,Alfombra Myself,464.22,94,Artículo Alfombra Myself en venta en tienda,fig_664,1
+572765423,74,247.01,Boleta de Venta,7237993,,2018-09-19,56.15,43519.25,Completada,39582,MDUdBqcp,Vestido Factor,247.01,8,Artículo Vestido Factor en venta en tienda,fig_907,1
+136004859,77,247.01,Nota de Débito,1234498,,2015-03-24,19.7,54494.77,En proceso,39582,MDUdBqcp,Vestido Factor,247.01,8,Artículo Vestido Factor en venta en tienda,fig_907,1
+652775096,47,607.62,Boleta de Venta,7237993,,2018-09-19,56.15,43519.25,Completada,64218,cHHawWeX,Galleta Audience,607.62,73,Artículo Galleta Audience en venta en tienda,fig_253,1
+916628645,89,535.64,Ticket de Venta,4690120,,2016-12-04,84.23,44715.72,Reembolsada,39582,L6ZjOsFv,Suéter Parent,535.64,30,Artículo Suéter Parent en venta en tienda,fig_383,1
+574926032,71,47.47,Recibo,7682568,,2021-08-02,9.95,2567.45,Pendiente,64218,oD5889Hg,Galleta Challenge,47.47,8,Artículo Galleta Challenge en venta en tienda,fig_452,1
+633109718,29,747.77,Recibo,1409088,,2023-09-01,23.11,94806.71,Completada,75369,LVwbu94s,Tableta Character,747.77,32,Artículo Tableta Character en venta en tienda,fig_925,1
+664663258,49,260.54,Factura,2101710,,2021-08-31,7.89,96956.23,En proceso,40879,yY9Mvzps,Perfume Score,260.54,56,Artículo Perfume Score en venta en tienda,fig_852,1
+749839581,15,385.66,Nota de Crédito,7450321,,2015-04-06,79.36,39307.05,Pendiente,82016,of2XkBAd,Tenis So,385.66,78,Artículo Tenis So en venta en tienda,fig_233,1
+336628968,35,346.92,Nota de Débito,2972948,,2022-04-08,27.24,26877.29,En proceso,75369,ENaX9l30,Tableta Because,346.92,9,Artículo Tableta Because en venta en tienda,fig_955,1
+167935217,32,984.43,Nota de Débito,1720405,,2016-08-06,93.39,43452.3,En proceso,32684,09pj2cPf,Cama Ago,984.43,71,Artículo Cama Ago en venta en tienda,fig_521,1
+842818809,44,328.65,Factura,8115472,,2022-08-07,88.01,9455.74,Completada,51470,tRU0l0Qm,Juguete Both,328.65,76,Artículo Juguete Both en venta en tienda,fig_589,1
+864710203,37,556.75,Factura,8115472,,2022-08-07,88.01,9455.74,Completada,32684,rWOt5sk1,Silla Four,556.75,55,Artículo Silla Four en venta en tienda,fig_558,1
+789615869,62,664.33,Recibo,7253234,,2017-06-18,42.08,65077.69,Cancelada,39582,CddCewVl,Camisa His,664.33,31,Artículo Camisa His en venta en tienda,fig_744,1
+587228414,70,610.6,Recibo,7253234,,2017-06-18,42.08,65077.69,Cancelada,39582,ztwkPx7y,Suéter Move,610.6,28,Artículo Suéter Move en venta en tienda,fig_770,1
+829939361,88,656.32,Recibo,7253234,,2017-06-18,42.08,65077.69,Cancelada,64218,ekhf8nVB,Galleta Concern,656.32,18,Artículo Galleta Concern en venta en tienda,fig_756,1
+721196284,48,377.77,Boleta de Venta,3504770,,2023-02-13,33.33,28889.76,En proceso,75369,OA2JFAHj,Teléfono Particularly,377.77,54,Artículo Teléfono Particularly en venta en tienda,fig_902,1
+138009852,95,992.96,Boleta de Venta,2611768,,2018-05-24,25.17,86633.34,En proceso,64218,HGAnNKor,Galleta Region,992.96,57,Artículo Galleta Region en venta en tienda,fig_409,1
+915016967,38,459.81,Factura,5452670,,2018-11-19,33.32,85244.8,En proceso,75369,yAW4qIZf,Portátil Lose,459.81,14,Artículo Portátil Lose en venta en tienda,fig_13,1
+825607426,74,312.13,Ticket de Venta,2897388,,2020-09-29,11.29,22707.2,Pendiente,13750,em7wzwjz,Libro Performance,312.13,12,Artículo Libro Performance en venta en tienda,fig_40,1
+414125324,57,460.29,Nota de Débito,4341187,,2019-11-14,86.45,93899.25,Cancelada,97521,157cCZ29,Anillo Summer,460.29,40,Artículo Anillo Summer en venta en tienda,fig_48,1
+256593520,60,155.16,Nota de Débito,9983112,,2015-09-16,10.25,20858.03,Completada,32684,KUTIXXdb,Lámpara Loss,155.16,60,Artículo Lámpara Loss en venta en tienda,fig_106,1
+663549851,34,121.67,Nota de Débito,4926586,,2018-05-07,71.97,59832.69,Completada,82016,y9JefSJp,Zapatos Present,121.67,55,Artículo Zapatos Present en venta en tienda,fig_311,1
+775937687,72,699.19,Recibo,1004142,,2015-07-08,81.87,57503.78,Cancelada,32684,xiXVjj0S,Lámpara Stay,699.19,80,Artículo Lámpara Stay en venta en tienda,fig_461,1
+792274203,79,661.89,Nota de Crédito,3767935,,2021-08-15,67.8,38901.31,Cancelada,32684,8c63qI83,Cocina Machine,661.89,83,Artículo Cocina Machine en venta en tienda,fig_443,1
+116712740,51,576.4,Nota de Débito,8469582,,2021-04-17,13.67,73938.21,Reembolsada,51470,vdwZP5E9,Pelota Age,576.4,90,Artículo Pelota Age en venta en tienda,fig_571,1
+839703869,34,557.45,Recibo,5278887,,2016-09-05,90.3,42206.45,Completada,40879,E6DAULIs,Perfume Middle,557.45,53,Artículo Perfume Middle en venta en tienda,fig_774,1
+805946688,21,858.37,Recibo,6778800,,2015-06-13,55.14,26148.81,Pendiente,51470,Cd1aGKug,Pelota Time,858.37,10,Artículo Pelota Time en venta en tienda,fig_576,1
+499703198,49,858.37,Nota de Crédito,3099565,,2020-03-19,83.68,8430.51,En proceso,51470,Cd1aGKug,Pelota Time,858.37,10,Artículo Pelota Time en venta en tienda,fig_576,1
+891588038,35,304.17,Ticket de Venta,1365033,,2017-08-09,80.22,1609.69,Reembolsada,32684,kPBU8x6X,Alfombra Religious,304.17,82,Artículo Alfombra Religious en venta en tienda,fig_309,1
+683005255,75,621.57,Boleta de Venta,5638926,,2020-07-12,32.15,94005.55,Completada,32684,RBp6aIc0,Cama Young,621.57,52,Artículo Cama Young en venta en tienda,fig_648,1
+789716425,3,560.82,Boleta de Venta,5638926,,2020-07-12,32.15,94005.55,Completada,75369,scOysjb2,Teléfono Street,560.82,67,Artículo Teléfono Street en venta en tienda,fig_446,1
+877786448,10,456.2,Nota de Débito,5796416,,2022-04-06,48.73,82632.34,Reembolsada,32684,l0OHlzA9,Jarrón Strong,456.2,21,Artículo Jarrón Strong en venta en tienda,fig_420,1
+660366678,28,459.21,Ticket de Venta,3312515,,2023-05-08,18.4,12570.22,Reembolsada,97521,LFMWBORS,Reloj Commercial,459.21,3,Artículo Reloj Commercial en venta en tienda,fig_931,1
+631653803,5,483.89,Factura,1624063,,2017-03-01,50.82,57423.95,Reembolsada,39582,sNaf5iVV,Pantalón Rule,483.89,99,Artículo Pantalón Rule en venta en tienda,fig_752,1
+432873189,43,483.89,Boleta de Venta,8792235,,2018-03-03,30.63,29343.99,En proceso,39582,sNaf5iVV,Pantalón Rule,483.89,99,Artículo Pantalón Rule en venta en tienda,fig_752,1
+991227233,50,490.89,Nota de Crédito,8658552,,2017-03-09,9.35,31782.3,En proceso,51470,zAnA3IJ4,Juguete Because,490.89,86,Artículo Juguete Because en venta en tienda,fig_536,1
+766219695,18,490.89,Boleta de Venta,3752092,,2017-09-06,99.22,32357.24,Completada,51470,zAnA3IJ4,Juguete Because,490.89,86,Artículo Juguete Because en venta en tienda,fig_536,1
+309288315,40,794.56,Factura,1019303,,2022-10-05,97.61,64155.43,Pendiente,64218,hy6ab2qi,Galleta Above,794.56,65,Artículo Galleta Above en venta en tienda,fig_690,1
+771607935,61,258.91,Nota de Crédito,1923719,,2021-04-02,12.93,54715.66,En proceso,13750,N4lYZRed,Bolígrafo Heavy,258.91,16,Artículo Bolígrafo Heavy en venta en tienda,fig_811,1
+828421514,74,225.11,Nota de Crédito,5666353,,2019-09-26,62.81,84958.53,Completada,51470,HTYBI8o2,Pelota Animal,225.11,64,Artículo Pelota Animal en venta en tienda,fig_797,1
+161893777,84,10.65,Recibo,2097242,,2021-07-03,69.81,98978.59,Completada,32684,U5vtcs95,Cama Series,10.65,31,Artículo Cama Series en venta en tienda,fig_636,1
+743314840,7,893.01,Nota de Débito,3486271,,2021-01-31,30.86,86476.64,Reembolsada,75369,YtoF6rCF,Teléfono Place,893.01,5,Artículo Teléfono Place en venta en tienda,fig_293,1
+810696093,46,33.01,Factura,8419526,,2015-11-12,55.58,38886.27,Cancelada,32684,006aA3NU,Cocina Style,33.01,57,Artículo Cocina Style en venta en tienda,fig_68,1
+178816417,3,323.48,Nota de Crédito,8030004,,2021-01-14,7.43,63158.55,Pendiente,32684,cs29ne0l,Jarrón Certainly,323.48,65,Artículo Jarrón Certainly en venta en tienda,fig_894,1
+757523877,1,945.43,Recibo,7236439,,2018-05-31,52.7,46248.47,Cancelada,82016,NhYcWnmG,Zapatos Down,945.43,36,Artículo Zapatos Down en venta en tienda,fig_864,1
+417273254,8,741.66,Recibo,4013836,,2017-07-20,10.84,68765.52,En proceso,39582,tGopuBKl,Suéter Race,741.66,42,Artículo Suéter Race en venta en tienda,fig_460,1
+108520974,36,741.66,Recibo,5234285,,2015-05-19,43.05,75153.54,Reembolsada,39582,tGopuBKl,Suéter Race,741.66,42,Artículo Suéter Race en venta en tienda,fig_460,1
+995587517,68,485.52,Recibo,9939836,,2021-07-25,39.68,98063.49,Completada,32684,uIvUnZgu,Mesa About,485.52,7,Artículo Mesa About en venta en tienda,fig_832,1
+621313482,1,861.34,Recibo,5054068,,2022-11-19,40.19,89497.1,Cancelada,39582,IOXzRNpi,Vestido Cell,861.34,50,Artículo Vestido Cell en venta en tienda,fig_237,1
+663551669,95,861.34,Factura,3285098,,2017-03-15,81.56,33566.19,Pendiente,39582,IOXzRNpi,Vestido Cell,861.34,50,Artículo Vestido Cell en venta en tienda,fig_237,1
+891301322,43,349.88,Nota de Débito,9599040,,2021-01-21,87.69,97213.81,En proceso,51470,q2Rsy5MV,Juguete Something,349.88,9,Artículo Juguete Something en venta en tienda,fig_731,1
+543157707,38,318.47,Nota de Crédito,3206410,,2017-08-10,87.05,62155.08,Completada,75369,xnwsYzrg,Portátil None,318.47,26,Artículo Portátil None en venta en tienda,fig_51,1
+758672854,72,453.63,Ticket de Venta,9190999,,2021-01-28,5.72,22482.35,Pendiente,82016,BX8gDgJe,Zapatos Pick,453.63,38,Artículo Zapatos Pick en venta en tienda,fig_288,1
+944025058,91,768.65,Ticket de Venta,1098445,,2015-04-19,37.14,19988.5,Completada,51470,z8gb8VwJ,Pelota Sure,768.65,35,Artículo Pelota Sure en venta en tienda,fig_768,1
+286760430,32,210.82,Recibo,3601798,,2019-03-28,58.51,10780.41,Reembolsada,32684,5pMGqfCv,Cuadro Better,210.82,81,Artículo Cuadro Better en venta en tienda,fig_853,1
+869459453,8,959.53,Boleta de Venta,5197351,,2019-06-30,72.77,69317.68,Cancelada,32684,7H452XUa,Cocina Law,959.53,89,Artículo Cocina Law en venta en tienda,fig_418,1
+435508735,49,723.47,Nota de Crédito,8652434,,2017-09-17,22.53,60617.39,Completada,32684,CbcIo0E6,Jarrón Push,723.47,97,Artículo Jarrón Push en venta en tienda,fig_640,1
+692365127,71,723.47,Recibo,1631028,,2017-06-26,26.27,82942.74,Reembolsada,32684,CbcIo0E6,Jarrón Push,723.47,97,Artículo Jarrón Push en venta en tienda,fig_640,1
+540880402,48,683.84,Factura,6045536,,2023-11-28,59.61,92478.44,En proceso,32684,loZT3NL0,Cocina Yes,683.84,73,Artículo Cocina Yes en venta en tienda,fig_914,1
+511958560,56,624.59,Nota de Débito,5996643,,2016-10-17,84.83,57011.8,Cancelada,97521,fv1JOYgF,Anillo Democratic,624.59,94,Artículo Anillo Democratic en venta en tienda,fig_392,1
+114226754,77,219.24,Recibo,9045725,,2017-07-23,44.24,49768.42,Pendiente,32684,UvTXomTY,Jarrón Simply,219.24,47,Artículo Jarrón Simply en venta en tienda,fig_492,1
+332293715,71,644.85,Nota de Débito,6397298,,2023-09-24,26.77,32324.28,Pendiente,32684,L0cbJ06c,Alfombra Himself,644.85,43,Artículo Alfombra Himself en venta en tienda,fig_725,1
+576632811,0,573.12,Nota de Débito,6397298,,2023-09-24,26.77,32324.28,Pendiente,40879,MZybOuGz,Perfume Public,573.12,7,Artículo Perfume Public en venta en tienda,fig_398,1
+798506597,6,317.56,Nota de Débito,2765962,,2023-05-23,55.85,57408.18,Reembolsada,51470,bSllmZqd,Juguete Race,317.56,87,Artículo Juguete Race en venta en tienda,fig_231,1
+789399147,71,538.19,Boleta de Venta,9223281,,2015-09-18,15.78,93360.88,Pendiente,40879,wEKRWNUb,Maquillaje That,538.19,48,Artículo Maquillaje That en venta en tienda,fig_881,1
+783568497,88,531.14,Nota de Débito,1086743,,2016-04-27,12.72,54013.74,Cancelada,32684,k4JqfzX6,Lámpara Available,531.14,7,Artículo Lámpara Available en venta en tienda,fig_606,1
+946802402,42,531.14,Recibo,6329789,,2023-09-08,22.63,17970.8,En proceso,32684,k4JqfzX6,Lámpara Available,531.14,7,Artículo Lámpara Available en venta en tienda,fig_606,1
+303580792,32,96.26,Nota de Débito,2543772,,2018-08-11,77.35,78407.2,Reembolsada,32684,4bM80fDZ,Lámpara First,96.26,51,Artículo Lámpara First en venta en tienda,fig_435,1
+780232315,49,76.08,Nota de Crédito,5890588,,2018-01-15,9.57,96871.69,Cancelada,13750,eMYbH30M,Bolígrafo Visit,76.08,23,Artículo Bolígrafo Visit en venta en tienda,fig_169,1
+437251712,24,121.4,Nota de Crédito,9301435,,2017-09-13,42.57,72989.4,En proceso,13750,CaPT0zOV,Bolígrafo Recently,121.4,17,Artículo Bolígrafo Recently en venta en tienda,fig_613,1
+894408488,20,137.8,Nota de Crédito,9301435,,2017-09-13,42.57,72989.4,En proceso,39582,uS0yCbuY,Suéter Myself,137.8,6,Artículo Suéter Myself en venta en tienda,fig_998,1
+772986786,59,652.95,Nota de Crédito,9301435,,2017-09-13,42.57,72989.4,En proceso,75369,Dio1pQZx,Portátil Within,652.95,79,Artículo Portátil Within en venta en tienda,fig_587,1
+357543554,85,449.58,Boleta de Venta,5635274,,2015-10-20,41.82,76637.77,Reembolsada,75369,y2WeDBWd,Tableta Data,449.58,76,Artículo Tableta Data en venta en tienda,fig_751,1
+818566788,69,351.48,Nota de Débito,9371089,,2020-07-24,10.33,6555.4,Reembolsada,97521,RRnAfxUh,Anillo Feeling,351.48,7,Artículo Anillo Feeling en venta en tienda,fig_23,1
+491392646,65,15.69,Nota de Débito,7112053,,2015-02-12,31.64,46087.75,Pendiente,32684,5XoSkwVC,Cama People,15.69,71,Artículo Cama People en venta en tienda,fig_686,1
+631269012,96,467.9,Nota de Débito,1888815,,2020-01-21,21.39,86267.72,Cancelada,51470,XqfGpu7a,Pelota Guy,467.9,86,Artículo Pelota Guy en venta en tienda,fig_739,1
+112518811,79,477.68,Nota de Crédito,5201074,,2019-09-06,11.01,93731.48,Completada,32684,6yEmi0oS,Lámpara For,477.68,62,Artículo Lámpara For en venta en tienda,fig_465,1
+637730463,73,831.19,Nota de Débito,3374256,,2017-06-07,41.76,13637.42,Completada,32684,457Ti1uV,Cama Prove,831.19,97,Artículo Cama Prove en venta en tienda,fig_343,1
+773256884,57,714.63,Factura,9705517,,2015-03-09,49.81,48567.51,En proceso,39582,yga698UX,Suéter State,714.63,33,Artículo Suéter State en venta en tienda,fig_31,1
+571096786,55,30.52,Recibo,8052624,,2017-04-09,80.82,94408.89,Completada,75369,vdzXoCGJ,Tableta Pick,30.52,15,Artículo Tableta Pick en venta en tienda,fig_256,1
+355749678,96,696.11,Recibo,8052624,,2017-04-09,80.82,94408.89,Completada,75369,HmnBwQzn,Tableta Already,696.11,71,Artículo Tableta Already en venta en tienda,fig_990,1
+855729875,25,917.72,Factura,9041546,,2016-06-11,81.5,54574.39,Completada,32684,Ao1STjRv,Cocina Action,917.72,29,Artículo Cocina Action en venta en tienda,fig_780,1
+806549236,29,784.79,Recibo,5292974,,2015-03-19,52.65,57982.57,En proceso,51470,GQvdTMaR,Pelota Camera,784.79,86,Artículo Pelota Camera en venta en tienda,fig_995,1
+819291894,35,331.98,Nota de Débito,1560674,,2021-04-29,3.11,69616.21,Reembolsada,32684,nuaWdEBj,Lámpara Line,331.98,30,Artículo Lámpara Line en venta en tienda,fig_307,1
+834070269,61,41.49,Factura,9335195,,2022-01-20,54.0,25847.71,En proceso,75369,yLNH0kF6,Teléfono Item,41.49,61,Artículo Teléfono Item en venta en tienda,fig_45,1
+714555134,22,637.93,Recibo,8983264,,2021-02-04,72.43,62781.04,En proceso,75369,0vm2sivJ,Tableta Staff,637.93,27,Artículo Tableta Staff en venta en tienda,fig_938,1
+381427468,8,104.87,Recibo,4858291,,2019-11-17,22.12,26723.86,Pendiente,39582,S0AFQTfx,Suéter Plant,104.87,13,Artículo Suéter Plant en venta en tienda,fig_303,1
+197236503,40,651.7,Factura,4190632,,2017-05-10,3.64,81334.82,Cancelada,13750,0ot7LXsL,Libro Science,651.7,59,Artículo Libro Science en venta en tienda,fig_217,1
+204310304,41,464.85,Recibo,8306847,,2019-07-13,65.44,9433.95,Reembolsada,32684,IKJ9q3mA,Mesa Everything,464.85,77,Artículo Mesa Everything en venta en tienda,fig_279,1
+700100386,46,954.19,Nota de Crédito,9514526,,2017-08-19,36.24,84583.49,Completada,32684,L1L1LEwE,Cuadro Clearly,954.19,96,Artículo Cuadro Clearly en venta en tienda,fig_861,1
+944236345,75,377.14,Boleta de Venta,7510833,,2018-03-14,19.66,94796.6,En proceso,40879,cJ71wijf,Perfume Baby,377.14,50,Artículo Perfume Baby en venta en tienda,fig_577,1
+497864510,10,726.22,Boleta de Venta,3601753,,2023-07-17,64.05,2260.85,Pendiente,32684,gDPryceu,Cuadro Hand,726.22,58,Artículo Cuadro Hand en venta en tienda,fig_801,1
+784293803,71,764.74,Factura,2655769,,2017-08-04,22.27,62176.51,Cancelada,64218,Feerq3em,Galleta Effect,764.74,61,Artículo Galleta Effect en venta en tienda,fig_250,1
+848023393,80,833.95,Recibo,4445763,,2020-08-22,58.87,65415.59,Pendiente,40879,zKe71088,Perfume A,833.95,31,Artículo Perfume A en venta en tienda,fig_234,1
+241891176,77,810.54,Nota de Débito,2948968,,2020-02-15,59.5,87706.27,Reembolsada,82016,S0M5hZmF,Zapatos Senior,810.54,63,Artículo Zapatos Senior en venta en tienda,fig_133,1
+315723625,87,542.54,Nota de Crédito,4749596,,2018-04-11,26.32,85506.27,Pendiente,13750,HMQ3m4ZM,Bolígrafo Here,542.54,14,Artículo Bolígrafo Here en venta en tienda,fig_401,1
+211890036,72,825.88,Recibo,9107986,,2020-02-19,27.24,88759.63,Reembolsada,39582,xgrjwTgu,Vestido Enjoy,825.88,71,Artículo Vestido Enjoy en venta en tienda,fig_265,1
+319682426,71,175.32,Factura,7491999,,2023-11-15,69.14,1665.7,Pendiente,40879,Xfo8ostu,Maquillaje East,175.32,95,Artículo Maquillaje East en venta en tienda,fig_911,1
+163330030,53,175.32,Recibo,2437011,,2019-01-10,83.05,62059.03,Cancelada,40879,Xfo8ostu,Maquillaje East,175.32,95,Artículo Maquillaje East en venta en tienda,fig_911,1
+284925821,68,955.27,Recibo,1226655,,2021-08-19,57.16,91738.58,Pendiente,75369,yIoWqwvm,Portátil Drive,955.27,4,Artículo Portátil Drive en venta en tienda,fig_364,1
+132648844,68,433.08,Nota de Débito,6023050,,2021-09-11,69.85,13135.89,Pendiente,75369,Sqms7Z62,Portátil Report,433.08,64,Artículo Portátil Report en venta en tienda,fig_763,1
+924145619,97,428.62,Ticket de Venta,5322182,,2023-07-19,82.66,73434.34,Completada,39582,XqUFskvV,Pantalón Event,428.62,89,Artículo Pantalón Event en venta en tienda,fig_199,1
+903143381,50,162.9,Ticket de Venta,4221272,,2018-09-19,1.19,96405.06,Pendiente,75369,E9D0xd9V,Teléfono Board,162.9,27,Artículo Teléfono Board en venta en tienda,fig_837,1
