@@ -9,6 +9,7 @@ El proyecto consistió en la creación de una Base de Datos en AWS desde Python,
 - El primer notebook se llama [Creacion_BD.ipynb](https://github.com/luistunag/Proyecto_Final/blob/main/Creacion_DB.ipynb) que contiene el código necesario para crear y llenar la Base de Datos.
 - El segundo notebook se llama [Data_Warehouse.ipynb](https://github.com/luistunag/Proyecto_Final/blob/main/Data_Warehouse.ipynb) que contiene la creación del Data Warehouse.
 - El tercer notebook se llama [Preguntas_de_Negocio.ipynb](https://github.com/luistunag/Proyecto_Final/blob/main/Preguntas_de_Negocio.ipynb) en el que se plantean las 5 preguntas de negocio y se dan las respectivas respuestas.
+- El archivo [sql_queries.py](https://github.com/luistunag/Proyecto_Final/blob/main/sql_queries.py) contiene el DDL de la Base de Datos.
 
 
 ## Video
