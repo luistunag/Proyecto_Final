@@ -13,4 +13,4 @@ El proyecto consistió en la creación de una Base de Datos en AWS desde Python,
 
 ## Video
 
-El video explicativo del presente proyecto se encuentra en [Video](https://youtu.be/hrtkrOHaBCo) (Perdón, no pude hacer un video menor a 12 minutos.)
+El video explicativo del presente proyecto se encuentra en este [enlace](https://youtu.be/hrtkrOHaBCo) (Perdón, no pude hacer un video menor a 12 minutos.)
